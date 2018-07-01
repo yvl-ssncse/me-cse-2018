@@ -1,0 +1,57 @@
+* WEB APPLICATION DEVELOPMENT
+:properties:
+:author: B Prabavathy, V S Felix Enigo
+:date: 29 June 2018										
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|2|4|
+
+** Course Objectives
+- To understand the concepts of web application development
+- To learn web application development using javascript based frameworks 
+
+{{{unit}}}
+|Unit I| Introduction |12|
+Web Essentials: Web clients, web servers, communication protocol, HTTP
+request and response message -- HTML -- CSS -- Javascript: Built-in
+objects and event handling -- Servlets: Architecture, servlet life
+cycle, GET and POST requests, database connectivity Programs
+1. Create a website using HTML and CSS
+2. Write a script to demonstrate the use of events
+
+{{{unit}}}
+|Unit II| Client Side Framework|12|
+Introduction to AngularJS -- Anatomy of AngularJS Application -- Data
+binding -- Model -- Module -- View -- Controller -- Expressions --
+Scope -- Table -- Select -- Form -- Validation -- DOM -- Event --
+Directives Programs
+1. Develop online exam web application using AngularJS 
+
+{{{unit}}}
+|Unit II| Server Side Framework|12|
+Introduction to NodeJS -- Event Loop -- Patterns -- Core APIs --  EventEmitter -- Callback syntax – Streams -- File system -- Buffers -- Helper APIs -- Data Access -- NoSQL and Document stores -- MongoDB Programs
+Programs
+1. Develop online banking web application using NodeJS
+
+{{{unit}}}
+|Unit IV| Django Basics|12|
+Python for Django :  Python basics – Standard types – Flowcontrol – Exception handling – Files – Functions – Object oriented programming – Regular expressions; Building a blog: Creating a project – Running the development server – Designing the model – Setting up the database; Dynamic website basics – MVC – Django architecture -  Defining and using the models: ORM – URL configurations – Modelling HTTP – Views/Logics - Templates and form processing.
+
+{{{unit}}}
+|Unit V|Advanced Django |12|
+Django applications: Photo gallery – Content management system – Liveblog;  Advanced Django programming: Customizing the admin – Syndication – Generating downloadable files – Enhancing Django’s ORM – Extending the template system; Advanced Django deployment.
+
+\hfill *Total: 60*
+
+** Course Outcomes:
+After the completion of this course, students will be able to:
+- Create website using HTML and CSS (K3)
+- Develop web application using script based  frameworks (K3)
+
+** References
+1. Jeffrey C, Jackson, ``Web Technologies A Computer Science Perspective'', Pearson Education, 2011. (unit I)
+2. Brad Green, Shyam Seshadri, ``AngularJS'', First Edition, O’Reilly Media, Inc., 2013. (unit II)
+3. Tom Hughes-Crouchers, Mike Wilson, ``Node: Up and Running'', First Edition, O’Reilly Media, Inc., 2012. (unit III)
+4. Jeff forcier, Paul bissex, Weley chun, ``Python web development with Django'', Addison-Wesley professional, 2008. (unit IV, V)

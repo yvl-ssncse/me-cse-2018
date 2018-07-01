@@ -1,0 +1,83 @@
+* MOBILE AND PERVASIVE COMPUTING  
+:properties:
+:author: V. S. Felix Enigo, A. Beulah
+:date: 27 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To learn the basic architecture and concepts till Third Generation Communication systems. 
+- To understand the latest 4G Telecommunication System Principles
+- To introduce the broad perspective of pervasive concepts and management
+- To explore the HCI in Pervasive environment
+- To apply the pervasive concepts in mobile environment
+
+{{{unit}}}
+|Unit I |Introduction|9| 		
+History; Wireless communications: GSM -- DECT -- TETRA -- UMTS --
+IMT-2000 -- Blue tooth, WiFi, WiMAX, 3G, WATM -- Mobile IP protocols
+-- WAP push architecture -- WML scripts and applications; Data
+networks: SMS -- GPRS -- EDGE -- Hybrid Wireless100 Networks -- ATM --
+Wireless ATM. (K2)
+
+{{{unit}}}
+|Unit II|OVERVIEW OF A MODERN 4G TELECOMMUNICATIONS SYSTEM |9| 
+Introduction -- LTE-A System Architecture: LTE RAN -- OFDM Air
+Interface -- Evolved Packet Core -- LTE Requirements; LTE-Advanced :
+LTE-A in Release; OFDMA: Introduction -- OFDM Principles -- LTE
+Uplink-- SC-FDMA -- Summary of OFDMA (K2)
+
+
+{{{unit}}}
+|Unit III|PERVASIVE COMPUTING CONCEPTS AND ELEMENTS|9| 
+Perspectives of Pervasive Computing -- Challenges -- Technology --
+Infrastructure and Devices -- Middleware for Pervasive Computing
+Systems -- Pervasive Computing Environments -- Context Collection and
+Wireless Sensor Networks -- User Tracking -- Context Reasoning (K2)
+
+{{{unit}}}
+|Unit IV|HUMAN COMPUTER INTERFACE IN PERVASIVE ENVIRONMENTS |9| 
+HCI Service and Interaction Migration -- Context Driven HCI Service
+Selection -- Interaction Service Selection Overview -- User Devices --
+Service-Oriented Middleware Support -- User History and Preference --
+Context Manager -- Local Service Matching -- Global Combination
+Selection -- Effective Region -- User Active Scope -- Service
+Combination Selection Algorithm -- A web based HCI migration
+framework.  (K3)
+
+{{{unit}}}
+|Unit V|PERVASIVE MOBILE TRANSACTION |9|
+Introduction to Pervasive Transactions -- Mobile Transaction Framework
+-- Context-Aware Pervasive Transaction Model -- Dynamic Transaction
+Management -- Formal Transaction Verification (K3)
+
+
+\hfill *Total: 45*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Understand the Basic architecture and concepts of till Third Generation Communication systems
+- Explain the latest 4G Telecommunication System Principles
+- Incorporate the pervasive concepts.
+- Implement the HCI in Pervasive environment.
+- Work on the pervasive concepts in mobile environment.
+
+      
+** References
+1. Alan Colman, Jun Han, and Muhammad Ashad Kabir, ``Pervasive Social
+   Computing Socially-Aware Pervasive Systems and Mobile
+   Applications'', Springer, 2016.
+2. J. Schiller, ``Mobile Communication'', Addison Wesley, 2000.
+3. Juha Korhonen, ``Introduction to 4G Mobile Communications'' ,
+   Artech House Publishers, 2014
+4. Kolomvatsos, Kostas, ``Intelligent Technologies and Techniques for
+   Pervasive Computing'', IGI Global, 2013.
+5. M. Bala Krishna, Jaime Lloret Mauri, ``Advances in Mobile Computing
+   and Communications: Perspectives and Emerging Trends in 5G
+   Networks'', CRC 2016
+6. Minyi Guo, Jingyu Zhou, Feilong Tang, Yao Shen, ``Pervasive
+   Computing: Concepts, Technologies and Applications '', CRC Press,
+   2016

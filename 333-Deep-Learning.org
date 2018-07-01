@@ -1,0 +1,82 @@
+* DEEP LEARNING
+:properties:
+:author: B Senthil Kumar, M Saritha
+:date: 29 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the basics of deep neural networks
+- To understand CNN and RNN architectures of deep neural networks
+- To comprehend the advanced deep learning models
+- To learn deep learning algorithms and their applications to solve real world problems
+
+{{{unit}}}
+|Unit I|Deep Networks Basics|9| 
+Linear Algebra: Scalars -- Vectors -- Matrices and tensors;
+Probability Distributions -- Gradient-based Optimization -- Machine
+Learning Basics: Capacity -- Overfitting and underfitting --
+Hyperparameters and validation sets -- Estimators -- Bias and variance
+-- Stochastic gradient descent -- Challenges motivating deep learning;
+Deep Networks: Deep feedforward networks; Regularization --
+Optimization
+
+{{{unit}}}
+|Unit II|Convolutional Neural Networks|9| 
+Convolution Operation -- Sparse Interactions -- Parameter Sharing --
+Equivariance -- Pooling -- Convolution Variants: Strided -- Tiled --
+Transposed and dilated convolutions; CNN Learning: Nonlinearity
+Functions -- Loss Functions -- Regularization -- Optimizers --
+Gradient Computation -- CNN through Visualization; CNN Architectures:
+LeNet -- AlexNet -- VGGnet -- ResNet -- ResNeXt
+
+{{{unit}}}
+|Unit III|Recurrent Neural Networks|9| 
+Unfolding Graphs -- RNN Design Patterns: Acceptor -- Encoder --
+Transducer; Gradient Computation -- Sequence Modeling Conditioned on
+Contexts -- Bidirectional RNN -- Sequence to Sequence RNN -- Deep
+Recurrent Networks -- Recursive Neural Networks -- Long Term
+Dependencies; Leaky Units: Skip connections and dropouts; Gated
+Architecture: LSTM -- Gated RNN
+
+{{{unit}}}
+|Unit IV|Autoencoders and Generative Models|9| 
+Autoencoders: Undercomplete autoencoders -- Regularized autoencoders
+-- Stochastic encoders and decoders -- Learning with autoencoders;
+Representation Learning: Unsupervised pretraining -- Transfer learning
+and domain adaptation; Deep Generative Models: Variational
+autoencoders -- Generative adversial networks
+
+{{{unit}}}
+|Unit V|Deep Learning with TensorFlow|9|
+TensorFlow: Basics -- Optimizers -- XOR implemetation -- Multi-class
+classification; CNN: Components of CNN -- Backpropagation -- Dropout
+layer -- Digit recognition -- Solving real-world problems; NLP Using
+RNN: Word2Vec -- Next-word prediction and Sentence completion.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Understand basics in deep neural networks (K2)
+- Apply Convolution Neural Network for real-world problems in image processing (K3)
+- Apply Recurrent Neural Network and its variants for text analysis (K3)
+- Understand the concepts in autoencoders and generative models (K2)
+
+** References
+1. Ian Goodfellow, Yoshua Bengio, Aaron Courville, ``Deep Learning'',
+   MIT Press, 2016.
+2. Salman Khan, Hossein Rahmani, Syed Afaq Ali Shah, Mohammed
+   Bennamoun, ``A Guide to Convolutional Neural Networks for Computer
+   Vision'', Synthesis Lectures on Computer Vision, Morgan & Claypool
+   publishers, 2018.
+3. Yoav Goldberg, ``Neural Network Methods for Natural Language
+   Processing'', Synthesis Lectures on Human Language Technologies,
+   Morgan & Claypool publishers, 2017.
+4. Santanu Pattanayak, ``Pro Deep Learning with TensorFlow: A
+   Mathematical Approach to Advanced Artificial Intelligence in
+   Python'', Apress, 2017.
+

@@ -1,0 +1,39 @@
+* DATA ANALYTICS LABORATORY
+:properties:
+:author: S Rajalakshmi, R Priyadharsini
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|0|0|4|2|
+
+** Course Objectives
+- To implement Map Reduce programs for processing big data
+- To realize storage of big data using Hbase, MongoDB
+- To analyse big data using linear models
+- To analyse big data using machine learning techniques for classification and clustering
+
+** Suggestive Experiments
+*** Hadoop 
+1. Applications using Map Reduce programming ( Examples : word count / frequency programs / matrix multiplication)
+2. Implement an MR program that processes a dataset
+
+*** R
+3. Linear and logistic Regression (Loan prediction using Credit approval dataset, Sales prediction using Bigmart dataset)
+4. Implement SVM / Decision tree classification techniques (Flower type classification based on available attributes using Iris dataset, Passengers survival classification using titanic dataset)
+5. Implement multilayer perceptron (Hand written digit classification using neural network)
+6. Implement clustering techniques (Document categorization by multiclass techniques)
+7. Visualize data using any plotting framework
+
+*** Database
+8. Application that stores data in Hbase / MongoDB (Sentiment analysis using twitter dataset)
+
+\hfill *Total: 60*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Process big data using Hadoop framework (K3)
+- Build and apply linear and logistic regression models (K3)
+- Examine data analysis with machine learning methods (K4)
+- Analyze data using visualization techniques (K4)

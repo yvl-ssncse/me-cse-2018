@@ -1,0 +1,84 @@
+* REAL TIME SYSTEMS 
+:properties:
+:author: H Shahul Hamead, S Lakshmi Priya
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To learn real time operating system concepts, the associated issues & Techniques.
+- To understand design and synchronization problems in Real Time System.
+- To learn how communication is done in real time systems
+- To explore the concepts of real time databases.
+- To understand the evaluation techniques present in Real Time System. 
+
+{{{unit}}}
+|Unit I|Real Time System And Scheduling|9| 
+Introduction -- Structure of a real time system -- Task classes --
+Performance measures for real time systems -- Estimating program run
+times -- Issues in real time computing -- Task assignment and
+scheduling --Classical uniprocessor scheduling algorithms -- Fault
+tolerant scheduling.
+
+{{{unit}}}
+|Unit II|Intertask Communication and Memory Management|9| 
+Buffering data -- Time relative buffering -- Ring buffers; Mailboxes
+--Queues -- Critical regions -- Semaphores -- Other Synchronization
+mechanisms -- Deadlock -- Priority inversion -- Process stack
+management --Run time ring buffer -- Maximum stack size -- Multiple
+stack arrangement -- Memory management in task control block --
+Swapping -- Overlays -- Block page management -- Replacement
+algorithms -- Memory locking -- Working sets -- Real time garbage
+collection -- Contiguous file systems.
+
+{{{unit}}}
+|Unit III|Real Time Communication|9| 
+Basic concepts -- Real time communication in a LAN -- Soft and hard
+real time communication in a LAN -- Bounded access protocol -- Real
+time communication over internet -- Routing -- Multicast routing --
+Resource reservation -- Traffic shaping and policing -- Scheduling
+mechanisms
+
+{{{unit}}}
+|Unit IV|Real Time Databases|9| 
+Real Time Databases: Basic definition -- Real time vs general purpose
+databases -- Main memory databases; Transaction priorities --
+Transaction aborts -- Concurrency control issues; Disk Scheduling
+Algorithms -- Two– phase approach to improve predictability --
+Maintaining Serialization consistency -- Databases for hard real time
+systems.
+
+{{{unit}}}
+|Unit V|Evaluation Techniques and Clock Synchronization|9|
+Reliability Evaluation Techniques: Obtaining parameter values --
+Reliability models for hardware redundancy -- Software error models;
+Clock Synchronization: Clock, A Nonfault–tolerant synchronization
+algorithm -- Impact of faults -- Fault tolerant synchronization in
+hardware -- Fault tolerant synchronization in software.
+|Total:|45|
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Apply principles of real time system design techniques to develop real time applications.(K3)
+- Demonstrate communication and memory management principles between real time tasks (K3)
+- Apply network communication principles in real time systems. (K3)
+- Apply database concepts in real time applications. (K3)
+- Employ evaluation techniques for any real time application.(K3)
+      
+** References
+1. C.M. Krishna, Kang G. Shin, ``Real-Time Systems'', McGraw-Hill
+   International Editions, 2010. (Units 1,4,5)
+2. Phillip.A.Laplante,Seppo J Ovaska, ``Real-Time System Design and
+   Analysis: Tools for the Practitioner'', Wiley, 4th Edition, 2013 (
+   Unit 2)
+3. Rajib Mall, ``Real-time systems: theory and practice'', Pearson
+   Education, 2009. (Unit 3)
+4. R.J.A Buhur, D.L Bailey, ``An Introduction to Real-Time Systems'',
+   Prentice Hall International, 1999
+5. Stuart Bennett, ``Real Time Computer Control - An Introduction'',
+   Prentice Hall of India, 1998
+6. Allen Burns, Andy Wellings, ``Real Time Systems and Programming
+   Languages'', Pearson Education, 2003.

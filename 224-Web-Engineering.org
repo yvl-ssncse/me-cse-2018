@@ -1,0 +1,69 @@
+* WEB ENGINEERING
+:properties:									
+:author: B Prabavathy, S Manisha
+:date: 26 June 2018		
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+								
+** Course Objectives
+- Understand web engineering principles for web application development
+- Learn to architect and model web applications 
+- Design web application using design methods
+- Learn various testing methods and understand web project management
+
+{{{unit}}}
+|Unit I|Introduction to Web Engineering|9|
+Web Engineering –- Motivation -– Categories of Web Applications –-
+Characteristics of Web Applications –- Requirement Specifics in web
+engineering -- Web engineering: Components; Process; Communication and
+Planning
+
+{{{unit}}}
+|Unit II| Web Application Architecture and Modeling Web Applications  |9|
+Inroduction -- Categorizing architectures -- Specifics of Web
+application architectures -- Components of generic web application
+architecture -– Layered and Data-aspect architectures -- Modeling
+specifics in web engineering –- Modeling: Requirements; Content;
+Hypertext; Presentation and Customization -– Modeling Frameworks --
+Modeling Languages -- Analysis modeling of web apps: Content;
+Interaction and Configuration models
+
+{{{unit}}}
+|Unit III|Web Application Design|9|
+Design for web apps -- Goals -- Design Process -- Interactive Design:
+Principles and Guidelines; Workflow; Preliminaries; Design Steps;
+Usability and Issues -- Design: Information; Navigation; Functional
+and Presentation
+
+{{{unit}}}
+|Unit IV|Testing Web Applications|9|
+Testing fundamentals -– Test specifics in Web Engineering -– Test
+Approaches -– Testing web Apps -- Test schemes -– Test methods and
+techniques –- Test automation
+
+{{{unit}}}
+|Unit V|Promoting Web Applications and web project management|9|
+Operation and maintenance of web applications: Introduction;
+Challenges in launching the web application; Promoting web
+application; Content Management; Usage Analysis -- Web project
+management -- Usability of web application -- Performance of web
+application
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Understand web engineering concepts                                (K2)
+- Compare different web application architectures and models	     (K4)
+- Apply design technique to develop web applications		     (K3)	
+- Compare various testing approaches				     (K4)
+- Apply guidelines to manage web applications			     (K3)
+	
+** References
+1. Gerti Kappel, Birgit Proll, ``Web Engineering'', John Wiley and Sons Ltd, 2006. (unit I,II,III,IV,V)
+2. Roger S. Pressman, David Lowe, ``Web Engineering'', Tata McGraw Hill Publication, 2007. (unit I,II,III,IV)
+3. Gustavo Rossi, Oscar Pastor, Daniel Schwabe, Luis Olsina, ``Web Engineering: Modelling and Implementing Web Applications'', Springer, 2007. (unit II, III)
+4. San Murugesan, Yogesh Deshpande, ``Web Engineering: Managing Diversity and Complexity of Web Application Development'', Springer, 2001. (unit IV, V)

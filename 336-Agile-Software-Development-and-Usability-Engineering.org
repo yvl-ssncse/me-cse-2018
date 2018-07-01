@@ -1,0 +1,87 @@
+* AGILE SOFTWARE DEVELOPMENT AND USABILITY ENGINEERING
+:properties:
+:author: A.Chamundeswari, K. ValliDevi
+:date: 26 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|4|0|0|4|
+
+** Course Objectives
+- This course describes the agile software development practices
+  followed in software organization.
+- It introduces the various software development methods followed in
+  the industry emphasizing Scrum, Extreme Programming, Lean, Kanban,
+  Dynamic Systems Development Method, and Feature-Driven Development.
+- The Scrum methods promote teamwork, to release a product.
+- User stories based techniques was also covered in this course.
+- Various empirical validation was also included to measure the team
+  performance.
+- The testing process in agile was also added to demonstrate the
+  testing related activities.
+- Selecting and applying the usability design for the various types of
+  projects was also included in this course as part of usability
+  engineering.
+
+{{{unit}}}
+|Unit I |Software Development|12| 
+Agile Development Methods Overview -- Lean Software Development --
+Scrum Introduction -- The Scrum practices -- eXtreme Programming (XP)
+Introduction -- eXtreme Programming (XP), Practices -- Kanban --
+Dynamic Systems Development Method -- Feature Driven Development.
+
+{{{unit}}}
+|Unit II|Scrum|12| 
+SCRUM -- organization -- estimation -- planning -- changes in scrum --
+risk in scrum -- product backlog -- sprint backlog -- release -
+Requirements Specification using User Stories - Identifying Stories
+and Preparing to Build.
+
+{{{unit}}}
+|Unit III|Assessment and Testing|12| 
+Empirical Validation - Assessment of team performance - Test and
+evaluation - Integrated prediction model - Designing the System
+Tests - Units and Their Tests.
+
+{{{unit}}}
+|Unit IV|Interaction Design |12| 
+Planning and Designing Product Behavior - Implementation Models and
+Mental Models - Constructing Personas - The Requirements Definition
+Process - Designing the Product: Framework and Refinement- Interaction
+Design Principles - Orchestration and Flow
+
+{{{unit}}}
+|Unit V|Visual Design|12|
+Integrating Visual Design - Designing for the Desktop - Designing for
+Mobile and Other Devices - Designing for the Web.
+
+\hfill *Total: 60*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Explore the various software development methods in
+  Agile. Principles followed in each methods will be learnt.
+- Applicability of scrum method in developing a team project. 
+- Assessment of team performance in developing a project.
+- Learn the various usability engineering models followed in the industry. 
+- Flow of the usability design in a project. 
+- Apply the usability engineering principles in various types of projects. 
+      
+** References
+1. The Design of Everyday Things, Don Norman.
+2. Running an Agile Software Development Project, Mike Holcombe,
+   University of Sheffield, United Kingdom, John Wiley & Sons, Inc.,
+   Hoboken, New Jersey, 2008.
+3. Agile Software Development Teams by Christoph Schmidt, Springer
+   International Publishing Switzerland 2016.
+4. Agile Software Development Quality Assurance BY Ioannis G. Stamelos
+   AND Panagiotis Sfetsos, Idea Group Inc, 2007.
+5. A Guide to the Scrum Body of Knowledge (SBOK Guide) 2016 edition,
+   SCRUMstudy, Phoenix, Arizona 85008 USA
+6. Don't Make Me Think, Revisited: A Common Sense Approach to Web and
+   Mobile Usability (3rd Edition) Paperback by Steve Krug (Author),
+   3rd Edition
+7. About Face: The Essentials of Interaction Design by Alan Cooper,
+   Robert Reimann, David Cronin, Christopher Nooessel, 4th Edition,
+   John Wiley & Sons, 2014

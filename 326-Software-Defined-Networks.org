@@ -1,0 +1,69 @@
+* SOFTWARE DEFINED NETWORKING
+:properties:
+:author: S V Jansi Rani, N Sujaudeen
+:date: 27 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To learn about the concepts, basics of SDN and Openflow.
+- To understand SDN Controller and programming with SDN.
+- To learn about various data center and about Network Function Virtualization.
+- To study about Network Topology & SDN Framework.
+- To investigate on  various use cases using  SDN. 
+
+{{{unit}}}
+|Unit I |SDN  Plane Separation & Openflow|9| 
+Separation of Control Plane and Data Plane -- Distributed and
+centralized control plane -- OpenFlow protocol -- Hybrid Approaches.
+
+{{{unit}}}
+|Unit II| SDN Controller and Programming SDN |9| 
+SDN Controller: General Concepts -- Layer3 Centric -- Plexi --
+CiscoOnePK ; Programming in SDN : The Management Interface --
+Application-Network Divide -- Modern Orchestration
+
+{{{unit}}}
+|Unit III|Data Center & Network Function Virtualization|9| 
+Data Center: Multitenant Data Center -- Virtualised Multitenant Data
+Center -- SDN solution for Data Center -- VLAN -- NVGRE ; Network
+Function Virtualization: Virtualization and Data Plane I/O - Service
+Locations and Chaining - NFV at ETSI and Non-ETSI.
+
+
+{{{unit}}}
+|Unit IV| Network Topology & SDN Framework |9| 
+Network Topology: Traditional methods, LLDP, BGP - TE/LS, ALTO, I2RS
+Topology; SDN Framework: Juniper SDN framework -- IETF SDN Frameworks
+-- Open Daylight Controller Framework.
+
+{{{unit}}}
+|Unit V|Use Cases|9|
+Use cases for bandwidth scheduling -- manipulation and calendaring --
+Use Cases for Data Center Overlays -- Big Data -- and Network Function
+Virtualization -- Input traffic classification and triggered actions
+
+\hfill *Total: 45*
+
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Understand the concepts, basics of SDN and Openflow(K2)
+- Understand SDN Controller and programming with SDN(K2)
+- Analyse various SDN solutions for data center and about Network Function Virtualization.(K3)
+- Design an SDN Framework(K2)
+- Analyse about various use cases in implementing SDN(K3)
+      
+** References
+1. Thomas D. Nadeau, ``SDN: Software Defined Networks, An
+   Authoritative Review of Network Programmability Technologies'',
+   Third Edition, Ken Gray Publisher: O'Reilly Media, 2013.
+2. Paul Goransson and Chuck Black, ``Software Defined Networks: A
+   Comprehensive Approach'', Morgan Kaufmann, 2014.
+3. Vivek Tiwari, ``SDN and OpenFlow for Beginners'' Amazon
+   Digital Services, Inc.,  2013.
+4. Fei Hu, ``Network Innovation through OpenFlow and SDN: Principles
+   and Design'', CRC Press, 2014.

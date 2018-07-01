@@ -1,0 +1,76 @@
+* PARALLEL PROGRAMMING 
+:properties:
+:author: DVV Prasad, K Lekshmi
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To familiarize the issues in parallel computing.
+- To describe distributed memory programming using MPI. 
+- To understand shared memory paradigm with Pthreads and with OpenMP.
+- To learn the GPU based parallel programming using OpenCL.
+ 
+{{{unit}}}
+|Unit I |Foundations of Parallel Programming|9| 
+Motivation for parallel programming -- Need Concurrency in computing; 
+Basics of processes -- multitasking -- threads; –- cache: cache mappings --
+caches and programs –- virtual memory –- Instruction level parallelism --
+hardware multi-threading; Parallel Hardware: SIMD –- MIMD –-
+Interconnection networks –- cache coherence –- Issues in shared
+memory model and distributed memory model; Parallel Software --
+Caveats -- coordinating processes/ threads -- hybrid model --
+shared memory model and distributed memory model; 
+I/O; Performance of parallel programs; parallel program design.
+
+
+{{{unit}}}
+|Unit II|Distibuted Memory Programming with MPI|9| 
+Basic MPI programming –- MPI_Init and MPI_Finalize –- MPI
+communicators -- SPMD programs -– MPI_Send and MPI_Recv –- message
+matching; MPI: I/O -- parallel I/O; Collective communication:
+Tree-structured communication -- MPI_Reduce –- MPI_Allreduce --
+broadcast -- scatter -- gather -- allgather; MPI derived types -
+dynamic process management; Performance evaluation of MPI programs; A
+Parallel Sorting Algorithm
+
+{{{unit}}}
+|Unit III|Shared Memory Paradigm: PThreads|9| 
+Basics of threads -- Pthreads –- Thread synchronization; Critical
+sections; Busy waiting; Mutex; Semaphores; Barriers and Condition
+Variables; Read-Write Locks with examples; Caches, cache coherence and
+false sharing; Thread safety; Pthreads case study.
+
+{{{unit}}}
+|Unit IV|Shared Memory Paradigm: OpenMP|9| 
+Basics OpenMP; Trapezoidal Rule; Scope of variables; Reduction clause;
+Parallel for directive; Loops in OpenMP; Scheduling loops; Producer
+Consumer problem; Cache issues; Threads safety in OpenMP; Two-body
+solvers; Tree Search
+
+{{{unit}}}
+|Unit V|Graphical Processing Paradigms: OpenCL and Introduction to CUDA|9|
+Introduction to OpenCL –- Example; OpenCL Platforms; Devices-Contexts;
+OpenCL programming: Built-In Functions -- Programs Object and Kernel
+Object -– Memory Objects Buffers and Images -- Event model -–
+Command-Queue -- Event Object -- Case study; Introduction to CUDA
+programming.
+
+|Total:|45|
+
+** Course Outcomes
+After the completion of this course, the students will be able to:
+- Identify issues in parallel programming (K2)
+- Develop distributed memory programs using MPI framework (K3)
+- Design and develop shared memory parallel programs using Pthreads and using OpenMP (K3)
+- Implement Graphical Processing OpenCL programs (K3)  
+      
+** References
+1. Peter S. Pacheco, ``An introduction to parallel programming'', Morgan Kaufmann, 2011.
+2. A. Munshi, B. Gaster, T. G. Mattson, J. Fung, and D. Ginsburg, ``OpenCL programming guide'', Addison Wesley, 2011  
+3. M. J. Quinn, ``Parallel programming in C with MPI and OpenMP'', Tata McGraw Hill, 2003. 
+4. Rob Farber, ``CUDA application design and development'', Morgan Haufmann, 2011.
+5. W. Gropp, E. Lusk, and A. Skjellum, ``Using MPI: Portable parallel programming with the message passing interface'', Second Edition, MIT Press, 1999.

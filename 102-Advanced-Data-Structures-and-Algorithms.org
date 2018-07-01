@@ -1,0 +1,73 @@
+* ADVANCED DATA STRUCTURES AND ALGORITHMS
+:properties:
+:author: S Kavitha, B Bharathi
+:date: 29 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|4|0|0|4|
+
+
+** Course Objectives
+- To understand the usage of algorithms in computing.
+- To learn and use hierarchical data structures and its operations.
+- To learn the usage of graphs and its applications.
+- To select and use data structures and algorithms that is appropriate for problems.
+- To study about NP hard and NP Completeness of problems. 
+
+{{{unit}}}
+|Unit I |Role of Algorithms in Computing|12| 
+Algorithms -- Analyzing algorithms -- Designing algorithms -- Growth of functions:
+Asymptotic notation  -- Standard notations and common functions;
+Recurrences: The substitution method --  The recursion-tree method --
+The master method for solving recurrences.
+
+{{{unit}}}
+|Unit II|Hierarchical Data Structures|13| 
+Binary search trees: Basics -- Querying a binary search tree --
+Insertion and deletion; Red-black trees: Properties of Red-black trees
+-- Rotations -- Insertion -- Deletion; B-Trees: Definition -- Basic
+operation on B-Trees; Fibonacci heaps: Structure -- Mergeable-heap
+operations -- Decreasing a key and deleting a node; Disjoint-set
+operations -- Disjoint-set forests.
+
+{{{unit}}}
+|Unit III|Graphs|12| 
+Elementary graph algorithms: Representations of graphs --
+Breadth-first search -- Depth-first search -- Topological sort --
+Strongly connected components; Single-source shortest paths: The
+Bellman-Ford algorithm; Single-source shortest paths in directed
+acyclic graphs -- Dijkstra's algorithm; All-pairs shortest paths: The
+Floyd-Warshall algorithm
+
+{{{unit}}}
+|Unit IV|Algorithm Design Techniques |13| 
+Greedy Algorithms: The job/event scheduling problem --
+Minimum-spanning-tree problem; Recursive Backtracking:Developing
+recursive backtracking algorithm -- Pruning branches -- N-queens
+problem; Developing a Dynamic Programming Algorithm -- Subtle points
+-- Decreasing Time and Space--The Longest-Common-Subsequence Problem.
+
+{{{unit}}}
+|Unit V|NP Complete and NP Hard|10|
+Reductions and NP -- Completeness -- Satisfiability -- Proving
+NP-Completeness -- 3-Coloring -- Bipartite Matching.
+
+\hfill *Total: 60*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Analyse the complexity of algorithms (K3)
+- Compare and choose suitable data structure to solve computing problems (K4)
+- Develop optimal algorithms using tree and graph data structure(K3)
+- Apply suitable design technique for problem solving(K4)
+- Identify the P and NP type problems(K2)
+      
+** References
+1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, ``Introduction to
+   Algorithms'', Third Edition, Prentice-Hall, 2012 
+2. Jeff Edmonds, ``How to Think about Algorithms'', Cambridge University Press, 2008 
+3. Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman, ``Data Structures and Algorithms'', Pearson Education, Reprint 2006.
+4. Robert Sedgewick and Kevin Wayne, ``Algorithms'', Fourth Edition, Pearson Education.
+5. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition, Oxford University Press. 2014

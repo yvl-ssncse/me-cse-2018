@@ -1,0 +1,81 @@
+* SOFTWARE ARCHITECTURES AND DESIGN 
+:properties:
+:author: K. Vallidevi
+:date: 29 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the need, design approaches for software architecture to bridge the dynamic requirements and implementation.
+- To learn the design principles and to apply for large scale systems. 
+- To design architectures for distributed heterogeneous systems, environment through brokerage interaction.
+- To build design knowledge on service oriented and model driven architectures and the aspect oriented architecture. 
+- To develop appropriate architectures for various Case studies like semantic web services, supply chain cloud services.
+
+{{{unit}}}
+|Unit I|Software Architecture Basics|10| 
+Introduction to Software Architecture -- Bridging Requirements and
+Implementation -- Design Guidelines : Software quality attributes --
+Software Architecture Design Space; Agile Approach to Software
+Architecture Design; Models for Software Architecture Description
+Languages (ADL).
+
+{{{unit}}}
+|Unit II|Software Architecture Design Principles|9| 
+Object-Oriented Paradigm; Design Principles -- Data centered software
+architecture -- Repository architecture -- Blackboard architecture;
+Hierarchical Architecture -- Main-subroutine --Master-slave -- Layered
+-- Virtual machine; Interaction Oriented Software Architectures:
+Model-View-Controller (MVC), Presentation-Abstraction-Control (PAC).
+
+{{{unit}}}
+|Unit III| Distributed Architecture and Adaptation|9| 
+Distributed Architecture: Client-Server, Middleware, Multi-tiers;
+Broker Architecture: MOM -- CORBA -- Message Broker Architecture -
+Service-Oriented Architecture (SOA): SOAP -- UDDI -- Grid/cloud
+service computing; Heterogeneous Architecture: Methodology of
+architecture decision, Quality attributes; Conceptual Framework For
+Architectural Adaptation: Techniques for supporting architecture
+centric change; The World Wide Web: A Case Study in Interoperability
+
+{{{unit}}}
+|Unit IV|Software Product Line Architecture|9| 
+Architecture of User Interfaces Containers -- Case study -- Web
+service; Product Line Architectures: Methodologies -- Processes and
+tools; Software Reuse and Product Lines: Product line analysis --
+Design and implementation -- Configuration models; Model Driven
+Architectures (MDA): Why MDA -- Model transformation and software
+architecture -- SOA and MDA -- Eclipse modelling framework.
+
+{{{unit}}}
+|Unit V|Aspect Oriented Architecture|9|
+Aspect Oriented Architectures: AOP in UML -- AOP tools --
+Architectural aspects and middleware selection of architectures;
+Evaluation of Architecture Designs; Case Study: Online computer vendor
+-- Order processing -- Manufacture & shipping - Inventory --
+Supply chain cloud service management; Semantic Web Services.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Understand the need of software architecture for sustainable dynamic
+  systems and adapt to the system according to the need.
+- Have a sound knowledge on design principles and to apply for large scale systems
+- Design architectures for distributed heterogeneous systems
+- Have good knowledge on service oriented and model driven architectures and the aspect oriented architecture.
+- Have a working knowledge to develop appropriate architectures through various case studies.
+
+** References
+1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011.
+2. Software Architecture Design Illuminated, Kai Qian Jones and Bartlett Publishers Canada, 2010.
+3. David Budgen, ``Software Design'', Second Edition, Pearson Education, 2004.
+4. Len Bass, Paul Clements, Rick Kazman, ``Software Architecture in
+   Practice'', Third Edition, Addison, Wesley, 2012.
+5. Mary Shaw and David Garlan, Software Architecture Perspectives
+   on an emerging discipline, Pearson education, 2008.
+6. Richard N. Taylor, Nenad Medvidovic and Eric M. Dashofy, ``Software
+   Architecture, Foundations, Theory and Practice'', Wiley 2010.

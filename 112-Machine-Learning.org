@@ -1,0 +1,46 @@
+* MACHINE LEARNING LAB 
+:properties:
+:author: S Rajalakshmi, B Senthil Kumar
+:date: 26 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|0|0|4|2|
+
+** Course Objectives
+- To apply and analyze the appropriate machine learning strategy for any given problem 
+- To have a thorough understanding of the supervised and unsupervised learning techniques 
+- To interpret the various probability based learning techniques and feature selection methods 
+
+** List of Exercises
+1. Working with Python packages - Numpy, Scipy, Scikit-learn, Matplotlib
+2. Implementation of Perceptron and Linear Regression.
+3. Demonstration of Perceptron and Linear Regression on any dataset and illustrate the 2D plot of the technique. 
+4. Implementation of MultiLayer Perceptron (single hidden layer) for classification and regression.
+5. Analyze the MLP network by tuning the parameters such as number of hidden layers, activation functions, learning rate, optimization etc.,
+6. Classification of Email spam and MNIST data using Support Vector Machines.
+7. Implement ID3 algorithm for Decision Tree using iris dataset.
+8. Demonstration of Random Forest and AdaBoost ensemble techniques.
+9. Implement K-means clustering for Euclidean distance metric. #+latex: % Illustrate the clustering using 2D plots.
+10. Implementation of k-Nearest Neighbor algorithm.
+11. Demonstration of Gaussian Mixture Model.
+12. Demonstration of dimensionality reduction techniques on any dataset.
+13. Miniproject: Analyze any two supervised / unsupervised machine
+    learning algorithms for any of the following real-time
+    applications:
+    1. Text processing
+    2. Image processing
+    3. IoT systems
+
+\begin{comment}
+Students will implement some algorithms in python language. Other exercises can be done using built-in packages. 
+\end{comment}
+
+\hfill *Total: 60*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Analyze the real world problems using supervised learning techniques(K4)
+- Examine the working of clustering and ensemble techniques (K4)
+- Demonstrate the working of probabilistic models and dimensionality reduction methods (K3)

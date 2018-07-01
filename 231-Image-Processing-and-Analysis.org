@@ -1,0 +1,80 @@
+* IMAGE PROCESSING AND ANALYSIS
+:properties:
+:author: R Priyadharsini, S Manisha
+:date: 26 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the basics of digital images.
+- To understand the spatial and frequency domain processing.
+- To learn basic image analysis - segmentation and feature detection.
+- To understand color image processing and image compression techniques.
+- To appreciate the use of image processing in various applications.
+
+{{{unit}}}
+|Unit I | Fundamentals of Image Processing |8| 
+Introduction -- Elements of visual perception -- Steps in Image
+Processing Systems -- Image Acquisition -- Sampling and Quantization
+-- Pixel Relationships -- Image Modalities -- File Formats -- Image
+Operations: Arithmetic; Logical; Statistical and Spatial operations
+
+{{{unit}}}
+|Unit II| Image Enhancement and Restoration |10| 
+Spatial Domain processing: Filtering operations; Histograms; Smoothing
+filters; Sharpening filters; Fuzzy techniques; Noise models; Filters
+for noise removal Frequency Domain processing: Fourier Transform --
+DFT and FFT; Filtering operations; Smoothing and Sharpening --
+Selective filters; Filters for noise removal; Homomorphic filtering
+Restoration: Model of Image Degradation/Restoration Process, Noise
+Models
+
+{{{unit}}}
+|Unit III| Image Segmentation and Feature Analysis |10| 
+Thresholding techniques: Region growing; splitting and merging;
+Adaptive -- Otsu method Edge detection: Template matching; Gradient
+operation; Hysterisis Thresholding -- Canny operator -- Laplacian
+operator; Image morphology -- Binary and Gray Level morphology
+operations -- erosion; dilation -- opening-- closing operations --
+Morphological watersheds; Features -- Corner and interest point
+detection -- boundary representation and detections -- texture
+descriptors -- regional descriptors and feature selection techniques
+
+{{{unit}}}
+|Unit IV| Multi Resolution Analysis, Color Images and Image Compressions  |9| 
+Multi Resolution Analysis: Image Pyramids -- Multi resolution
+expansion -- Wavelet Transforms; Fast Wavelet transforms; Wavelet
+Packets Image Compression: Fundamentals -- Models -- Error Free
+Compression --Lossy Compression -- Compression Standards --
+Watermarking Color Images: Color Models; Smoothing and Sharpening --
+Segmentation based on Color -- Noise in Color Images
+
+{{{unit}}}
+|Unit V| CASE STUDIES IN IMAGE PROCESSING|8|
+Image Recognition : Fingerprint Recognition -- Image Classification :
+Tumor classification from Medical Image -- Image Understanding: CBIR
+-- Image Fusion: Statellite image enhancement -- Object tracking:
+Surveillance applications -- Image Steganography: Image hiding in
+Multimedia
+
+\hfill *Total: 45*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Design and implement enhancement and segmentation algorithms for image processing application. (K4)
+- Perform analysis using various image features. (K3)
+- Analyze the multi resolution techniques and methods used for color images. (K3)
+- Make a positive professional contribution in the field of Digital Image Processing. (K4)
+      
+** References
+1. Rafael C.Gonzalez, Richard E.Woods, ``Digital Image Processing'',
+   Third Edition, Pearson Education, 2008. (units I, II, III, IV)
+2. Anil K.Jain, ``Fundamentals of Digital Image Processing'',
+   PHI, 2006.
+3. Rafael C.Gonzalez, Richard E.Woods, Eddins, ``Digital Image
+   Processing Using MATLAB'', Second Edition, Tata McGraw-Hill, 2009.
+4. Davis, E. R. ``Machine Vision'' Second Edition. (1997).
+

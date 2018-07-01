@@ -1,0 +1,85 @@
+* DATA VISUALIZATION TECHNIQUES 
+:properties:
+:author: M Saritha, S Lakshmi Priya
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To develop skills to both design and critique visualizations.
+- To introduce visual perception and core skills for visual analysis.
+- To understand visualization for time-series, ranking analysis and deviation analysis. 
+- To understand visualization for distribution analysis, correlation analysis and multivariate analysis. 
+- To understand issues and best practices in information dashboard design. 
+
+{{{unit}}}
+|Unit I|Core Skills for Visual Analysis|9| 
+Information Visualization -- Effective Data Analysis -- Traits of
+Meaningful Data -- Visual Perception -- Making Abstract Data Visible
+-- Building Blocks of Information Visualization -- Analytical
+Interaction -- Analytical Navigation -- Optimal Quantitative Scales --
+Reference Lines and Regions -- Trellises and Crosstabs -- Multiple
+Concurrent Views -- Focus and Context -- Details on Demand --
+Over-plotting reduction -- Analytical Patterns: Pattern examples
+
+{{{unit}}}
+|Unit II|Time-Series, Ranking, and Deviation Analysis|9| 
+Time-series Analysis: Time-series patterns -- Time-series displays --
+Time-series analysis techniques and best practices; Part-to-whole and
+Ranking Analysis: Part-to-whole and ranking patterns -- Part-to-whole
+and ranking displays -- Part-to-whole and ranking techniques and best
+practices; Deviation Analysis: Deviation analysis displays --
+Deviation analysis techniques and best practices
+
+{{{unit}}}
+|Unit III|Distribution, Correlation, and Multivariate Analysis|9| 
+Distribution Analysis: Describing distributions -- Distribution
+patterns -- Distribution displays -- Distribution analysis techniques
+and best practices; Correlation Analysis: Describing correlations --
+Correlation patterns -- Correlation displays -- Correlation analysis
+techniques and best practices; Multivariate Analysis: Multivariate
+patterns -- Multivariate displays -- Multivariate analysis techniques
+and best practices
+
+{{{unit}}}
+|Unit IV|Information Dashboard Design|9| 
+Information Dashboard: Clarifying the vision -- Thirteen common
+mistakes in dashboard design -- Tapping into the power of visual
+perception -- Eloquence through simplicity -- Effective dashboard
+display media -- Putting it all together; Dashboard design using Shiny
+
+{{{unit}}}
+|Unit V|Data Visualization Tools|9|
+Tableau: Introducing the tableau desktop workspace -- Connecting to
+your data -- Building your first visualization -- Creating a standard
+map view -- Ploting your own locations on a map -- Building your first
+advanced dashboard
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Recognize core skills for visual analysis (K2)
+- Apply visualization techniques for various data analysis tasks (K3)
+- Employ information dashboard design techniques (K3)
+- Use different tools to better visualize data (K3)
+      
+** References
+1. Stephen Few, ``Now you see it: Simple Visualization techniques for
+   quantitative analysis'', Analytics Press, 2009. (units I, II, III)
+2. Stephen Few, ``Information dashboard design: Displaying data for
+   at-a-glance monitoring'', second edition, Analytics
+   Press, 2013. (unit IV)
+3. Daniel G Murray, ``Tableau your data!: Fast and easy visula analysis
+   with Tableau software'', second edition, Wiley, 2016. (unit V)
+4. Ben Fry, ``Visualizing data: Exploring and explaining data with the
+   processing environment'', O'Reilly, 2008.
+5. Edward R. Tufte, ``The visual display of quantitative
+   information'', Second Edition, Graphics Press, 2001.
+6. Nathan Yau, ``Data Points: Visualization that means something'',
+   Wiley, 2013.
+7. Tamara Munzner, ``Visualization Analysis and Design'', AK Peters
+   Visualization Series, CRC Press, Nov. 2014

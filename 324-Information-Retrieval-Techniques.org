@@ -1,0 +1,75 @@
+* INFORMATION RETRIEVAL TECHNIQUES
+:properties:
+:author: D. Thenmozhi, G. Raghuraman
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the basics of information retrieval with pertinence to
+  modeling -- query operations and indexing
+- To get an understanding of machine learning techniques for text
+  classification and clustering
+- To understand the various applications of information retrieval
+  giving emphasis to multimedia IR -- web search and digital libraries
+- To explore various IR applications using case studies
+
+{{{unit}}}
+|Unit I|Introduction and Modeling|10| 
+Basic Concepts: Retrieval process -- Architecture -- Boolean
+retrieval; IR Models: Taxonomy and characterization of IR models --
+Classical IR models -- Alternative set theoretic models -- Alternative
+algebraic models; Models for Browsing; Retrieval Evaluation:
+Performance evaluation -- Reference collection
+
+{{{unit}}}
+|Unit II|Indexing and Querying|9| 
+Indexing: Inverted indices -- Suffix trees -- Suffix arrays --
+Compression; Querying: Query languages -- Query operations: Relevance
+feedback and query expansion - Automatic local and global analysis;
+Text Properties; Text Operations: Text preprocessing -- Text
+compression
+
+{{{unit}}}
+|Unit III|Searching|10| 
+Searching: Sequential searching -- Pattern matching; Searching the
+Web: Characteristizing the Web -- Search engines -- Browsing --
+Searching using hyperlinks
+
+{{{unit}}}
+|Unit IV|Classification and Clustering|9| 
+Text Classification: Naïve Bayes; Vector Space Classification: Rocchio
+-- k-Nearest Neighbour; Flat Clustering: K-Means -- Model-based
+clustering; Hierarchical Clustering; Matrix Decompositions and Latent
+Semantic Indexing
+
+{{{unit}}}
+|Unit V|Applications|8|
+XML Retrieval -- Multimedia IR -- Parallel and Distributed IR --
+Digital Libraries -- Social Media Retrieval -- Content-based Image
+Retrieval
+
+\hfill *Total: 45*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Describle vaious IR modeling techniques. (K2)
+- Identify and design the various components of an Information Retrieval system. (K3)
+- Apply machine learning techniques to text classification and clustering which is used for efficient Information Retrieval.  (K3)
+- Describe various IR applications. (K2)
+
+** References
+1. Ricardo Baeza-Yates, Berthier Ribeiro Neto, ``Modern Information
+   Retrieval: The concepts and Technology behind Search'', ACM Press
+   Books, Second Edition, 2011.
+2. Christopher D. Manning, Prabhakar Raghavan, Hinrich Schutze,
+   ``Introduction to Information Retrieval'', Cambridge University
+   Press, First South Asian Edition, 2008.
+3. Stefan Buttcher, Charles L. A. Clarke, Gordon V. Cormack,
+   ``Information Retrieval - Implementing and Evaluating Search
+   Engines'', The MIT Press, Cambridge, Massachusetts London, England,
+   2010
+

@@ -1,0 +1,42 @@
+* DATA STRUCTURES LABORATORY
+:properties:
+:author: S Kavitha, B Bharathi
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|0|0|4|2|
+
+** Course Objectives
+- To acquire the knowledge of using advanced tree and graph
+  structures.
+- To learn the need of heap and disjoint set representation.
+- To understand the concept of algorithm design techniques and
+  applying suitable technique for the given problem.
+
+** Suggested Programming Languages
+- C, Java or Python
+
+** Suggestive Exercises
+1. Application of Insertion sort and Merge Sort with complexity analysis 
+2. Application of Binary Search Tree 
+3. Red-Black Tree  
+4. Min Heap, Fibonacci Heap 
+5. Disjoint sets
+6. Application of Graph Traversals – BFS and DFS 
+7. Single source Shortest Path Algorithms - Dijkstra's and Bellman Ford Algorithms
+8. All – pairs Shortest Path Algorithms – Floyds algorithm
+9. Dynamic Programming (eg. Longest-Common-Subsequence Problem, 0/1 Knapsack problem)
+10. Recursive Backtracking (eg. N-queen’s problem)
+11. Greedy Technique (eg. Job/Event Scheduling Problem, Minimum-Spanning-Tree Problem)
+12. Mini project: For a given application, identify and solve using suitable data structure and design technique
+ 
+\hfill *Total: 60*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to:
+- Implement basic data structures sorting algorithms with analysis(K4)
+- Implement algorithms using tree and graph structures(K3)
+- Design and develop efficient algorithms for the given problems using algorithm design techniques(K3)
+

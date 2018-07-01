@@ -1,0 +1,72 @@
+* ADVANCED DATABASES 
+:properties:
+:author: P. Mirunalini, A. Beulah
+:date: 27 June 2018
+:end:
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** Course Objectives
+- To understand the design of databases. 
+- To acquire knowledge on parallel and distributed databases and its applications. 
+- To study the usage and applications of Object Oriented and Intelligent databases. 
+- To understand the emerging databases like Mobile, XML, Cloud and Big Data 
+
+{{{unit}}}
+|Unit I |PARALLEL AND DISTRIBUTED DATABASES|9| 		
+Database System Architectures: Centralized and Client-Server
+Architectures - Server System Architectures - Parallel Systems
+-- Distributed Systems; Parallel Databases: I/O Parallelism -
+Inter and Intra Query Parallelism - Inter and Intra operation
+Parallelism - Design of Parallel Systems; Distributed Database
+Concepts: Distributed Data Storage - Distributed Transactions
+- Commit Protocols - Concurrency Control - Distributed
+Query Processing; Three Tier Client Server Architecture; Case Studies
+
+{{{unit}}}
+|Unit II|INTELLIGENT DATABASES |9| 
+Active Databases: Syntax and Semantics (Starburst, Oracle, DB2) --
+Taxonomy- Applications -- Design Principles for Active Rules; Temporal
+Databases: Overview of Temporal Databases TSQL2 -- Deductive
+Databases--Recursive Queries in SQL; Spatial Databases: Spatial Data
+Types -- Spatial Relationships-- Spatial Data Structures--Spatial
+Access Methods-- Spatial DB Implementation.
+
+{{{unit}}}
+|Unit III|XML DATABASES |9| 
+XML Databases: XML Data Model - DTD - XML Schema - XML Querying -- Web
+Databases - Open Database Connectivity-- JDBC.
+
+{{{unit}}}
+|Unit IV|MOBILE DATABASES |9| 
+Mobile Databases: Location and Handoff Management -- Effect of
+Mobility on Data Management -- Location Dependent Data Distribution --
+Mobile Transaction Models --Concurrency Control -- Transaction Commit
+Protocols -- Mobile Database Recovery Schemes.
+
+{{{unit}}}
+|Unit V|MULTIMEDIA DATABASES |9|
+Multidimensional Data Structures - Image Databases - Text / Document
+Databases - Video Databases - Audio Databases - Multimedia Database
+Design.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- To develop skills on parallel and distributed databases. 
+- To analyze each type of intelligent databases and its necessity.
+- To describe and design web databases. 
+- Learn and analyze mobile and multimedia databases
+
+
+      
+** References
+1.C. J. Date, A. Kannan, S. Swamynathan, ``An Introduction to Database Systems'', Eighth Edition, Pearson Education, 2006. 
+2.Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ``Advanced Database Systems'', Morgan Kaufmann publishers,2006. 
+3.Henry F Korth, Abraham Silberschatz, S. Sudharshan,``Database System Concepts'', Sixth Edition, McGraw Hill, 2011. 
+4.R. Elmasri, S. B. Navathe,``Fundamentals of Database Systems'', Sixth Edition, Pearson Education/Addison Wesley, 2010.
+5.Vijay Kumar, ``Mobile Database Systems'', John Wiley & Sons, 2006. 
+

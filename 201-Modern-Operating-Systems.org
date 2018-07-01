@@ -1,0 +1,72 @@
+* MODERN OPERATING SYSTEMS
+:properties:
+:author: H Shahul Hamead, S Lakshmi Priya
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|4|0|0|4|
+
+** Course Objectives
+- To understand the design of Operating System.
+- To learn about the contemporary operating systems .
+- To explore the design of Android Operating System  
+- To apply the knowledge of Scheduling on Real-Time problems  
+- To apply the knowledge of resource handling techniques on Real-Time problems 
+
+{{{unit}}}
+|Unit I|VIRTUALIZATION AND MULTIPROCESSOR SYSTEMS|12| 
+History -- Requirements -- 1 and Type 2 Hypervisors -- Techniques for
+Efficient Virtualization -- Microkernels -- Memory and I/O
+Virtualizations -- Clouds -- Case Study: Vmware -- Multiprocessors --
+Multicomputers - Distributed Systems
+
+{{{unit}}}
+|Unit II|DESIGN OF ANDROID OS|12| 
+Android and Google -- History of Android -- Design Goals --
+Architecture -- Linux Extensions -- Dalivik -- Binder IPC -- Android
+Applications -- Intents -- Application Sandboxes-- Security -- Process
+Model -- Typical System Architecture -- SoC -- Memory layout and
+Mapping -- Development setup -- Evaluation Boards
+
+{{{unit}}}
+|Unit III|SCHEDULING IN REAL-TIME SYSTEMS |12| 
+Introduction -- Applications -- Basic Model -- Characteristics of Real
+time system -- Safety -- Task types -- Timing Constraints -- Concepts
+and Characteristics of types of Real Time Task Scheduling -- Clock
+Driven Scheduling -- Event Driven Scheduling -- Earliest Deadline
+First -- Rate Monotonic Algorithm
+
+{{{unit}}}
+|Unit IV|RESOURCE HANDLING TECHNIQUES IN REAL-TIME SYSTEMS|12| 
+Resource Sharing -- Priority Inversion -- Priority Inheritance
+Protocol -- Highest Locker Protocol -- Priority Ceiling Protocol--
+Types of Priority Inversions -- Important Features -- Issues and Task
+dependencies
+
+{{{unit}}}
+|Unit V|Operating Sytem Design|12|
+The Nature of the design Problem -- Interface Design --
+Implementation-- Performance -- Project Management -- Trends in
+Operating System Design
+
+\hfill *Total: 60*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Apply various techniques related to virtualization and multi-processor systems for similar problems(K3)  
+- Describe the build of Android Operating System (K2)
+- Apply scheduling problems in real time applications. (K3)
+- Apply resource handling problems in real time environment (K3)
+- Install and work with Modern OS and practically comprehend its design(K3)
+      
+** References
+1. Andrew S. Tanenbaum, Herbert Bos, Modern Operating Systems, 4th Edition, Pearson, 2015 (Units 1,2 and 5)
+2. Rajib Mall, Real Time Systems: Theory and Practice, Pearson, 2007 (Units 4 and 5) 
+3. Karim Yaghmour, "Embedded Android", O-Rielly, 2013 (Unit 2)
+4. Matthew Portnoy. Virtualization Essentials, Wiley, 2012 
+5. Jerome Saltzer M. Frans Kaashoek, Principles of Computer System Design, 1st Edition, Elsevier, 2009 
+6. Joshua, Drake et al, Android Hackers Handbook, Wiley, 2014
+7. Francis Cottet, Joelle Delacroix et al, Scheduling in real-time systems, Wiley, 2002
+
