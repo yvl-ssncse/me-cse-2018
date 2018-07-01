@@ -58,7 +58,8 @@ Reliability models for hardware redundancy -- Software error models;
 Clock Synchronization: Clock, A Nonfault–tolerant synchronization
 algorithm -- Impact of faults -- Fault tolerant synchronization in
 hardware -- Fault tolerant synchronization in software.
-|Total:|45|
+
+\hfill *Total: 45*
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
