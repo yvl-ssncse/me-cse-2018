@@ -81,7 +81,8 @@ Upon the completion of the course the students should be able to:
 - Experiment virtualization of hardware resources and Virtual Machine Monitors(K3)
 - Develop and deploy services on cloud  and able to set up a private cloud environment using open source software(K3)
 - Understanding the security challenges in cloud environment(K2)
-      
+
+# we should reduce the number of references (RSM)
 ** References
 1. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
    Guide'', McGraw-Hill Osborne Media, 2009. (Units I, II)
