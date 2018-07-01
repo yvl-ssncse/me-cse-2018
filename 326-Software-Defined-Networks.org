@@ -29,7 +29,7 @@ Application-Network Divide -- Modern Orchestration
 {{{unit}}}
 |Unit III|Data Center & Network Function Virtualization|9| 
 Data Center: Multitenant Data Center -- Virtualised Multitenant Data
-Center -- SDN solution for Data Center -- VLAN -- NVGRE ; Network
+Center -- SDN solution for Data Center -- VLAN -- NVGRE; Network
 Function Virtualization: Virtualization and Data Plane I/O - Service
 Locations and Chaining - NFV at ETSI and Non-ETSI.
 
