@@ -4,6 +4,7 @@
 :date: 29 June 2018
 :end:
 
+# in the title of the subject, architectures (plural) or architecture (singular)?
 {{{credits}}}
 |L|T|P|C|
 |3|0|0|3|
