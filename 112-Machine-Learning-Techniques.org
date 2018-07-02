@@ -15,17 +15,17 @@
 
 ** List of Exercises
 1. Working with Python packages - Numpy, Scipy, Scikit-learn, Matplotlib
-2. Implementation of Perceptron and Linear Regression.
-3. Demonstration of Perceptron and Linear Regression on any dataset and illustrate the 2D plot of the technique. 
-4. Implementation of MultiLayer Perceptron (single hidden layer) for classification and regression.
+2. Perceptron and Linear Regression.
+3. Applications of Perceptron and Linear Regression on any dataset and illustrate the 2D plot of the technique. 
+4. MultiLayer Perceptron (single hidden layer) for classification and regression.
 5. Analyze the MLP network by tuning the parameters such as number of hidden layers, activation functions, learning rate, optimization etc.,
 6. Classification of Email spam and MNIST data using Support Vector Machines.
-7. Implement ID3 algorithm for Decision Tree using iris dataset.
-8. Demonstration of Random Forest and AdaBoost ensemble techniques.
-9. Implement K-means clustering for Euclidean distance metric. #+latex: % Illustrate the clustering using 2D plots.
-10. Implementation of k-Nearest Neighbor algorithm.
-11. Demonstration of Gaussian Mixture Model.
-12. Demonstration of dimensionality reduction techniques on any dataset.
+7. ID3 algorithm for Decision Tree using iris dataset.
+8. Applications of Random Forest and AdaBoost ensemble techniques.
+9. K-means clustering for Euclidean distance metric. #+latex: % Illustrate the clustering using 2D plots.
+10. k-Nearest Neighbor algorithm.
+11. Gaussian Mixture Model.
+12. Applications of dimensionality reduction techniques on any dataset.
 13. Miniproject: Analyze any two supervised / unsupervised machine
     learning algorithms for any of the following real-time
     applications:

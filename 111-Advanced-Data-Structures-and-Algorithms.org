@@ -9,11 +9,10 @@
 |0|0|4|2|
 
 ** Course Objectives
-- To acquire the knowledge of using advanced tree and graph
-  structures.
-- To learn the need of heap and disjoint set representation.
+- To learn advanced tree and graph structures.
+- To learn the need of heap and disjoint set representations.
 - To understand the concept of algorithm design techniques and
-  applying suitable technique for the given problem.
+  applying suitable techniques for the given problem.
 
 ** Suggested Programming Languages
 - C, Java or Python
