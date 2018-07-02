@@ -1,0 +1,81 @@
+* <<<CP1354>>> WIRELESS NETWORKS
+:properties:
+:author: J Suresh
+:date: 02 July 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the fundamentals of wireless networks.
+- To learn the concepts of various wireless technologies.
+- To gain adequate exposure to the emerging technologies and their
+  potential impact.
+
+{{{unit}}}
+|Unit I|Wireless LAN and PAN|9| 
+Introduction -- fundamentals of WLAN: technical issues -- network
+architecture; IEEE 802.11-physical layer -- Mac layer mechanism --
+CSMA/CA,RTS/CTS -- Polling -- Bluetooth -- Link manager protocol --
+L2CAP -- Security -- SDP -- IEEE802.15.3.
+
+{{{unit}}}
+|Unit II|Wireless Internet|9| 
+Introduction – wireless internet -- address mobility -- inefficiency
+of transport layer and Application layer protocol; mobile IP -–
+simultaneous binding -- route optimization -- mobile IP variations --
+handoffs -- security in mobile IP; IP for wireless domain -- TCP in
+wireless domain – TCP over wireless; impact of mobility.
+
+{{{unit}}}
+|Unit III|Ad-hoc Sensor Network|9| 
+Wireless Sensor Network -- Applications -- design challenges --
+Protocol stack -- comparisons with MANET node architecture -- network
+architecture -- MAC protocols-requirements -- IEEE 802.15.4 MAC
+protocol -- Routing Protocol: energy aware routing -- Location based
+routing -- clustering -- aggregation -- QoS -- security protocol --
+Zigbee standard.
+
+{{{unit}}}
+|Unit IV|3G Networks|9|
+Evolution from GSM -- 3G Services and Applications -- UMTS network
+structure -- Core network -- UMTS Radio access -- HSPA -- HSUPA --
+HSDPA -- CDMA 1X -- EVDO Rev -0, Rev-A, Rev-B, Rev-C Architecture --
+Protocol stack -- Cognitive Radio network -- Spectrum Sensing.
+
+{{{unit}}}
+|Unit V|4G-LTE|9|
+Overview of LTE Networks -- Need for LTE -- From LTE to LTE-Advanced
+SAE: LTE Architecture -- Radio Protocol stack -- Interfaces; Concept
+of HetNET -- Quality of Service and Bandwidth -- Reservation -- QoS
+metrics -- Signaling for Bandwidth Requests and Grants -- Bandwidth
+Allocation and Traffic Handling -- Mobility Management -- Security
+Protocols.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Understand the design the wireless networks(K2).
+- Analyze the wireless routing protocols(K3)
+- Analyze the design of 3G networks(K3) 
+- Understand the design the 4G and LTE networks(K2)
+      
+** References
+1. Jochen Schiller, ``Mobile Communication'', Pearson education, 2nd
+   edition 2005.
+2. Holger Karl and Andreas Willing, ``Protocols and Architecture for
+   Wireless Sensor Network'', John Wiley & Sons, 2007.
+3. Juha Korhonen, ``Introduction to 3G Mobile Communication'', Artech
+   House, 2003.
+4. Harri Holma and Antti Toskala, ``HSDPA/HSUPA for UMTS'', John Wiley
+   & Sons, 2006.
+5. Abd-Elhamid M. Taha and Hossam S. Hassanein and Najah Abu Ali,
+   ``LTE, LTE-Advanced and Wimax towards IMT-advanced networks'' John
+   Wiley & Sons , 2012.
+6. Vijay. K. Garg, ``Wireless Communication and Networking'', Morgan
+   Kaufmann Publishers, 2007.
+7. Larry J. Greenstein, Andrea J. Goldsmith, ``Principles of Cognitive
+   Radio'', Cambridge University press, 2013.

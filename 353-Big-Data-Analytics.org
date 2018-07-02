@@ -1,0 +1,70 @@
+* <<<CP1353>>> BIG DATA ANALYTICS
+:properties:
+:author: J Suresh
+:date: 02 July 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|2|0|2|3|
+
+** Course Objectives
+- To understand the competitive advantages of data analytics 
+- To understand the data frameworks 
+- To learn data analysis methods
+- To gain knowledge on Hadoop related tools such as HBase, and Hive for data analytics
+
+{{{unit}}}
+|Unit I|Introduction to Big Data|8| 
+Big Data: Definition -- Characteristic features -- Big data
+applications -- Big data vs Traditional data -- Risks of big data --
+Structure of big data; Web data; Evolution of analytic scalability;
+Modern Data Analytic Tools.
+
+{{{unit}}}
+|Unit II|Hadoop Framework|10| 
+Distributed File Systems: Large-scale file system organization -- HDFS
+concepts -- MapReduce execution -- Algorithms using MapReduce.
+
+{{{unit}}}
+|Unit III|Data Analysis |9| 
+Statistical Methods: Regression modelling -- Multivariate analysis;
+Classification: SVM & Kernel methods -- Decision Trees; Linear
+Classifiers
+
+{{{unit}}}
+|Unit IV|NoSQL|9|
+Introduction to NoSQL -- Characteristics of NoSQL -- NoSQL Storage
+Types -- Advantages and Drawbacks.
+
+{{{unit}}}
+|Unit V|Big Data Frameworks|9|
+MongoDB -- Aggregate data models -- Hbase: Data model and
+implementations -- Hbase clients; Hive: Data types and file formats --
+HiveQL data definition -- HiveQL data manipulation -- HiveQL queries
+
+\hfill *Total: 45*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Understand how to leverage the insights from big data analytics (K2)
+- Solve applications using statistical and data analytic methods (K3)
+- Develop applications using Hadoop related tools(K4)
+- Use database frameworks like MongoDB, Hive and Hbase for data analysis(K3) 
+      
+** References
+1. Bill Franks, ``Taming the Big Data Tidal Wave: Finding
+   Opportunities in Huge Data Streams with Advanced Analytics'', John
+   Wiley & sons, 2012.
+2. Michael Berthold, David J. Hand, ``Intelligent Data Analysis'',
+   Springer, 2007.
+3. Tom White, ``Hadoop: The Definitive Guide - Storage and Analysis at
+   Internet Scale'', 4th Edition, O'Reilly, 2015.
+4. Gaurav Vaish, ''Getting Started with NoSQL'', Packt Publishing
+   Ltd, 2013.
+4. E. Capriolo, D. Wampler, and J. Rutherglen, ``Programming Hive'',
+   O'Reilly, 2012.
+5. Lars George, ``HBase: The Definitive Guide'', O'Reilly, 2011.
+6. Kristina Chodorow, ``MongoDB: The Definitive Guide -- Powerful and
+   Scalable Data Storage'', 2nd Edition, O'Reilly, 2013.
+
