@@ -62,7 +62,7 @@ hardware -- Fault tolerant synchronization in software.
 \hfill *Total: 45*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
+After the completion of the course, students will be able to: 
 - Apply principles of real time system design techniques to develop real time applications.(K3)
 - Demonstrate communication and memory management principles between real time tasks (K3)
 - Apply network communication principles in real time systems. (K3)

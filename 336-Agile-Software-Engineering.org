@@ -65,7 +65,7 @@ approach to Global Software Development.
 \hfill *Total: 45*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
+After the completion of the course, students will be able to: 
 - Define the interaction with business stakeholders in determining the
   requirements for a software system. (K2)
 - Apply iterative software development process. (K3)

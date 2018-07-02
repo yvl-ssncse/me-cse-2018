@@ -57,7 +57,7 @@ Protocols.
 \hfill *Total: 45*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
+After the completion of the course, students will be able to:
 - Understand the design the wireless networks(K2).
 - Analyze the wireless routing protocols(K3)
 - Analyze the design of 3G networks(K3) 

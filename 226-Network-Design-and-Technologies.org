@@ -57,7 +57,7 @@ Open Flow – SDN Controllers – Network Function Virtualization.
 \hfill *Total: 45*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
+After the completion of the course, students will be able to: 
 - Identify the components required for designing a network (K2)
 - Design a network using different wireless networking technologies(K3)
 - Analyze the various protocols of 3G, 4G and Cellular networks (K3)

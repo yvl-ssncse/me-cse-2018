@@ -34,8 +34,9 @@
 \hfill *Total: 60*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to:
-- Implement basic data structures sorting algorithms with analysis(K4)
-- Implement algorithms using tree and graph structures(K3)
-- Design and develop efficient algorithms for the given problems using algorithm design techniques(K3)
+After the completion of the course, students will be able to:
+- Implement basic data structures sorting algorithms with analysis. (K4)
+- Implement algorithms using tree and graph structures. (K3)
+- Design and develop efficient algorithms for the given problems using
+  algorithm design techniques. (K3)
 

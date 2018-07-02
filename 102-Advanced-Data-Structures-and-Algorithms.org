@@ -57,7 +57,7 @@ NP-Completeness -- 3-Coloring -- Bipartite Matching.
 \hfill *Total: 60*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
+After the completion of the course, students will be able to: 
 - Analyse the complexity of algorithms (K3)
 - Compare and choose suitable data structure to solve computing problems (K4)
 - Develop optimal algorithms using tree and graph data structure(K3)

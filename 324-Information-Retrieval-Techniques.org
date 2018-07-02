@@ -55,7 +55,7 @@ Retrieval
 \hfill *Total: 45*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
+After the completion of the course, students will be able to: 
 - Describle vaious IR modeling techniques. (K2)
 - Identify and design the various components of an Information Retrieval system. (K3)
 - Apply machine learning techniques to text classification and clustering which is used for efficient Information Retrieval.  (K3)

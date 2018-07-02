@@ -50,7 +50,7 @@ Virtualization -- Input traffic classification and triggered actions
 
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
+After the completion of the course, students will be able to: 
 - Understand the concepts, basics of SDN and Openflow(K2)
 - Understand SDN Controller and programming with SDN(K2)
 - Analyse various SDN solutions for data center and about Network Function Virtualization.(K3)

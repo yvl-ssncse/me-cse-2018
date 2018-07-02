@@ -75,7 +75,7 @@ migration attack -- hyperjacking.
 \hfill *Total: 45*
 
 ** Course Outcomes
-Upon the completion of the course the students should be able to: 
+After the completion of the course, students will be able to: 
 - Understand the design challenges in cloud environment(K2)
 - Apply the concept of virtualization and analyse its types(K3)
 - Experiment virtualization of hardware resources and Virtual Machine Monitors(K3)
