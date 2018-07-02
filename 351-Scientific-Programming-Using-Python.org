@@ -5,8 +5,8 @@
 :end:
 
 {{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
+| L | T | P | C |
+| 2 | 0 | 2 | 3 |
 
 # The course need to be made lighter (RSM, 2 July 2018).
 
