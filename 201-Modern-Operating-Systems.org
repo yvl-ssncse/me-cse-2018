@@ -11,7 +11,7 @@
 ** Course Objectives
 - To understand the design of Operating System.
 - To learn about the contemporary operating systems .
-- To explore the design of Android Operating System  
+- To explore the design of Mobile Operating System  
 - To apply the knowledge of Scheduling on Real-Time problems  
 - To apply the knowledge of resource handling techniques on Real-Time problems 
 
@@ -23,7 +23,7 @@ Virtualizations -- Clouds -- Case Study: Vmware -- Multiprocessors --
 Multicomputers - Distributed Systems
 
 {{{unit}}}
-|Unit II|DESIGN OF ANDROID OS|12| 
+|Unit II|DESIGN OF MOBILE OS|12| 
 Android and Google -- History of Android -- Design Goals --
 Architecture -- Linux Extensions -- Dalivik -- Binder IPC -- Android
 Applications -- Intents -- Application Sandboxes-- Security -- Process
