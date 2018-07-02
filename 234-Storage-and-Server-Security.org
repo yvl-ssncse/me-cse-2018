@@ -63,7 +63,7 @@ Server-Farm Design Alternative -- Management Network.
 \hfill *Total: 45*
 
 ** Course Outcomes
-After completion of this course, students will be able to:
+After the completion of this course, students will be able to:
 - Understand the storage systems architecture (K2) 
 - Choose an appropriate storage networking technology for the given specification (K3)
 - identify Security Implementations in Storage Networking (K3)

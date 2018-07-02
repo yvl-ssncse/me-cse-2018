@@ -63,7 +63,13 @@ After the completion of this course, students will be able to:
 - Apply guidelines to manage web applications			     (K3)
 	
 ** References
-1. Gerti Kappel, Birgit Proll, ``Web Engineering'', John Wiley and Sons Ltd, 2006. (unit I,II,III,IV,V)
-2. Roger S. Pressman, David Lowe, ``Web Engineering'', Tata McGraw Hill Publication, 2007. (unit I,II,III,IV)
-3. Gustavo Rossi, Oscar Pastor, Daniel Schwabe, Luis Olsina, ``Web Engineering: Modelling and Implementing Web Applications'', Springer, 2007. (unit II, III)
-4. San Murugesan, Yogesh Deshpande, ``Web Engineering: Managing Diversity and Complexity of Web Application Development'', Springer, 2001. (unit IV, V)
+1. Gerti Kappel, Birgit Proll, ``Web Engineering'', John Wiley and
+   Sons Ltd, 2006. (unit I,II,III,IV,V)
+2. Roger S. Pressman, David Lowe, ``Web Engineering'', Tata McGraw
+   Hill Publication, 2007. (unit I,II,III,IV)
+3. Gustavo Rossi, Oscar Pastor, Daniel Schwabe, Luis Olsina, ``Web
+   Engineering: Modelling and Implementing Web Applications'',
+   Springer, 2007. (unit II, III)
+4. San Murugesan, Yogesh Deshpande, ``Web Engineering: Managing
+   Diversity and Complexity of Web Application Development'',
+   Springer, 2001. (unit IV, V)

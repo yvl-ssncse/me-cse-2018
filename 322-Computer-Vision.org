@@ -67,7 +67,7 @@ locating pedestrians.
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Implement fundamental image processing techniques required for computer vision (K4)
 - Perform shape analysis and  Implement boundary tracking techniques (K3)
 - Apply 3D vision techniques (K3)

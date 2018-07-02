@@ -40,7 +40,7 @@ Students will implement some algorithms in python language. Other exercises can 
 \hfill *Total: 60*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Analyze the real world problems using supervised learning techniques(K4)
 - Examine the working of clustering and ensemble techniques (K4)
 - Demonstrate the working of probabilistic models and dimensionality reduction methods (K3)

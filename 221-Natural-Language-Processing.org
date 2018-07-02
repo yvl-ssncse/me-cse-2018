@@ -59,7 +59,7 @@ entity recognition -- Relation detection and classification
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Describe the language models (K2)
 - Explain levels of knowledge in language processing (K2)
 - Write Python programs for text processing (K3)

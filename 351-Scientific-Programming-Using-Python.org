@@ -65,7 +65,7 @@ Taylor series;  Introduction to differential equations --  Exponential growth --
 \hfill *Total:45*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Write Python programs using decision and repetition structures in
   program design. (K3)
 - Demonstrate a basic knowledge of numerical computing using

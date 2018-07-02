@@ -54,7 +54,7 @@ Operating System Design
 \hfill *Total: 60*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Apply various techniques related to virtualization and multi-processor systems for similar problems(K3)  
 - Describe the build of Android Operating System (K2)
 - Apply scheduling problems in real time applications. (K3)

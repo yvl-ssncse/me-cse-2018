@@ -58,7 +58,7 @@ Management -- Formal Transaction Verification (K3)
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Understand the Basic architecture and concepts of till Third Generation Communication systems
 - Explain the latest 4G Telecommunication System Principles
 - Incorporate the pervasive concepts.

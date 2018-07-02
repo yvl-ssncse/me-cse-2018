@@ -74,7 +74,7 @@ Suggestive Experiments (using Arduino / Raspberry Pi Board)
 \hfill *Total: 30*
 
 ** Course Outcomes
-Upon completion of this course, the students should be able to:
+After completion of this course, students should be able to:
 - Understand the basic buiding blocks and Data  Management in Internet of Things (K2)
 - Understand different IoT Architectures (K2)
 - Understand various protocols for IoT  (K2)

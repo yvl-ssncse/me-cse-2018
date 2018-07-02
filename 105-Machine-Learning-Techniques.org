@@ -76,7 +76,7 @@ Markov random fields -- Hidden markov models
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Understand the basic concepts of machine learning (K2)
 - Analyze the real world problems using linear and non-linear techniques (K4)
 - Solve the applications using tree and probabilistic models (K3)

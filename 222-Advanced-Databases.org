@@ -55,7 +55,7 @@ Design.
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - To develop skills on parallel and distributed databases. 
 - To analyze each type of intelligent databases and its necessity.
 - To describe and design web databases. 

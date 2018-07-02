@@ -46,7 +46,7 @@ HiveQL data definition -- HiveQL data manipulation -- HiveQL queries
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Understand how to leverage the insights from big data analytics (K2)
 - Solve applications using statistical and data analytic methods (K3)
 - Develop applications using Hadoop related tools(K4)

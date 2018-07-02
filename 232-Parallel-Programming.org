@@ -62,7 +62,7 @@ programming.
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, the students will be able to:
+After the completion of this course, students will be able to:
 - Identify issues in parallel programming (K2)
 - Develop distributed memory programs using MPI framework (K3)
 - Design and develop shared memory parallel programs using Pthreads (K3)

@@ -57,7 +57,7 @@ synteny block construction -open problems and technologies.
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of the course, students should be able to:
+After the completion of this course, students will be able to:
 - Deploy the genomics technologies in Bioinformatics.
 - Able to distinct efficient algorithm and issues.
 - Deploy the replication and molecular clocks in bioinformatics.

@@ -54,7 +54,7 @@ system.
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of the course, students will be able to: 
+After the completion of this course, students will be able to: 
 - Illustrate how the speech production is modelled (K2)
 - Extract features from the speech signal in both time and frequency domain (K3)
 - Developing a speech recognition system using statistical approach (K3)
