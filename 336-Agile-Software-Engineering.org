@@ -1,0 +1,87 @@
+* AGILE SOFTWARE ENGINEERING
+:properties:
+:author: A.Chamundeswari, K Vallidevi 
+:date: 30 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+ - Understand agile software development practices  
+ - Demonstrate Agile development and testing techniques 
+ - Know the benefits and pitfalls of working in an Agile team
+ - Understand agile development and testing. 
+
+{{{unit}}}
+|Unit I |Agile software development|9| 
+Agile software development ; Traditional software development --
+waterfall approach -- requirements -- design phase -- implementation
+-- testing -- support -- advantages and disadvantages; incremental
+development; Lean software development; scrum; test driven
+development; extreme programming; rational unified process; agile
+unified process; Agile model driven development.
+
+{{{unit}}}
+|Unit II|Agile XP product development |9| 
+People and Teams working together -- Team behaviour in XP projects --
+setting up a team -- developing team skills -- training together;
+organizational framework; planning -- PERT -- Gantt charts; Dealing
+with problem -- basic strategies -- when things go really wrong; risk
+analysis; starting XP project -- business analysis and problem
+discovery; techniques for requirement elicitation; Developing the
+requirement documents.
+
+{{{unit}}}
+|Unit III|Building user stories and testing|9| 
+Identifying stories and preparing to build -- looking at the user
+stories; collection of stories; user interfaces; communicating clearly
+with the customer and building confidence; demonstrating the
+non-functional requirements -- non functional requirements; Estimating
+resources -- software cost estimation -- object point analysis --
+COSMIC FFP -- Design for test; Automating unit tests -- writing unit
+tests in JUnit -- managing tests.
+
+{{{unit}}}
+|Unit IV|Agile practice validation |9| 
+Study Design -- Survey field study -- Questionnaire Design -- Data
+collection procedure; Construct operationalization -- Adoption of
+agile practices -- teamwork and contextual variables -- team
+performance -- instrument validation; Analysis methods -- regression
+analysis -- structural equation modelling -- selecting appropriate
+analysis techniques; Assessment of team performance; Hypotheses:
+Test and Evaluation -- measurement model effects on team potency and
+team performance.
+
+{{{unit}}}
+|Unit V|Agility and Quality assurance|9|
+Agile Interaction Design -- Agile product development -- Agile Metrics
+-- Feature Driven Development (FDD) -- Financial and Production
+Metrics in FDD -- Agile approach to Quality Assurance -- Test Driven
+Development -- Pair programming: Issues and Challenges -- Agile
+approach to Global Software Development.  
+
+\hfill *Total: 45*
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Define the interaction with business stakeholders in determining the
+  requirements for a software system. (K2)
+- Apply iterative software development process. (K3)
+- Determine the impact of social aspects on software development success. (K3)
+- Explain the approach of product development using Agile. (K2)
+- Prepare the solution using agile knowledge sharing methods. (K3)
+      
+** References
+1. Thomas Stober, Uwe Hansmann, Agile Software Development: Best
+   Practices for Large Software Development Projects, Springer-Verlag
+   Berlin Heidelberg 2010.(unit 1)
+2. Mike Holcombe, Running an Agile Software Development Project,
+   University of Sheffield, United Kingdom, John Wiley &amp; Sons,
+   Inc., Hoboken, New Jersey, 2008.(unit 2,3)
+3. Christoph Schmidt, Agile Software Development Teams, Springer
+   International Publishing Switzerland 2016. (unit 4)
+4. Dingsoyr, Torgeir, Dyba, Tore, Moe, Nils Brede (Eds.), ?Agile
+   Software Development, Current Research and Future Directions?,
+   Springer-Verlag Berlin Heidelberg, 2010 (unit 5)
