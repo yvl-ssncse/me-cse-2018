@@ -17,12 +17,12 @@
 {{{unit}}}
 |Unit I |PARALLEL AND DISTRIBUTED DATABASES|9| 		
 Database System Architectures: Centralized and Client-Server
-Architectures - Server System Architectures - Parallel Systems
--- Distributed Systems; Parallel Databases: I/O Parallelism -
-Inter and Intra Query Parallelism - Inter and Intra operation
-Parallelism - Design of Parallel Systems; Distributed Database
-Concepts: Distributed Data Storage - Distributed Transactions
-- Commit Protocols - Concurrency Control - Distributed
+Architectures -- Server System Architectures -- Parallel Systems
+-- Distributed Systems; Parallel Databases: I/O Parallelism --
+Inter and Intra Query Parallelism -- Inter and Intra operation
+Parallelism -- Design of Parallel Systems; Distributed Database
+Concepts: Distributed Data Storage -- Distributed Transactions --
+Commit Protocols -- Concurrency Control -- Distributed
 Query Processing; Three Tier Client Server Architecture; Case Studies
 
 {{{unit}}}
