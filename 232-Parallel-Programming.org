@@ -74,4 +74,4 @@ After the completion of this course, the students will be able to:
 2. A. Munshi, B. Gaster, T. G. Mattson, J. Fung, and D. Ginsburg, ``OpenCL programming guide'', Addison Wesley, 2011  
 3. M. J. Quinn, ``Parallel programming in C with MPI and OpenMP'', Tata McGraw Hill, 2003. 
 4. Rob Farber, ``CUDA application design and development'', Morgan Haufmann, 2011.
-5. W. Gropp, E. Lusk, and A. Skjellum, ``Using MPI: Portable parallel programming with the message passing interface'', Second Edition, MIT Press, 1999.
+5. W. Gropp, E. Lusk, A. Skjellum, ``Using MPI: Portable parallel programming with the message passing interface'', Second Edition, MIT Press, 1999.
