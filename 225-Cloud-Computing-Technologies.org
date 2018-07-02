@@ -108,8 +108,9 @@ Upon the completion of the course the students should be able to:
    Second Edition, Packt Publishing, 2013. (Unit IV)
 10. Giovanni Toraldo, ``OpenNebula 3 Cloud Computing'', Packt
     Publishing, 2012. (Unit IV)
-11. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
-    To Secure Cloud Computing'', Wiley Publishing, 2010. (Unit V)
+11. Krutz, Ronald L., and Russell Dean Vines. ``Cloud security: 
+    A comprehensive guide to secure cloud computing'', 
+    Wiley Publishing, 2010. (Unit V)
 12. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
     and Privacy: an enterprise perspective on risks and compliance'',
     O‘Reilly Media, Inc., 2009. (Unit V)
