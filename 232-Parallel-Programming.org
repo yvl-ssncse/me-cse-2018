@@ -59,7 +59,7 @@ Object -– Memory Objects Buffers and Images -- Event model -–
 Command-Queue -- Event Object -- Case study; Introduction to CUDA
 programming.
 
-|Total:|45|
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, the students will be able to:
