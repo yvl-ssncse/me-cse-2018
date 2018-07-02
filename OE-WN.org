@@ -37,11 +37,6 @@ Overview of LTE Networks -- Need for LTE -- From LTE to LTE-Advanced SAE: LTE Ar
 
 ** Course Outcomes
 Upon the completion of the course the students should be able to: 
-- Understand how to leverage the insights from big data analytics (K2)
-- Solve applications using statistical and data analytic methods (K3)
-- Develop applications using Hadoop related tools(K4)
-- Use database frameworks like MongoDB, Hive and Hbase for data analysis(K3) 
-
 - Understand the design the wireless networks(K2).
 - Analyze the wireless routing protocols(K3)
 - Analyze the design of 3G networks(K3) 
