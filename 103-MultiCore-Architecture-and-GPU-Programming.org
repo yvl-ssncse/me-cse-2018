@@ -34,13 +34,13 @@ Graphics Processing Units; Detecting and Enhancing Loop Level Parallelism;
 Case Studies -- GPGPU Computing
 
 {{{unit}}}
-|Unit IV|CUDA Programming |10|
+|Unit IV|GPU Programming using CUDA|10|
 CUDA Hardware Overview: Threads -- Blocks -- Grids --
 Warps -- Scheduling; Memory Handling with CUDA: Shared Memory --
 Global Memory -- Constant Memory and Texture Memory. 
 
 {{{unit}}}
-|Unit V|Programming Issues|8|
+|Unit V|Common Problems, Causes, and Solutions in CUDA |8|
 Common Problems: CUDA Error Handling -- Parallel Programming Issues -- 
 Synchronization -- Algorithmic Issues -- Finding and Avoiding Errors.
 

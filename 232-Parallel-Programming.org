@@ -59,13 +59,14 @@ Object -– Memory Objects Buffers and Images -- Event model -–
 Command-Queue -- Event Object -- Case study; Introduction to CUDA
 programming.
 
-|Total:|45|
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, the students will be able to:
 - Identify issues in parallel programming (K2)
 - Develop distributed memory programs using MPI framework (K3)
-- Design and develop shared memory parallel programs using Pthreads and using OpenMP (K3)
+- Design and develop shared memory parallel programs using Pthreads (K3)
+- Design and develop shared memory parallel programs using OpenMP (K3)
 - Implement Graphical Processing OpenCL programs (K3)  
       
 ** References
@@ -73,4 +74,4 @@ After the completion of this course, the students will be able to:
 2. A. Munshi, B. Gaster, T. G. Mattson, J. Fung, and D. Ginsburg, ``OpenCL programming guide'', Addison Wesley, 2011  
 3. M. J. Quinn, ``Parallel programming in C with MPI and OpenMP'', Tata McGraw Hill, 2003. 
 4. Rob Farber, ``CUDA application design and development'', Morgan Haufmann, 2011.
-5. W. Gropp, E. Lusk, and A. Skjellum, ``Using MPI: Portable parallel programming with the message passing interface'', Second Edition, MIT Press, 1999.
+5. W. Gropp, E. Lusk, A. Skjellum, ``Using MPI: Portable parallel programming with the message passing interface'', Second Edition, MIT Press, 1999.
