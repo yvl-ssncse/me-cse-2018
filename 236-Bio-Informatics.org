@@ -1,0 +1,74 @@
+* BIO INFORMATICS
+:properties:
+:author: R. S. Milton
+:date: 2 July 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3 |0|0|3 |
+
+** Course Objectives
+- To get exposed to the fundamentals of bioinformatics.
+- To learn bio-informatics algorithm and phylogenetic concept.
+- To understand open problems and issues in replication and molecular
+  clocks.
+- To learn assemble genomes and corresponding theorem.
+- To study and exposed to the domain of human genomics.
+
+{{{unit}}}
+|Unit I|Introduction and Fundamentals|9|
+
+Fundamentals of genes , genomics , molecular evolution -- genomic
+technologies -- beginning of bioinformatics - genetic data -- sequence
+data formats -- secondary database -- examples -- data retrival
+systems -- genome browsers.
+
+{{{unit}}}
+|Unit II|Bioinformatics Algorithm and Analysis|9|
+Sequence alignment and similarity searching in genomic databases:
+BLAST and FASTA -- additional bioinformatics analysis involving
+nucleic acid sequences-additional bioinformatics analysis involving
+protein sequences -- Phylogenetic Analysis.
+
+{{{unit}}}
+|Unit III|DNA Replication and Molecular Clocks|9|
+Beginning of DNA replication -- open problems -- multiple replication
+and finding replication -- computing probabilities of patterns in a
+string-the frequency array-converting patterns -- solving problems-
+finding frequents words-Big-O notation -- case study: The Tower of
+Hanoi problem.
+
+{{{unit}}}
+|Unit IV|Assemble Genomes and Sequences|9|
+Methods of assemble genomes -- string reconstruction -- De Bruijn
+graph -- Euler's theorem -- assembling genomes --DNA sequencing
+technologies -- sequence antibiotics -- Brute Force Algorithm --
+Branch and Bound algorithm -- open problems -- comparing biological
+sequences- Case Study -- Manhattan tourist Problem.
+
+{{{unit}}}
+|nit V|Human Genome|9|
+Human and mouse genomes-random breakage model of chromosome evolution
+-- sorting by reversals -- greedy heuristic approach -- break points-
+rearrangements in tumor and break point genomes-break point graps --
+synteny block construction -open problems and technologies.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of the course, students should be able to:
+- Deploy the genomics technologies in Bioinformatics.
+- Able to distinct efficient algorithm and issues.
+- Deploy the replication and molecular clocks in bioinformatics.
+- Work on assemble genomes and sequences.
+- Use the Microarray technologies for genome expression.
+
+** References
+1. Ion Mandoiu and Alexander Zelikovsky , ``Computational Methods for
+   Next Generation Sequencing Data Analysis'', Wiley series 2016.
+2. Istvan Miklos,Renyi Institutue, ``Introduction to algorithms in
+   bioinformatics'', Springer 2016
+3. Philip Compeau and Pavel pevzner, ``Bioinformatics Algorithms: An
+   Active Learning Approach'', Second edition volume I,  Cousera, 2015.
+4. Supratim Choudhuri, ``Bioinformatics For Beginners'', Elsevier, 2014.

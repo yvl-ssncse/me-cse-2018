@@ -64,9 +64,14 @@ Upon the completion of the course the students should be able to:
 
       
 ** References
-1. C. J. Date, A. Kannan, S. Swamynathan, ``An Introduction to Database Systems'', Eighth Edition, Pearson Education, 2006. 
-2. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ``Advanced Database Systems'', Morgan Kaufmann publishers,2006.
-3. Henry F Korth, Abraham Silberschatz, S. Sudharshan,``Database System Concepts'', Sixth Edition, McGraw Hill, 2011.
-4. R. Elmasri, S. B. Navathe,``Fundamentals of Database Systems'', Sixth Edition, Pearson Education/Addison Wesley, 2010.
-5. Vijay Kumar, ``Mobile Database Systems'', John Wiley & Sons, 2006. 
+1. C. J. Date, A. Kannan, S. Swamynathan, ``An Introduction to
+   Database Systems'', Eighth Edition, Pearson Education, 2006.
+2. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard
+   T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ``Advanced Database
+   Systems'', Morgan Kaufmann publishers,2006.
+3. Henry F Korth, Abraham Silberschatz, S. Sudharshan,``Database
+   System Concepts'', Sixth Edition, McGraw Hill, 2011.
+4. R. Elmasri, S. B. Navathe,``Fundamentals of Database Systems'',
+   Sixth Edition, Pearson Education/Addison Wesley, 2010.
+5. Vijay Kumar, ``Mobile Database Systems'', John Wiley & Sons, 2006.
 
