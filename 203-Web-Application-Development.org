@@ -11,6 +11,7 @@
 ** Course Objectives
 - To understand the concepts of web application development
 - To learn web application development using javascript based frameworks 
+- To learn web application development using Python based Framework 
 
 {{{unit}}}
 |Unit I| Introduction |12|
@@ -30,7 +31,7 @@ Directives Programs
 1. Develop online exam web application using AngularJS 
 
 {{{unit}}}
-|Unit II| Server Side Framework|12|
+|Unit IIi| Server Side Framework|12|
 Introduction to NodeJS -- Event Loop -- Patterns -- Core APIs --  EventEmitter -- Callback syntax – Streams -- File system -- Buffers -- Helper APIs -- Data Access -- NoSQL and Document stores -- MongoDB Programs
 Programs
 1. Develop online banking web application using NodeJS
@@ -38,10 +39,15 @@ Programs
 {{{unit}}}
 |Unit IV| Django Basics|12|
 Python for Django :  Python basics – Standard types – Flowcontrol – Exception handling – Files – Functions – Object oriented programming – Regular expressions; Building a blog: Creating a project – Running the development server – Designing the model – Setting up the database; Dynamic website basics – MVC – Django architecture -  Defining and using the models: ORM – URL configurations – Modelling HTTP – Views/Logics - Templates and form processing.
+Programs
+1. Develop Library Management System using MVC Django Architecture
 
 {{{unit}}}
 |Unit V|Advanced Django |12|
 Django applications: Photo gallery – Content management system – Liveblog;  Advanced Django programming: Customizing the admin – Syndication – Generating downloadable files – Enhancing Django’s ORM – Extending the template system; Advanced Django deployment.
+Programs
+1. Develop Inventory Management System using Django Framework 
+
 
 \hfill *Total: 60*
 
@@ -49,6 +55,7 @@ Django applications: Photo gallery – Content management system – Liveblog;  
 After the completion of this course, students will be able to:
 - Create website using HTML and CSS (K3)
 - Develop web application using script based  frameworks (K3)
+- Develop Web Application using Python based Framework (K3)
 
 ** References
 1. Jeffrey C, Jackson, ``Web Technologies A Computer Science Perspective'', Pearson Education, 2011. (unit I)
