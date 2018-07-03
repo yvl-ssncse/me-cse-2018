@@ -16,49 +16,56 @@
 
 {{{unit}}}
 |Unit I |MultiCore Processors|9| 
-Single core to Multicore architectures; Homogeneous and Heterogeneous 
-Multi-core Architectures: Intel Multicore Architectures -- SUN CMP architecture -- 
-IBM Cell Architecture; Introduction to Warehouse-scale computers 
-Architectures -- Physical Infrastructure and Costs.
+Single core to multicore architectures; Homogeneous and heterogeneous
+Multi-core architectures: Intel multicore architectures -- SUN CMP
+architecture -- IBM cell architecture; Introduction to warehouse-scale
+computers architectures -- Physical infrastructure and costs.
 
 {{{unit}}}
 |Unit II|Multi Processor Architectures and Issues|9| 
-MIMD systems: Symmetric and Distributed Shared Memory Architectures; 
-Cache coherence; Interconnection networks; Performance Issues; 
+MIMD systems: Symmetric and distributed shared memory architectures;
+Cache coherence; Interconnection networks; Performance issues;
 Parallel program design.
 
 {{{unit}}}
 |Unit III|Vector, SIMD and GPU Architectures|9|
-SIMD Systems: Introduction -- Vector Architecture -- SIMD Extensions for Multimedia -- 
-Graphics Processing Units; Detecting and Enhancing Loop Level Parallelism; 
-Case Studies -- GPGPU Computing
+SIMD Systems: Introduction -- Vector architecture -- SIMD extensions
+for multimedia -- Graphics Processing Units; Detecting and enhancing
+loop level parallelism; Case studies -- GPGPU computing
 
 {{{unit}}}
 |Unit IV|GPU Programming using CUDA|10|
-CUDA Hardware Overview: Threads -- Blocks -- Grids --
-Warps -- Scheduling; Memory Handling with CUDA: Shared Memory --
-Global Memory -- Constant Memory and Texture Memory. 
+CUDA Hardware Overview: Threads -- Blocks -- Grids -- Warps --
+Scheduling; Memory handling with CUDA: Shared memory -- Global memory
+-- Constant memory and texture memory.
 
 {{{unit}}}
 |Unit V|Common Problems, Causes, and Solutions in CUDA |8|
-Common Problems: CUDA Error Handling -- Parallel Programming Issues -- 
-Synchronization -- Algorithmic Issues -- Finding and Avoiding Errors.
+Common Problems: CUDA error handling -- Parallel programming issues --
+Synchronization -- Algorithmic issues -- Finding and avoiding Errors.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, the students will be able to:
-- Understand  the salient features of different multicore architectures and how they exploit parallelism (K2)
-- Understand the features and issues of MIMD systems (K2)
-- Understand the features of SIMD systems (K2)
-- Develop the programs using CUDA (K3)
-- Apply and identify the issues in CUDA programming and debug them (K3)
+- Understand the salient features of different multicore architectures
+  and how they exploit parallelism (K2).
+- Understand the features and issues of MIMD systems (K2).
+- Understand the features of SIMD systems (K2).
+- Develop the programs using CUDA (K3).
+- Apply and identify the issues in CUDA programming and debug them
+  (K3).
       
 ** References
-1. John L. Hennessey and David A. Patterson, ``Architecture -- A Quantitative Approach'', 5th edition,
-   Morgan Kaufmann / Elsevier, 2012. (units I, III)
-2. Peter S. Pacheco, ``An Introduction to Parallel Programming'', Morgan Kaufmann, 2014. (unit II)
-3. Shane Cook, ``CUDA Programming: A Developer's Guide to Parallel Computing with GPUs (Applications of GPU Computing)'', 
-   First Edition, Morgan Kaufmann, 2012. (unit IV, V)
-4. Sanders J. Kandrot E. ``CUDA by example: an introduction to general-purpose GPU programming'',  Addison-Wesley,	2011.
-5. Nicholas Wilt, ``CUDA Handbook: A Comprehensive Guide to GPU Programming'', Addison - Wesley, 2013.
+1. John L. Hennessey and David A. Patterson, ``Architecture -- A
+   Quantitative Approach'', 5th edition, Morgan Kaufmann /
+   Elsevier, 2012. (units I, III)
+2. Peter S. Pacheco, ``An Introduction to Parallel Programming'',
+   Morgan Kaufmann, 2014. (unit II)
+3. Shane Cook, ``CUDA Programming: A Developer's Guide to Parallel
+   Computing with GPUs (Applications of GPU Computing)'', First
+   Edition, Morgan Kaufmann, 2012. (unit IV, V)
+4. Sanders J. Kandrot E. ``CUDA by example: An Introduction to
+   General-Purpose GPU Programming'', Addison-Wesley, 2011.
+5. Nicholas Wilt, ``CUDA Handbook: A Comprehensive Guide to GPU
+   Programming'', Addison - Wesley, 2013.

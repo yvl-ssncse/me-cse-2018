@@ -67,15 +67,15 @@ relevant, fundamental and applied mathematical and statistical
 knowledge, methodologies and modern computational tools.
 
 *** References
-   1. Devore, J.~L., ``Probability and Statistics for Engineering and
+   1. Devore J. L., ``Probability and Statistics for Engineering and
       the Sciences'', 8th Edition, Cengage Learning, 2014.
    2. Dallas E. Johnson, ``Applied Multivariate Methods for Data
       Analysis'', Thomson and Duxbury Press, 1998.
-   3. Gupta S.~C. and Kapoor V.~K., ``Fundamentals of Mathematical
+   3. Gupta S. C. and Kapoor V.~K., ``Fundamentals of Mathematical
       Statistics'', Sultan and Sons, New Delhi, 2001.
-   4. Johnson R.~A., Miller~I and Freund~J., ``Miller and Freund's
+   4. Johnson R. A., Miller I. and Freund J., ``Miller and Freund's
       Probability and Statistics for Engineers'', Pearson Education,
       Asia, 8th Edition, 2015.
-   5. Richard A.~Johnson and Dean W.~Wichern, ``Applied Multivariate
+   5. Richard A. Johnson and Dean W. Wichern, ``Applied Multivariate
       Statistical Analysis'', 5th Edition, Pearson Education,
       Asia, 2002.

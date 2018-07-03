@@ -8,28 +8,30 @@
 |L|T|P|C|
 |3|0|0|3|
 
+# reduce the number of objectives to 5
 ** Course Objectives
-- To understand and apply Software Engineering Lifecycle Models.
+- To understand and apply software engineering lifecycle models.
 - To gain knowledge of software requirements and design concepts.
 - To understand software quality assurance techniques.
 - To understand and apply software testing strategies.
 - To be familiar with Agile development technology.
-- To understand DevOps practices and embedded software development process.
+- To understand DevOps practices and embedded software development
+  process.
 
 {{{unit}}}
 |Unit I | Software Requirements and Design |9| 
-Software life cycle models ; Building the requirements Model --
-Negotiating requirements -- Validating requirements ; Data modeling
-concepts -- The design process -- Design concepts -- The design model
--- Component based development.
+Software life cycle models; Building the requirements model --
+Negotiating requirements -- Validating requirements; Data modeling
+concepts -- Design process -- Design concepts -- Design model --
+Component based development.
 
 {{{unit}}}
 |Unit II|Agile Software Development|9| 
-Agile software development ; SCRUM -- organization -- estimation --
-planning -- changes in scrum -- risk in scrum -- product backlog --
-sprint backlog -- release ; Requirements specification using User
-stories -- Identifying stories and preparing to build ; Agile testing
---Designing the system tests -- Units and their Tests.
+Agile software development; SCRUM -- Organization -- Estimation --
+Planning -- Changes in scrum -- Risk in scrum -- Product backlog --
+sprint backlog -- release; Requirements specification using user
+stories -- Identifying stories and preparing to build; Agile testing
+-- Designing the system tests -- Units and their tests.
 
 {{{unit}}}
 |Unit III|Devops|9| 
@@ -39,29 +41,42 @@ Cross Cutting Concerns: Monitoring -- Security and security audits.
 
 {{{unit}}}
 |Unit IV|Embedded Software Development|9|
-Embedded Software Development Process: System engineering
-process--Software engineering process -- Safety engineering process;
-Designing the process phases of the development project ; Planning the
+Embedded Software Development Process: System engineering process --
+Software engineering process -- Safety engineering process; Designing
+the process phases of the development project; Planning the
 development project management.
 
 {{{unit}}}
 |Unit V| Software Quality Assurance and Testing |9| 
-Software Quality:Achieving software quality -- Six sigma -- ISO standards ; Software configuration management -- The SCM process; Test strategies for conventional software -- Test strategies for webApps -- Validation testing -- System testing -- Testing Web Applications: Testing concepts for webApps -- Content testing -- User interface testing -- Component level testing -- Navigation testing -- Configuration testing -- Security testing -- Performance testing.
+Software Quality: Achieving software quality -- Six sigma -- ISO
+standards; Software configuration management -- The SCM process; Test
+strategies for conventional software -- Test strategies for webApps --
+Validation testing -- System testing -- Testing web applications:
+Testing concepts for webApps -- Content testing -- User interface
+testing -- Component level testing -- Navigation testing --
+Configuration testing -- Security testing -- Performance testing.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
-After the completion of this course, students will be able to:  
-- Understand software engineering life cycle model and apply secure software requirements and design (K3)
-- Understand software quality assurance techniques (K2)
-- Understand,comprehend and apply Agile development technology (K3)
-- Understand the advantages of DevOps practices and embedded software development process.(K2)
-- Comprehend and apply software testing strategies (K3)
+After the completion of this course, students will be able to: 
+- Understand software engineering life cycle model and apply secure
+  software requirements and design (K3).
+- Understand software quality assurance techniques (K2).
+- Understand, comprehend and apply Agile development technology (K3).
+- Understand the advantages of DevOps practices and embedded software
+  development process (K2).
+- Comprehend and apply software testing strategies (K3).
       
+# The second and fourth references are unclear.
 ** References
-1. Roger S. Pressman, Software Engineering: A practitioner's approach, Seventh edition, McGraw-Hill publication, 2010. (Units I,V)
-2. A Guide to the Scrum Body of Knowledge (SBOK Guide) 2016 edition, SCRUMstudy, Phoenix, Arizona 85008 USA (Unit II)
-3. Len Bass, Ingo Weber and Liming Zhu, "DevOps: A Software Architect's Perspective", Pearson Education, 2016 (Unit III)
-4. Embedded System development Process Reference guide, SEC books,IPA, Ver.2.0, 2007. (Unit IV)
+1. Roger S. Pressman, ``Software Engineering: A practitioner's approach'',
+   Seventh edition, McGraw-Hill publication, 2010. (Units I,V)
+2. ``A Guide to the Scrum Body of Knowledge (SBOK Guide)'', 2016
+   edition, SCRUMstudy, Phoenix, Arizona 85008 USA (Unit II)
+3. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
+   Architect's Perspective'', Pearson Education, 2016 (Unit III)
+4. ``Embedded System development Process Reference guide'', SEC books,
+   IPA, Ver.2.0, 2007. (Unit IV)
  
 

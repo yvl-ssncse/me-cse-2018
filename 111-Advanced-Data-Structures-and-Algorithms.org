@@ -11,32 +11,34 @@
 ** Course Objectives
 - To learn advanced tree and graph structures.
 - To learn the need of heap and disjoint set representations.
-- To understand the concept of algorithm design techniques and
-  applying suitable techniques for the given problem.
+- To understand algorithm design techniques and apply suitable
+  techniques for problems.
 
 ** Suggested Programming Languages
 - C, Java or Python
 
 ** Suggestive Exercises
-1. Application of Insertion sort and Merge Sort with complexity analysis 
-2. Application of Binary Search Tree 
-3. Red-Black Tree  
-4. Min Heap, Fibonacci Heap 
+1. Insertion sort and merge Sort with complexity analysis
+2. Application of binary search trees 
+3. Red-Black Tree
+4. Min heap, Fibonacci heap 
 5. Disjoint sets
-6. Application of Graph Traversals – BFS and DFS 
-7. Single source Shortest Path Algorithms - Dijkstra's and Bellman Ford Algorithms
-8. All – pairs Shortest Path Algorithms – Floyds algorithm
-9. Dynamic Programming (eg. Longest-Common-Subsequence Problem, 0/1 Knapsack problem)
-10. Recursive Backtracking (eg. N-queen’s problem)
-11. Greedy Technique (eg. Job/Event Scheduling Problem, Minimum-Spanning-Tree Problem)
-12. Mini project: For a given application, identify and solve using suitable data structure and design technique
+6. Application of graph traversals -- BFS and DFS 
+7. Single source Shortest Path Algorithms: Dijkstra's and Bellman Ford Algorithms
+8. All-pairs Shortest Path Algorithms: Floyd's algorithm
+9. Dynamic programming (e.g. Longest common subsequence, 0/1 Knapsack)
+10. Recursive backtracking (e.g. N-queen’s problem)
+11. Greedy technique (e.g. Job/event scheduling, Minimum spanning tree)
+12. Mini project: For a given application, identify and solve using
+    suitable data structure and design techniques
  
 \hfill *Total: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Implement basic data structures sorting algorithms with analysis. (K4)
-- Implement algorithms using tree and graph structures. (K3)
-- Design and develop efficient algorithms for the given problems using
-  algorithm design techniques. (K3)
+- Implement basic data structures and sorting algorithms with
+  analysis (K4).
+- Implement algorithms using tree and graph structures (K3).
+- Design and develop efficient algorithms for problems, using algorithm
+  design techniques (K3).
 

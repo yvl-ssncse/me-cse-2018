@@ -9,65 +9,79 @@
 |3|0|0|3|
 
 ** Course Objectives
-- To understand the competitive advantages of data analytics 
-- To understand the data frameworks 
-- To learn data analysis methods
-- To learn stream computing 
-- To gain knowledge on Hadoop related tools such as HBase, and Hive for data analytics
+- To understand the competitive advantages of data analytics.
+- To understand data frameworks.
+- To learn data analysis methods.
+- To learn stream computing.
+- To gain knowledge on Hadoop related tools such as HBase, and Hive
+  for data analytics.
 
 {{{unit}}}
 |Unit I|Introduction to Big Data|8| 
-Big Data: Definition -- Characteristic features -- Big data applications --
-Big data vs Traditional data -- Risks of big data -- Structure of big data;
-Web data; Evolution of analytic scalability; Modern Data Analytic Tools:
-R programming
+Big Data: Definition -- Characteristic features -- Big data
+applications -- Big data vs traditional data -- Risks of big data --
+Structure of big data; Web data; Evolution of analytic scalability;
+Modern Data Analytic Tools: R programming.
 
 {{{unit}}}
 |Unit II|Hadoop Framework|9| 
-Distributed File Systems: Large-scale file system organization --
-HDFS concepts -- MapReduce execution -- Algorithms using MapReduce
+Distributed File Systems: Large-scale file system organization -- HDFS
+concepts -- MapReduce execution -- Algorithms using MapReduce.
 
 {{{unit}}}
 |Unit III|Data Analysis |11| 
 Statistical Methods: Regression modelling -- Multivariate analysis;
-Classification: SVM & Kernel methods; Cluster Analysis: 
-Types of data in cluster analysis -- Partitioning methods --
-Hierarchical methods -- Density based methods -- Model based clustering methods
--- Clustering high dimensional data
+Classification: SVM & Kernel methods; Cluster Analysis: Types of data
+in cluster analysis -- Partitioning methods -- Hierarchical methods --
+Density based methods -- Model based clustering methods -- Clustering
+high dimensional data.
 
 {{{unit}}}
 |Unit IV|Mining Data Streams |8| 
-Streams: Concepts -- Stream data model and architecture --
-Sampling data in a stream; Mining Data Streams: Filtering streams --
-Counting distinct elements in a stream -- Estimating moments -- 
-Counting oneness in a window -- Decaying window; Real Time Analytics Platform (RTAP)
-Applications; Case Studies: Real time sentiment analysis
+Streams: Concepts -- Stream data model and architecture -- Sampling
+data in a stream; Mining Data Streams: Filtering streams -- Counting
+distinct elements in a stream -- Estimating moments -- Counting
+oneness in a window -- Decaying window; Real Time Analytics Platform
+(RTAP) Applications; Case Studies: Real time sentiment analysis.
 
 {{{unit}}}
 |Unit V|Big Data Frameworks|9|
-Introduction to NoSQL -- MongoDB -- Aggregate data models -- 
-Hbase: Data model and implementations -- Hbase clients; Hive:
-Data types and file formats -- HiveQL data definition -- HiveQL data manipulation 
--- HiveQL queries 
+Introduction to NoSQL -- MongoDB -- Aggregate data models -- Hbase:
+Data model and implementations -- Hbase clients; Hive: Data types and
+file formats -- HiveQL data definition -- HiveQL data manipulation --
+HiveQL queries.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- Understand how to leverage the insights from big data analytics (K2)
-- Solve applications using statistical and data analytic methods (K3)
-- Perform analytics using streaming data (K3)
-- Develop applications using Hadoop related tools and R Programming(K4)
-- Use database frameworks like MongoDB, Hive and Hbase for data analysis ( K3) 
+- Understand how to leverage the insights from big data analytics
+  (K2).
+- Solve applications using statistical and data analytic methods (K3).
+- Perform analytics using streaming data (K3).
+- Develop applications using Hadoop related tools and R Programming
+  (K4).
+- Use database frameworks like MongoDB, Hive and Hbase for data
+  analysis (K3).
       
 ** References
-1. Bill Franks, ``Taming the Big Data Tidal Wave: Finding Opportunities in Huge Data Streams with Advanced Analytics'', John Wiley & sons, 2012.
-2. Anand Rajaraman and Jeffrey David Ullman, ``Mining of Massive Datasets'', Cambridge University Press, 2012.
-3. Roger D. Peng, ``R programming for data science'', 5th edition, LeanPub, 2016.
-4. Michael Berthold, David J. Hand, ``Intelligent Data Analysis'', Springer, 2007.
-5. Tom White, ``Hadoop: The Definitive Guide – Storage and Analysis at Internet Scale'', 4th Edition, O'Reilly, 2015.
-6. E. Capriolo, D. Wampler, and J. Rutherglen, ``Programming Hive'', O'Reilly, 2012.
+1. Bill Franks, ``Taming the Big Data Tidal Wave: Finding
+   Opportunities in Huge Data Streams with Advanced Analytics'', John
+   Wiley & Sons, 2012.
+2. Anand Rajaraman and Jeffrey David Ullman, ``Mining of Massive
+   Datasets'', Cambridge University Press, 2012.
+3. Roger D. Peng, ``R programming for Data Science'', 5th edition,
+   LeanPub, 2016.
+4. Michael Berthold and David J. Hand, ``Intelligent Data Analysis'',
+   Springer, 2007.
+5. Tom White, ``Hadoop: The Definitive Guide -- Storage and Analysis
+   at Internet Scale'', 4th Edition, O'Reilly, 2015.
+6. E. Capriolo, D. Wampler and J. Rutherglen, ``Programming Hive'',
+   O'Reilly, 2012.
 7. Lars George, ``HBase: The Definitive Guide'', O'Reilly, 2011.
-8. P. J. Sadalage and M. Fowler, ``NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence'', Addison - Wesley Professional, 2012.
-9. Kristina Chodorow, ``MongoDB: The Definitive Guide – Powerful and Scalable Data Storage'', 2nd Edition, O'Reilly, 2013.
+8. P. J. Sadalage and M. Fowler, ``NoSQL Distilled: A Brief Guide to
+   the Emerging World of Polyglot Persistence'', Addison - Wesley
+   Professional, 2012.
+9. Kristina Chodorow, ``MongoDB: The Definitive Guide -- Powerful and
+   Scalable Data Storage'', 2nd Edition, O'Reilly, 2013.
 
