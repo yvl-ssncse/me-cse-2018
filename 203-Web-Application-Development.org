@@ -31,7 +31,7 @@ Directives Programs
 1. Develop online exam web application using AngularJS 
 
 {{{unit}}}
-|Unit IIi| Server Side Framework|12|
+|Unit III| Server Side Framework|12|
 Introduction to NodeJS -- Event Loop -- Patterns -- Core APIs --  EventEmitter -- Callback syntax – Streams -- File system -- Buffers -- Helper APIs -- Data Access -- NoSQL and Document stores -- MongoDB Programs
 Programs
 1. Develop online banking web application using NodeJS
@@ -54,8 +54,8 @@ Programs
 ** Course Outcomes:
 After the completion of this course, students will be able to:
 - Create website using HTML and CSS (K3)
-- Develop web application using script based  frameworks (K3)
-- Develop Web Application using Python based Framework (K3)
+- Develop web applications using script based  frameworks (K3)
+- Develop web applications using Python based framework (K3)
 
 ** References
 1. Jeffrey C, Jackson, ``Web Technologies A Computer Science Perspective'', Pearson Education, 2011. (unit I)
