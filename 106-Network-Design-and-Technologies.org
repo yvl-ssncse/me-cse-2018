@@ -1,0 +1,77 @@
+* <<<CP1106>>> NETWORK DESIGN AND TECHNOLOGIES 
+:properties:
+:author: S. V. Jansi Rani
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** Course Objectives
+- To understand the principles required for network design. 
+- To explore various technologies in the wireless domain.
+- To study about 3G, 4G  and cellular networks.
+- To understand the paradigm of software defined networks.
+- To design network using simulator.
+
+{{{unit}}}
+|Unit I |Network Design|9| 
+OSI Model -- Review of RIP and OSPF Protocols -- LAN cabling
+topologies -- Ethernet switches, routers, firewalls and L3 switches --
+Remote access technologies and devices -- Core networks and
+distribution networks -- Simulation of routing protocols in wired
+networks.
+
+{{{unit}}}
+|Unit II|Wireless Networks|10| 
+IEEE802.16 and WiMAX -- Security -- Advanced 802.16 functionalities --
+Mobile WiMAX - 802.16e -- Network infrastructure -- WLAN -- Configuration
+-- Management operation -- Security -- IEEE 802.11e and WMM -- QoS --
+Comparison of WLAN and UMTS -- Bluetooth -- Protocol stack -- Security --
+Profiles- Simulation of wireless networks.
+
+{{{unit}}}
+|Unit III|Cellular Networks|9| 
+GSM -- Mobility management and call control -- GPRS -- Network
+elements -- Radio resource management -- Mobility management and
+session management -- Small screen web browsing over GPRS and EDGE --
+MMS over GPRS -- UMTS -- Channel structure on the air interface --
+UTRAN -- Core and radio network mobility management -- UMTS security
+
+{{{unit}}}
+|Unit IV|4G Networks |9| 
+LTE -- Network architecture and interfaces -- Mobility management and
+power optimization -- LTE security architecture -- Interconnection
+with UMTS and GSM -- 4G networks and composite radio environment --
+Protocol boosters -- Hybrid 4G wireless networks protocols -- Green
+wireless networks -- Physical layer and Multiple access - Channel
+modelling for 4G -- Introduction to 5G -- Simulation of access control
+list.
+
+{{{unit}}}
+|Unit V|Software Defined Networks|8|
+Introduction -- Centralized and distributed control and data planes --
+Open flow -- SDN controllers - Network function virtualization.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Identify the components required for designing a network (K2).
+- Design a network using different wireless networking technologies (K3).
+- Analyze the various protocols of 3G, 4G and cellular networks (K3).
+- Identify the use of software defined networks (K3).
+- Design and experiment various networks using simulator (K4).
+  
+** References
+1. Larry Peterson and Bruce Davie, ``Computer Networks: A Systems
+   Approach'', 5th edition, Morgan Kauffman, 2011
+2. Martin Sauter, ``From GSM to LTE, An Introduction to Mobile
+   Networks and Mobile Broadband'', Wiley, 2014.
+3. Savo G Glisic, ``Advanced Wireless Networks -- 4G Technologies'',
+   John Wiley & Sons, 2007.
+4. Jonathan Rodriguez, ``Fundamentals of 5G Mobile Networks'',
+   Wiley, 2015.
+5. Thomas D. Nadeau and Ken Gray, ``SDN -- Software Defined Networks'',
+   O'Reilly Publishers, 2013.

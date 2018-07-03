@@ -1,0 +1,103 @@
+* <<<CP1105>>> MACHINE LEARNING 
+:properties:
+:author: S Rajalakshmi, B Senthil Kumar
+:date: 26 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To have a basic knowledge of the concepts and techniques of machine
+  learning.
+- To understand the working of various machine learning algorithms.
+- To use the various probability based learning techniques and
+  evolutionary models.
+- To understand graphical models.
+
+{{{unit}}}
+|Unit I |Introduction|8|
+Learning: Types of machine learning -- Design of a learning system --
+Perspectives and issues in machine learning; Concept Learning Task:
+Concept learning as search -- Finding a maximally specific hypothesis
+-- Version spaces and Candidate elimination algorithm; Curse of
+dimensionality -- Overfitting -- Bias-variance tradeoff.
+
+\begin{comment}
+(Linear Discriminants – Perceptron – Linear Separability – Linear Regression) are moved to second unit. (Curse of Dimensionality -- Overfitting -- Bias-variance tradeoff) are added.
+\end{comment}
+
+{{{unit}}}
+|Unit II|Linear and Non-Linear Models|10| 
+The Brain and the Neuron -- Perceptron -- Linear separability --
+Linear regression; Multi-Layer Perceptron: Going forwards -- Going
+backwards -- Back propagation error -- Multi-layer perceptron in
+Practice -- Examples of using the MLP -- Deriving back-propagation;
+Radial Basis Functions and Splines: Concepts -- RBF Network; Support
+Vector Machines: Kernels.
+
+\begin{comment}
+(Curse of Dimensionality) is moved to first unit. (Interpolations and Basis Functions) are removed. (Kernel methods) is added.
+\end{comment}
+
+{{{unit}}}
+|Unit III|Tree and Probabilistic Models |9| 
+Learning with Trees: Decision trees -- Constructing decision trees --
+Classification and regression trees; Ensemble Learning: Boosting --
+Bagging -- Different ways to Combine Classifiers; Probabilistic
+Learning: Gaussian Mixture Models -- Nearest neighbor methods;
+Unsupervised Learning: K-means algorithms.
+
+\begin{comment}
+(Vector quantization) is removed. (Data into Probabilities – Basic Statistics) are removed.
+\end{comment}
+
+{{{unit}}}
+|Unit IV|Dimensionality Reduction and Evolutionary Models |9| 
+Dimensionality Reduction: Linear discriminant analysis -- Principal
+component analysis -- Independent component analysis; Evolutionary
+Learning: Genetic algorithms -- Genetic offspring -- Genetic operators
+-- Using Genetic algorithms; Reinforcement Learning: `Getting lost'
+example -- Markov decision process.
+
+\begin{comment}
+(Factor Analysis – Locally Linear Embedding – Isomap – Least Squares Optimization) are removed.
+\end{comment}
+
+{{{unit}}}
+|Unit V|Graphical Models |9|
+Markov Chain Monte Carlo Methods: Sampling -- Proposal distribution --
+Markov Chain Monte Carlo; Graphical Models: Bayesian networks --
+Markov Random Fields -- Hidden markov models
+
+\begin{comment}
+(Markov Random Fields – Tracking Methods) are removed.
+\end{comment}
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to: 
+- Understand the basic concepts of machine learning (K2).
+- Apply linear and non-linear techniques for classification problems
+  (K4).
+- Develop applications using tree and probabilistic models (K3).
+- Apply various dimensionality reduction techniques and evolutionary
+  models (K3).
+- Understand the concepts of graphical models (K2).
+      
+** References
+1. Stephen Marsland, ``Machine Learning – An Algorithmic
+   Perspective'', Second Edition, Chapman and Hall/CRC Machine
+   Learning and Pattern Recognition Series, 2014.
+2. Tom M Mitchell, ``Machine Learning, First Edition'', McGraw Hill
+   Education, 2013.
+3. Ethem Alpaydin, ``Introduction to Machine Learning 3e (Adaptive
+   Computation and Machine Learning Series)'', Third Edition, MIT
+   Press, 2014
+4. Jason Bell, ``Machine learning – Hands on for Developers and
+   Technical Professionals'', First Edition, Wiley, 2014
+5. Peter Flach, ``Machine Learning: The Art and Science of Algorithms
+   that Make Sense of Data'', First Edition, Cambridge University
+   Press, 2012.
