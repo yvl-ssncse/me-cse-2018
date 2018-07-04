@@ -1,4 +1,4 @@
-* <<<CP1351>>> Scientific Programming Using Python 
+* <<<CP1351>>> SCIENTIFIC PROGRAMMING USING PYTHON
 :properties:
 :author: T T Mirnalinee, J Bhuvana
 :date: 29 June 2018
@@ -11,12 +11,13 @@
 # The course need to be made lighter (RSM, 2 July 2018).
 
 ** Course Objectives
-- To learn fundamental concepts in python programming such as
+- To learn fundamental concepts in Python programming such as
   variables, flow control structures and to work with lists and
   sequence data.
 - To write Python functions to facilitate code reuse and to deal with
   errors in input.
-- To introduce array computing and to work dictionaries and strings.
+- To introduce array computing and to work with dictionaries and
+  strings.
 - To explore Python's object-oriented features, random numbers and
   statistical computing.
 - To introduce mathematical modeling and to work with discrete
@@ -26,7 +27,7 @@
 |Unit I|Python Fundamentals|9| 
 Introduction -- Variables -- Objects -- Arithmetic operators --
 Importing a module -- Interactive computing -- Python shell -- Type
-conversion-- Symbolic computing; Loops and lists : While loop -- For
+conversion -- Symbolic computing; Loops and lists: While loop -- For
 loops -- Lists -- List comprehension -- Nested lists -- Extracting
 sublists -- Tuples.
 

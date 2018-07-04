@@ -1,6 +1,6 @@
 * <<<CP1101>>> APPLIED PROBABILITY AND STATISTICS
 :properties:
-:author: R S Milton
+:author: S Narasimman, P Venugopal
 :date: 28 June 2018
 :end:
 
@@ -8,42 +8,40 @@
 | L | T | P | C |
 | 4 | 0 | 0 | 4 |
 
-*** Course Objectives
-   - To provide a foundation on topics in applied probability and
-     statistical methods needed for modern optimization methods and
-     risk modeling.
-   - To address the issues and the principles of estimation theory,
-     testing of hypothesis and multivariate analysis. 
+** Course Objectives
+    - To provide a foundation on topics in applied probability and
+      statistical methods needed for modern optimization methods and
+      risk modeling.
+    - To address the issues and the principles of estimation theory,
+      testing of hypothesis and multivariate analysis.
 
 {{{unit}}}
-|Unit I |Probability and Random Variables|12|
-Probability -- Axioms of probability -- Conditional probability --
-Baye's theorem -- Random variables -- Probability function -- Moments
--- Moment generating functions and their properties - Binomial,
-Poisson, Geometric, Uniform, Exponential, Gamma and Normal
-distributions -- Function of a random variable.
+|Unit I|Probability and Random Variables|12|
+Random variables -- Probability function -- Moments -- Moment
+generating functions and their properties -- Binomial, Poisson,
+Geometric, Uniform, Exponential, Gamma and Normal distributions.
 
 {{{unit}}}
 |Unit II|Two Dimensional Random Variables |12|
 Joint distributions -- Marginal and conditional distributions --
-Functions of two dimensional random variables -- Regression curve --
-Correlation.
+Transformation of two dimensional randomvariables -- Correlation and
+regression
 
 {{{unit}}}
-|Unit III|Estimation Theory |12|
+|Unit III|Estimation Theory|12|
 Unbiased estimators -- Method of moments -- Maximum likelihood
 estimation -- Curve fitting by principle of least squares --
 Regression lines.
 
 {{{unit}}}
-|Unit IV|Testing of Hypothesis |12|
-Sampling distributions -- Type I and Type II errors -- Small and large
-samples -- Tests based on Normal, t, Chi square and F distributions
-for testing of mean, variance and proportions -- Tests for
-independence of attributes and goodness of fit.
+|Unit IV|Testing of Hypothesis|12|
+Large sample test based on Normal distribution for single mean and
+difference of means -- Tests based on t, and F distributions for
+testing means and variances -- Contingency table (Test for
+Independency) -- Goodness of fit.
 
 {{{unit}}}
-|Unit V|Multivariate Analysis |12|
+|Unit V|Multivariate Analysis|12|
 Random vectors and matrices -- Mean vectors and covariance matrices --
 Multivariate normal density and its properties -- Principal components
 -- Population principal components -- Principal components from
@@ -51,7 +49,7 @@ standardized variables
 
 \hfill *Total: 60*
 
-*** Course Outcomes
+** Course Outcomes
 After the completion of this course, students will be able to
  demonstrate competency in:
 - Basic probability axioms and rules and the moments of discrete and
@@ -66,12 +64,12 @@ The students should have the ability to use the appropriate and
 relevant, fundamental and applied mathematical and statistical
 knowledge, methodologies and modern computational tools.
 
-*** References
+** References
    1. Devore J. L., ``Probability and Statistics for Engineering and
       the Sciences'', 8th Edition, Cengage Learning, 2014.
    2. Dallas E. Johnson, ``Applied Multivariate Methods for Data
       Analysis'', Thomson and Duxbury Press, 1998.
-   3. Gupta S. C. and Kapoor V.~K., ``Fundamentals of Mathematical
+   3. Gupta S. C. and Kapoor V. K., ``Fundamentals of Mathematical
       Statistics'', Sultan and Sons, New Delhi, 2001.
    4. Johnson R. A., Miller I. and Freund J., ``Miller and Freund's
       Probability and Statistics for Engineers'', Pearson Education,

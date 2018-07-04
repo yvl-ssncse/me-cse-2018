@@ -5,8 +5,8 @@
 :end:
 
 {{{credits}}}
-|L|T|P|C|
-|3|0|0|3|
+| L | T | P | C |
+| 3 | 0 | 2 | 4 |
 
 ** Course Objectives
 - To have a basic knowledge of the concepts and techniques of machine

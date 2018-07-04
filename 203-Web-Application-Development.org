@@ -5,8 +5,8 @@
 :end:
 
 {{{credits}}}
-|L|T|P|C|
-|3|0|2|4|
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
 
 ** Course Objectives
 - To understand the concepts of web application development.
@@ -15,7 +15,7 @@
 - To learn web application development using Python based frameworks. 
 
 {{{unit}}}
-|Unit I| Introduction |12|
+|Unit I| Introduction |9|
 Web Essentials: Web clients, web servers, communication protocol, HTTP
 request and response message; HTML -- CSS -- Javascript: Built-in
 objects and event handling -- Servlets: Architecture, servlet life
@@ -24,7 +24,7 @@ cycle, GET and POST requests, database connectivity programs.
 2. Write a script to demonstrate the use of events
 
 {{{unit}}}
-|Unit II| Client Side Framework |12|
+|Unit II| Client Side Framework |9|
 Introduction to AngularJS -- Anatomy of AngularJS application -- Data
 binding -- Model -- Module -- View -- Controller -- Expressions --
 Scope -- Table -- Select -- Form -- Validation -- DOM -- Event --
@@ -33,14 +33,14 @@ Directives.
 
 # Why study two server-side frameworks, NodeJS and Django? One will do. 
 {{{unit}}}
-|Unit III| Server Side Framework|12|
+|Unit III| Server Side Framework|9|
 Introduction to NodeJS -- Event Loop -- Patterns -- Core APIs --
 EventEmitter -- Callback syntax -- Streams -- File system -- Buffers --
 Helper APIs -- Data Access -- NoSQL and Document stores -- MongoDB.
 1. Develop online banking web application using NodeJS
 
 {{{unit}}}
-|Unit IV| Django Basics|12|
+|Unit IV| Django Basics|9|
 Python for Django: Python basics -- Standard types -- Flowcontrol --
 Exception handling -- Files -- Functions -- Object oriented programming --
 Regular expressions; Building a blog: Creating a project -- Running the
@@ -51,7 +51,7 @@ Views/Logics - Templates and form processing.
 1. Develop Library Management System using MVC Django Architecture
 
 {{{unit}}}
-|Unit V|Advanced Django |12|
+|Unit V|Advanced Django |9|
 Django applications: Photo gallery -- Content management system --
 Liveblog; Advanced Django programming: Customizing the admin --
 Syndication -- Generating downloadable files -- Enhancing Django’s ORM
@@ -59,7 +59,7 @@ Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 1. Develop Inventory Management System using Django Framework 
 
 
-\hfill *Total: 60*
+\hfill *Total: 45*
 
 ** Course Outcomes:
 After the completion of this course, students will be able to:

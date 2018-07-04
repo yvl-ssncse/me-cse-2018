@@ -6,7 +6,7 @@
 
 {{{credits}}}
 |L|T|P|C|
-|4|0|0|4|
+|3 |0|0|3 |
 
 ** Course Objectives
 - To understand the design of Operating Systems.
@@ -17,14 +17,14 @@
   problems.
 
 {{{unit}}}
-|Unit I|Virtualization and Multiprocessor Systems|9| 
+| Unit I | Virtualization and Multiprocessor Systems | 9 |
 History -- Requirements -- Type 1 and Type 2 hypervisors -- Techniques
 for efficient virtualization -- Microkernels -- Memory and I/O
 Virtualizations -- Clouds -- Case study: Vmware -- Multiprocessors --
 Multicomputers -- Distributed systems
 
 {{{unit}}}
-|Unit II|Design of Mobile OS|12| 
+| Unit II | Design of Mobile OS | 9 |
 Android and Google -- History of Android -- Design goals --
 architecture -- Linux extensions -- Dalivik -- Binder IPC -- Android
 applications -- Intents -- Application sandboxes-- Security -- Process
@@ -32,7 +32,7 @@ model -- Typical system architecture -- SoC -- Memory layout and
 mapping -- Development setup -- Evaluation boards
 
 {{{unit}}}
-|Unit III|Scheduling in Real-time Systems |12| 
+| Unit III | Scheduling in Real-time Systems | 9 |
 Introduction -- Applications -- Basic model -- Characteristics of real
 time system -- Safety -- Task types -- Timing constraints -- Concepts
 and characteristics of types of real-time task scheduling -- Clock
@@ -40,19 +40,19 @@ driven scheduling -- Event driven scheduling -- Earliest Deadline
 First -- Rate monotonic algorithm.
 
 {{{unit}}}
-|Unit IV|Resource Handling Techniques in Real-time Systems |12| 
+| Unit IV | Resource Handling Techniques in Real-time Systems | 9 |
 Resource sharing -- Priority inversion -- Priority inheritance
 protocol -- Highest locker protocol -- Priority ceiling protocol--
 Types of priority inversions -- Important features -- Issues and task
 dependencies.
 
 {{{unit}}}
-|Unit V|Operating Sytem Design|12|
+| Unit V | Operating Sytem Design | 9  |
 The nature of the design problem -- Interface design --
 implementation-- Performance -- Project management -- Trends in
 Operating system design.
 
-\hfill *Total: 60*
+\hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 

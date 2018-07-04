@@ -5,8 +5,8 @@
 :end:
 
 {{{credits}}}
-|L|T|P|C|
-|3|0|2|4|
+| L | T | P | C |
+| 2 | 0 | 2 | 3 |
 
 ** Course Objectives
 - To understand the fundamentals of Internet of Things.
