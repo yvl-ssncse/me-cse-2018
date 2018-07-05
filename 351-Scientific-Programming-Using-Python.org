@@ -14,12 +14,9 @@
 - To learn fundamental concepts in Python programming such as
   variables, flow control structures and to work with lists and
   sequence data.
-- To write Python functions to facilitate code reuse and to deal with
-  errors in input.
+- To write Python functions to facilitate code reuse.
 - To introduce array computing and to work with dictionaries and
   strings.
-- To explore Python's object-oriented features, random numbers and
-  statistical computing.
 - To introduce mathematical modeling and to work with discrete
   calculus, differentiation and integration.
 
@@ -33,36 +30,49 @@ sublists -- Tuples.
 
 {{{unit}}}
 |Unit II|Functions and branching, File handling|9| 
-Functions and branching: Python functions -- Local and global
-variables -- Multiple arguments -- Multiple return values -- Functions
-as arguments -- Branching- If-else blocks -- Inline if tests.  User
-input and error handling : Reading keyboard input -- Reading from the
-command line -- Reading data from file -- Writing data to file --
+Functions and branching: Functions -- Local and global variables --
+Multiple arguments -- Multiple return values -- Functions as arguments
+-- Branching: If-else blocks -- Inline if tests.  User input: Reading
+keyboard input -- Reading from the command line -- Reading data from
+file -- Writing data to file.
+#+BEGIN_COMMENT
+User input and error handling: Reading keyboard input -- Reading from
+the command line -- Reading data from file -- Writing data to file --
 Handling errors -- Exception handling -- Raising exceptions -- Making
 modules.
+#+END_COMMENT
 
 {{{unit}}}
-|Unit III|Arrays, Dictionaries and Strings|10| 
-Array computing and curve plotting : Vectors -- Basics of numerical Python arrays --  
-Vectorization -- advanced vectorization of functions --  Curve plotting -- Matrices and arrays.
-Dictionaries and Strings: Making dictionaries -- Dictionary operations --  Strings -- 
-operations on strings -- Reading and writing spreadsheet files.
+|Unit III|Arrays, Dictionaries|8 | 
+Array computing and curve plotting : Vectors -- Basics of numerical
+Python arrays -- vectorization -- Curve plotting -- Matrices and
+arrays.  Dictionaries: Making dictionaries -- Dictionary
+operations.
+# advanced vectorization of functions --  
 
 {{{unit}}}
-|Unit IV|Classes, Random Numbers |9| 
-Introduction to classes: Simple function classes -- Representing a function as a class -- 
-Special methods -- Adding objects -- Static methods and attributes.
-Random numbers : Drawing random numbers --  Drawing integers -- Computing probabilities -- 
-Monte Carlo integration -- Random walk in one space and two space dimensions.
+|Unit IV| Strings, Classes  |10 | 
+Strings: Operations on strings -- Reading and writing spreadsheet
+files; Introduction to classes: Simple function classes --
+Representing a function as a class -- Special methods -- Adding
+objects -- Static methods and attributes.
+#+BEGIN_COMMENT
+Random numbers: Drawing random numbers -- Drawing integers --
+Computing probabilities -- Monte Carlo integration -- Random walk in
+one space and two space dimensions.
+#+END_COMMENT
  
 {{{unit}}}
-|Unit V|Object-Oriented Programming|8|
-Object-Oriented Programming: Inheritance  --  Superclass for defining an interface -- 
-Class hierarchies; Sequences and difference equations --  Mathematical models based on difference equations -- 
-Programming with sound;  Introduction to discrete calculus --  Discrete functions  -- 
-Differentiation becomes finite differences --  Integration becomes summation --  
-Taylor series;  Introduction to differential equations --  Exponential growth --  Logistic growth. 
-
+|Unit V|Sequences and difference equations|9 |
+Mathematical models based on difference equations; Introduction to
+discrete calculus: Discrete functions -- Differentiation becomes
+finite differences -- Integration becomes summation -- Taylor series;
+Introduction to differential equations -- Exponential growth --
+Logistic growth.
+#+BEGIN_COMMENT
+Object-Oriented Programming: Inheritance -- Superclass for defining an
+interface -- Class hierarchies;
+#+END_COMMENT
 \hfill *Total:45*
 
 ** Course Outcomes
@@ -73,9 +83,6 @@ After the completion of this course, students will be able to:
   functions, error handling and file handling. (K3)
 - Develop applications to demonstrate the understanding of arrays
   dictionaries and strings. (K3)
-- Master the principles of object-oriented programming and able to
-  generate random numbers and use them to run stochastic
-  simulations. (K4)
 - Write code in Python to solve problems requiring the discrete
   calculus, Differentiation, Integration and scientific
   simulations. (K3)

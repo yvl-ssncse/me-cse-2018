@@ -1,6 +1,6 @@
 * <<<CP1352>>> INTRODUCTION TO MACHINE LEARNING
 :properties:
-:author: S Kavitha
+:author: S Kavitha, B Senthil Kumar
 :date: 04 July 2018
 :end:
 
@@ -18,39 +18,41 @@
 
 {{{unit}}}
 |Unit I|Introduction to Machine Learning|9| 
-Why Machine Learning: Problems Machine Learning Can Solve -- Knowing
-Your Task and Knowing Your Data; Why Python; scikit-learn: Installing
-scikit-learn; Essential Libraries and Tools: Jupyter Notebook – NumPy
--- SciPy -- matplotlib – pandas –mglearn; Python 2 Versus Python;
-First Application: Classifying Iris Species: Meet the Data --
-Measuring Success -- Training and Testing Data – Building Model:
-k-Nearest Neighbors -- Making Predictions -- Evaluating the Model.
+Why Machine Learning: Problems Machine Learning Can Solve -- Task and
+ Data; scikit-learn; Essential Libraries and Tools: Jupyter Notebook –
+ NumPy -- SciPy -- matplotlib -- pandas -- mglearn; Classifying Iris
+ Species: Data -- Measuring Success -- Training and Testing Data –
+ Building Model: k-Nearest Neighbors -- Making Predictions --
+ Evaluating the Model.
 
 {{{unit}}}
 |Unit II|Data pre-processing|9| 
 Preprocessing and Scaling: Different Kinds of Preprocessing --
 Applying Data Transformations -- Scaling Training and Test Data;
-Categorical Variables: One-Hot-Encoding -- Numbers Encode
+Categorical Variables: One-Hot-Encoding -- Numbers to Encode
 Categoricals; Binning, Discretization, Linear Models, and Trees;
 Interactions and Polynomials; Univariate Nonlinear Transformations;
 Automatic Feature Selection: Univariate Statistics -- Model-Based
 Feature Selection -- Iterative Feature Selection.
 
+{{{unit}}}
 |Unit III |Supervised Learning |9| 
 Classification and Regression; Generalization, Overfitting, and
 Underfitting; Relation of Model Complexity to Dataset Size; Supervised
 Machine Learning Algorithms: Sample Datasets -- k-Nearest Neighbors --
 Linear Models -- Naive Bayes Classifiers -- Decision Trees --
-Ensembles of Decision Trees –Bagging – Random Forests – Boosting --
-Networks (Deep Learning).
+Ensembles of Decision Trees -- Bagging -- Random Forests -- Boosting
+-- Neural Networks (Deep Learning).
 
-|Unit IV | Unsupervised Learning |9| 
-Types of Unsupervised Learning; Challenges in Unsupervised Learning;
-Dimensionality Reduction: Principal Component Analysis (PCA);
-Clustering -- k-Means Clustering Agglomerative Clustering -- Comparing
-and Evaluating Clustering Algorithms
+{{{unit}}}
+| Unit IV | Unsupervised Learning | 9 |
+Types of Unsupervised Learning; Challenges; Dimensionality Reduction:
+Principal Component Analysis (PCA); Clustering -- k-Means Clustering
+Agglomerative Clustering -- Comparing and Evaluating Clustering
+Algorithms.
 
-|Unit IV | Model Evaluation and Improvement.|9| 
+{{{unit}}}
+| Unit V | Model Evaluation and Improvement. | 9 |
 Cross-Validation: Cross-Validation in scikit-learn -- Benefits of
 Cross-Validation -- Stratified k-Fold Cross-Validation and Other
 Strategies; Grid Search: Simple Grid Search -- The Danger of
