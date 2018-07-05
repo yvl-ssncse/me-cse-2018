@@ -9,6 +9,13 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objective
+
+- Understand the basic concept of project management
+- Learn the various costing and life cycle management
+- Understand the role played by risk in software project
+- Appreciate the use of metrics for software project management
+- Know the challenges in people management
+
 #+BEGIN_COMMENT
 Software project management course describes the key aspects of a
 managerial process in Software organization. It addresses the topics
@@ -22,42 +29,36 @@ the Software project managers.
 #+END_COMMENT
 
 {{{unit}}}
-|Unit I|Project Planning|9|
-Project management life cycle - project evaluation and programme
-management - project planning - project models : waterfall, spiral,
-prototyping, incremental delivery, DSDM, agile, scrum, XP, lean
-software development - process model selection.
+|Unit I|Project Management and Costing 	|9|
+Software Project Management: Approaches - Project acquisition - Initiation - Planning - Execution - Execution control - Change management - Scheduling - Project closure
 
 {{{unit}}}
-|Unit II|Estimation and Scheduling|9|
-Effort estimation techniques - Expert judgement - FPA - FP mark II -
-COSMIC- COCOMO II - cost estimation - project schedules - network
-model - identifying critical activities.
+|Unit II|Life Cycle Models and Quality Management|9|
+Introduction to life cycle models - Agile development models - Extreme programming - Scrum; Project planning - Metrics of project size estimation - Project estimation techniques - Empirical estimation techniques - COCOMO  - Halstead - Staffing level; ISO 9000 - SEI CMM -SPICE - PSP
 
 {{{unit}}}
-|Unit III|Agile and Devops|9|
-SCRUM - organization - estimation - planning - changes in scrum - risk
-in scrum - product backlog - sprint backlog - release - Identifying
-Stories and Preparing to Build - DevOps: Motivation - Cloud as a
-platform - Operations - Deployment Pipeline.
+|Unit III|Risk Management|9|
+Perspectives of Risk Management - Risk Definition - Risk Categories – Risk Assessment - Approaches, techniques and good practices - Risk Identification - Analysis - Prioritization - Risk Control - Planning -- Resolution - Monitoring - Risk Retention – Risk Transfer -- Failure Mode and Effects Analysis (FMEA) - Operational Risks – Supply Chain Risk Management.
 
 {{{unit}}}
-|Unit IV|Security and Risk Management|9|
-Cloud Information Security Objectives - Cloud Security Services -
-Secure Development Practices - Risk culture - risk management
-process - risk attributes - risk identiification - types of risk
-analysis - responding to risk - risk tracking - risk models.
+|Unit IV|Metrics|9|
+Need for software metrics – Scope – Basics – Framework for software measurement - Classification of software metrics: Product metrics - Size metrics - Complexity metrics -Halstead's product metrics - Quality metrics - Process metrics - Empirical models - Statistical models - Theory-based models - Composite models - Reliability models - Measuring internal and external product attributes.
 
 {{{unit}}}
-|Unit V|Monitoring and Organizing Teams|9|
-Visualizing Progress – Relationship between people and effort, Task
-Set & Network - Earned Value Analysis - SCM - Managing Contracts –
-Working in teams - Developing metrics on a software development
-program - Evaluating performance.
+|Unit V|People Management|9|
+Managing people in software environment: Introduction - Understanding behaviour- Organizational behaviour- Selecting the right person- Oldham-Hackman job characteristics model; Stress: Stress management - Health and safety - Ethical and professional concerns; Working in teams: Becoming a team - Decision making - Organization and team structure -  Coordination dependencies -- Dispersed and virtual teams - Communication genres - Communication plans - Leadership.
 
 \hfill *Total: 45*
 
 ** Course Outcome
+
+- Identify the various elements of software management process framework (K2)
+- Use available open source estimation tools for cost estimation (K3)
+- Identify existing risk and perform risk assessment (K2)
+- Design a software metric for software project management (K3)
+- Modify the art of interviewing people for a given scenario (K3)
+
+
 #+BEGIN_COMMENT
 Upon completion of the course, the student should be able to:
 - Apply management skills and techniques to develop commercial software projects
@@ -71,20 +72,10 @@ Upon completion of the course, the student should be able to:
 
 
 ** References
-1. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project
-   Management'', Sixth Edition, Tata McGraw Hill, 2018.
-2. Ravindranath Pandian, ``Applied Software Risk Management A Guide
-   for Software Project Managers'', Auerbach Publication, 2007
-3. Roger S. Pressman, ``Software Engineering - A Practitioner’s
-   Approach'', Seventh Edition, Mc Graw-Hill International
-   Edition, 2010.
-4. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition,
-   PHI Learning Pvt. Ltd., 2009.
-5. ``A Guide to the Scrum Body of Knowledge (SBOK Guide)'', 2016
-   edition, SCRUMstudy, Phoenix, Arizona 85008 USA.
-6. Len Bass, Ingo Weber and Liming Zhu, ``DevOps: A Software
-   Architect's Perspective'', Pearson Education, 2016.
-7. Ronald L. Krutz, Russell Dean Vines, ``Cloud Security - A
-   comprehensive Guide to Secure Cloud Computing'', Wiley -
-   India, 2010.
+1. Murali Chemuturi, Thomas M. Cagley, ``Mastering Software Project Management: Best Practices, Tools and Techniques'', J. Ross Publishing, 2010.(Unit 1)
+2. Rajib Mall, ``Fundamentals of Software Engineering'', 3rd edition, PHI Learning Pvt. Ltd., 2009.(Unit 2)
+3. Ravindranath Pandian, ``Applied Software Risk Management A Guide for Software Project Managers'', Auerbach Publication, 2007. (Unit 3)
+4. Antonio Borghesi, Barbara Gaudenzi, ``Risk Management: How to Assess, Transfer and Communicate Critical Risks: Perspectives in Business Culture'',Illustrated Edition, Springer, 2012. (Unit 3)
+5. Norman Fenton, James Bieman, ``Software Metrics: A Rigorous and Practical Approach'', 3rd edition, CRC Press, 2015..
+6. Bob Hughes, Mike Cotterell, Rajib Mall, ``Software Project Management'', Sixth  Edition, Tata McGraw Hill, 2018.
 
