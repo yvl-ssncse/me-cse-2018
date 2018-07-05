@@ -1,0 +1,89 @@
+* <<<CP1335>>> STORAGE AND SERVER SECURITY
+:properties:
+:author: N Sujaudeen, V Balasubramanian
+:date: 29 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the storage systems architecture and available technologies.
+- To learn and identify a suitable storage networking technologies.
+- To identify the areas to provide security in storage infrastructure.
+- To learn the security aspects of data center.
+- To learn the security protocols and technologies with respect to infrastructure.  
+
+{{{unit}}}
+|Unit I|Storage Systems Architecture|9|
+Introduction to Information Storage and Management : Evolution of
+Storage Technology and Architecture -- Data Center Infrastructure --
+Key Challenges in Managing Information -- Information Lifecycle --
+Components of a storage system environment; Data Protection:
+Implementation of RAID -- RAID Array components; Different RAID levels
+and their suitability for different application environments: RAID 0,
+RAID 1, RAID 3, RAID 4, RAID 5, RAID 0+1, RAID 1+0, RAID 6 -- RAID
+impact on disk performance; Compare and contrast integrated and
+modular storage systems; High-level architecture and Working of an
+Intelligent storage system.
+
+{{{unit}}}
+|Unit II |Storage Networking Technologies|9|
+Direct Attached Storage (DAS); Network Attached Storage (NAS); Storage
+Area Network (SAN); Internet Protocol SAN (IP-SAN); Content Addressed
+Storage (CAS).
+
+{{{unit}}}
+|Unit III |Securing the Storage Infrastructure and Security Implementations|9|
+Storage Security Framework; Risk Triad: Assets -- Threats --
+Vulnerability; Storage Security Domains: Securing the Application
+Access Domain -- Securing the Management Access Domain -- Securing
+Backup, Recovery, and Archiving (BURA); SAN: Security Architecture --
+Security Mechanisms; NAS: File Sharing -– Windows & Linux -- Kerberos;
+Network-Layer Firewalls; IP SAN: Authentication Protocol -- iSNS
+discovery domain.
+
+{{{unit}}}
+|Unit IV |Data Center Security Overview|9|
+Data Center Design: Types of Server Farms and Data Center; Data center
+security overview: Need for a secure data center -- Vulnerabilities
+and common attacks; Network Security Infrastructure; Security
+Fundamentals; Data center security frameworks: Security policies --
+Security lifecycle; Secure Management Framework.
+
+{{{unit}}}
+|Unit V |Security Protocols and Technologies|9|
+Security Protocols and Technologies: Cryptography -- PKI -- Transport
+Security -- Authentication Protocols and Technologies; Network
+management security; Integrating security into the infrastructure:
+Defining security zone -- Internet Edge -- Intranet Server Farm --
+Server-Farm Design Alternative -- Management Network.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to:
+- Understand the storage systems architecture (K2) 
+- Choose an appropriate storage networking technology for the given specification (K3)
+- identify Security Implementations in Storage Networking (K3)
+- Explain the security aspects in designing a datacenter (K2)
+- Design the security protocols for the infrastructure (K3)
+
+
+** References
+1. EMC Corporation, ``Information Storage and Management: Storing,
+   Managing, and Protecting Digital Information in Classic,
+   Virtualized, and Cloud Environments'', EMC Education Services, 2nd
+   Edition Edition, John Wiley and Sons, 2012.
+2. Mauricio Arregoces, Maurizio Portolani, ``Data Center
+   Fundamentals'', Cisco Press, 2003.
+3. Robert Spalding, ``Storage Networks: The Complete Reference'',
+   McGraw Hill, 2017.
+4. John Chirillo and Scott Blaul, ``Storage Security: Protecting SANs,
+   NAS and DAS'', John Wiley & Sons, 2003.
+5. Thejendra B. S, ``Disaster Recovery and Business Continuity'', IT
+   Governance Publishing, 3rd Edition, 2014.
+
+
+

@@ -1,0 +1,90 @@
+* <<<CP1333>>> SOCIAL NETWORK ANALYSIS 
+:properties:
+:author: S Saraswathi, G Raghuraman
+:date: 26 June 2018
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the components of the social network. 
+- To execute the models and visualize the social network using tools. 
+- To learn the mining of communities in the social network. 
+- To study the evolution of the social network. 
+- To know the applications in real time systems. 
+
+{{{unit}}}
+|Unit I | Introduction 	|9| 
+The Semantic Web: Limitations of current web -- Development of
+semantic web -- Emergence of the social web; Statistical properties of
+social networks; Social Network Analysis: Development of social
+network analysis -- Key concepts and measures in network analysis --
+Discussion; Blogs and online communities -- Web-based networks.
+
+
+{{{unit}}} 
+|Unit II|Modeling and Visualization |9| 
+Modelling and aggregating social network data: Aggregating and
+reasoning with social network data -- Advanced representations;
+Visualization of Social Networks: Centrality -- Clustering --
+Node-Edge diagrams; Visualizing online social networks: Node-Link
+Diagrams -- Matrix-based representations
+
+{{{unit}}} 
+|Unit III|Mining Communities |9| 
+Random walks in social networks and their applications: -- RandomWalks
+on graphs -- Algorithms -- Applications; Detecting Communities in
+Social Networks: Core methods -- Emerging fields and problems; Node
+classification in social networks.
+
+{{{unit}}} 
+|Unit IV| Evolution   |9| 
+Evolution in Social Networks: Framework -- Tracing smoothly evolving
+communities; Models and Algorithms for Social Influence Analysis:
+Influence related statistics -- Social similarity and influence --
+Influence maximization in viral marketing; Algorithms and Systems for
+Expert Location in Social Networks: Expert location without graph
+constraints -- Score propagation -- Expert team formation; Link
+Prediction in Social Networks: Feature based link prediction --
+Bayesian probabilistic models -- Probabilistic relational models
+
+{{{unit}}} 
+|Unit V|Applications |9|
+A learning based approach for real time emotion classification of
+tweets; A new linguistic approach to assess the opinion of users in
+social network environments; Explaining scientific and technical
+emergence forecasting; Social network analysis for biometric template
+protection
+
+\hfill *Total:45*
+
+** Course Outcomes
+After the completion of this course, students will be able to:  
+- Understand the components of the social network(K2). 
+- Have working knowledge on the models and visualize the social network using tools(K3). 
+- Gain knowledge on mining of communities in the social network(K2). 
+- Understand the evolution of the social network(K2). 
+- Work on the applications in real time systems(K3). 
+
+
+      
+** References
+1. Peter Mika, ``Social Networks and the Semantic Web'', Springer, 1st
+   edition, 2007.
+2. Borko Furht,``Handbook of Social Network Technologies and
+   Applications'', Springer, 1st edition, 2011
+3. Charu C. Aggarwal, ``Social Network Data Analytics'', Springer,
+   2014
+4. Przemyslaw Kazienko, Nitesh Chawla,``Applications of Social Media
+   and Social Network Analysis'', Springer,2015
+5. Giles, Mark Smith, John Yen, ``Advances in Social Network Mining
+   and Analysis'', Springer, 2010.
+6. Guandong Xu , Yanchun Zhang and Lin Li, ``Web Mining and Social
+   Networking – Techniques and applications'', Springer, 1st edition,
+   2012
+7. Ajith Abraham, Aboul Ella Hassanien, Vaclav Snasel, ``Computational
+   Social Network Analysis: Trends, Tools and Research Advances'',
+   Springer, 2012
+
+

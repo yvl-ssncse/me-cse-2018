@@ -1,0 +1,84 @@
+* <<<CP1336>>> FORMAL MODELS OF SOFTWARE SYSTEMS
+:properties:
+:author: S Sheerazuddin
+:date: 28 June 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|3|0|0|3|
+
+** Course Objectives
+- To understand the need of formal modeling for software systems.
+- To understand relations, functions, and logical structures in Z.
+- To understand Z schemas and schema calculus.
+- To learn selected Z case studies.
+- To understand Z schema refinement.
+
+{{{unit}}}
+|Unit I|Formal Methods and Logic|9|
+Formal methods: motivation for formal methods -- abstraction -- importance
+of proofs -- informal requirements to formal specifications -- validating
+formal specifications; Propositional logic: natural deduction for
+propositional logic; First order logic: natural deduction for first
+order logic; Equality and definite description: one-point
+rule -- uniqueness and quantity; Induction: mathematical and structural
+induction
+
+{{{unit}}}
+|Unit II|Sets and Relations|8|
+Sets: membership -- extension -- comprehension -- set operations -- power
+sets -- types; Definitions: declarations -- abbreviations -- axiomatic
+definitions --  generic definitions -- generic abbreviations; Relations:
+binary relations -- inverse, compositions, closures; Functions: lambda
+notation -- overriding --  properties of functions -- finite sets;
+Sequences: functions on sequences -- bags; Free types; Simple formal
+specifications: modeling systems and change
+
+{{{unit}}}
+|Unit III|Schema and Schema Calculus|10|
+Z schemas: schemas as types -- schemas as declarations -- schemas as
+predicates -- renaming -- generic schemas; Schema operators:
+conjunction -- decoration --  disjunction -- negation -- quantification and
+hiding -- composition; Preconditions: the initialisation
+theorem -- precondition investigation -- calculation and
+simplification -- structure and preconditions
+
+{{{unit}}}
+|Unit IV|Case Studies|8|
+Case Study: Text processing system; Case Study: Eight Queens; Case
+Study: Graphical User Interface; Case Study: Safety critical
+protection system; Case Study: Concurrency and real time systems
+
+{{{unit}}}
+|Unit V|Refinement|10|
+Refinement of Z specification: generalizing refinements -- refinement
+strategies; Program derivation and verification: refinement calculus;
+From Z to code: data structures -- state schemas -- functions and
+relations -- operation schemas -- schema expressions -- refinement case
+study.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to:
+- Write specifications in Z for simple systems (K3)
+- Perform verification and conduct proofs using Z (K3)
+- Refine Z models for simple case studies (K3)
+
+** References
+1. Jim Woodcock and Jim Davies, ``Using Z:Specification, Refinement,
+   and Proof'', PrenticeHall, 1996. (Units I, II, III)
+2. Jonathan Jacky, ``The way of Z: Practical programming with formal
+   methods'', Cambridge University Press, 1996. (Units IV, V)
+3. Antoni Diller, ``Z: An introduction to formal methods'', Second
+   Edition, Wiley, 1994.
+4. J. M. Spivey, ``The Z notation: A reference manual'', Second
+   Edition, Prentice Hall, 1992.
+5. M. Ben-Ari, ``Mathematical logic for computer science'', Second
+   Edition, Springer, 2003.
+6. M. Huth and M. Ryan, ``Logic in Computer Science -- Modeling and
+   Reasoning about systems'', Second Edition, Cambridge University
+   Press, 2004.
+
+
