@@ -54,7 +54,7 @@ Communication APIs -- Cloud for IoT -- Amazon Web Services for IoT.
 
 \hfill *Total: 45*
 
-Suggestive Experiments (using Arduino / Raspberry Pi Board)
+** Suggestive Exercises (using Arduino / Raspberry Pi Board)
 1. Study of Arduino and Raspberry Pi Board
 2. LED blinking and fading 
 3. Push button and LDR interfacing 

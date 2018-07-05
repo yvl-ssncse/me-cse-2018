@@ -24,7 +24,7 @@ networks: SMS -- GPRS -- EDGE -- Hybrid Wireless100 Networks -- ATM --
 Wireless ATM. (K2)
 
 {{{unit}}}
-|Unit II|OVERVIEW OF A MODERN 4G TELECOMMUNICATIONS SYSTEM |9| 
+|Unit II|Overview of a Modern 4G Telecommunications System  |9| 
 Introduction -- LTE-A System Architecture: LTE RAN -- OFDM Air
 Interface -- Evolved Packet Core -- LTE Requirements; LTE-Advanced :
 LTE-A in Release; OFDMA: Introduction -- OFDM Principles -- LTE
@@ -32,14 +32,14 @@ Uplink-- SC-FDMA -- Summary of OFDMA (K2)
 
 
 {{{unit}}}
-|Unit III|PERVASIVE COMPUTING CONCEPTS AND ELEMENTS|9| 
+|Unit III|Pervasive Computing Concepts and Elements |9| 
 Perspectives of Pervasive Computing -- Challenges -- Technology --
 Infrastructure and Devices -- Middleware for Pervasive Computing
 Systems -- Pervasive Computing Environments -- Context Collection and
 Wireless Sensor Networks -- User Tracking -- Context Reasoning (K2)
 
 {{{unit}}}
-|Unit IV|HUMAN COMPUTER INTERFACE IN PERVASIVE ENVIRONMENTS |9| 
+|Unit IV|Human Computer Interface in Pervasive Environments |9| 
 HCI Service and Interaction Migration -- Context Driven HCI Service
 Selection -- Interaction Service Selection Overview -- User Devices --
 Service-Oriented Middleware Support -- User History and Preference --
@@ -49,7 +49,7 @@ Combination Selection Algorithm -- A web based HCI migration
 framework.  (K3)
 
 {{{unit}}}
-|Unit V|PERVASIVE MOBILE TRANSACTION |9|
+|Unit V|Pervasive Mobile Transaction |9|
 Introduction to Pervasive Transactions -- Mobile Transaction Framework
 -- Context-Aware Pervasive Transaction Model -- Dynamic Transaction
 Management -- Formal Transaction Verification (K3)

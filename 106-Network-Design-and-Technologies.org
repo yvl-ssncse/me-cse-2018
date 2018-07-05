@@ -54,6 +54,17 @@ list.
 Introduction -- Centralized and distributed control and data planes --
 Open flow -- SDN controllers - Network function virtualization.
 
+** Suggestive Exercises
+1. Establishing LAN
+2. Creation of Virtual LAN
+3. Simulation of Wired networks
+4. Simulation of Wireless networks
+5. Analyzing the packet flow using  Wireshark Tool and TCP Dump
+6. Simulation of Routing Protocol RIP
+7. Simulation of Routing Protocol OSPF
+8. Simulation of interdomain redistribution of RIP- OSPF
+9. Creation of Access Control List in the server firewall
+
 \hfill *Total: 45*
 
 ** Course Outcomes

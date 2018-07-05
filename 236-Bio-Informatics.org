@@ -48,7 +48,7 @@ Branch and Bound algorithm -- open problems -- comparing biological
 sequences- Case Study -- Manhattan tourist Problem.
 
 {{{unit}}}
-|nit V|Human Genome|9|
+|Unit V|Human Genome|9|
 Human and mouse genomes-random breakage model of chromosome evolution
 -- sorting by reversals -- greedy heuristic approach -- break points-
 rearrangements in tumor and break point genomes-break point graps --

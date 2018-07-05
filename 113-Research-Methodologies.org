@@ -1,0 +1,52 @@
+* <<<CP113>>> RESEARCH METHODOLOGIES
+
+:properties:
+:author: J Suresh
+:date: 05 July 2018
+:end:
+
+{{{credits}}}
+|L|T|P|C|
+|1|0|0|1|
+
+** Course Objectives
+
+{{{unit}}}
+| Unit I | Foundations of Research | 2 |
+Meaning -- Objectives -- Motivation -- Utility; Concept of theory --
+empiricism -- deductive and inductive -- theory; Characteristics of
+scientific method; Understanding the language of research
+
+{{{unit}}}
+| Unit II | Problem Identification & Formulation | 2 |
+Research Question -- Investigation Question -- Measurement Issues --
+Hypothesis -- Hypothesis Testing -- Logic & Importance
+
+{{{unit}}}
+| Unit III | Research Design | 2 |
+Concept and Importance in Research -- Features of a good research
+design -- Exploratory Research Design -- Descriptive Research Designs
+
+{{{unit}}}
+| Unit IV | Qualitative and Quantitative Research | 2 |
+Concept of measurement -- causality -- generalization -- replication;
+Merging the two approaches.
+
+{{{unit}}}
+| Unit V | Interpretation of Data and Paper Writing | 7 |
+Layout of a Research Paper -- When and where to publish -- Ethical
+issues related to publishing -- Plagiarism and Self Plagiarism --
+Reference Management Software like Zotero/Mendeley; Software for paper
+formatting like LaTeX.
+
+\hfill *Total: 15*
+
+** Course Outcomes
+
+** References
+1. Donald Cooper and Pamela Schindler, Business Research Methods,
+   TMGH, 9th edition, 2013
+2. Alan Bryman and Emma Bell, Business Research Methods, Oxford
+   University Press, 3rd edition, 2011
+3. C. R. Kothari and Gaurag Garg, Research Methodology, 4th edition,
+   2018
