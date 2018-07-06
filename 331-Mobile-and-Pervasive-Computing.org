@@ -63,10 +63,10 @@ Upon the completion of the course the students should be able to:
 
 2. Minyi Guo, Jingyu Zhou, Feilong Tang, Yao Shen, ``Pervasive Computing: Concepts, Technologies and Applications '' CRC Press, 2016 (Unit III, IV, V)
 
-3.Juha Korhonen, ``Introduction to 4G Mobile Communications'' , Artech House Publishers, 2014(Unit II)
+3. Juha Korhonen, ``Introduction to 4G Mobile Communications'' , Artech House Publishers, 2014(Unit II)
 
-4.Kolomvatsos, Kostas, ``Intelligent Technologies and Techniques for Pervasive Computing'', IGI Global, 2013.
+4. Kolomvatsos, Kostas, ``Intelligent Technologies and Techniques for Pervasive Computing'', IGI Global, 2013.
 
-5.M. Bala Krishna, Jaime Lloret Mauri, ``Advances in Mobile Computing and Communications: Perspectives and Emerging Trends in 5G Networks'', CRC 2016
+5. M. Bala Krishna, Jaime Lloret Mauri, ``Advances in Mobile Computing and Communications: Perspectives and Emerging Trends in 5G Networks'', CRC 2016
 
-6.Alan Colman, Jun Han, and Muhammad Ashad Kabir, ``Pervasive Social Computing Socially-Aware Pervasive Systems and Mobile Applications'', Springer, 2016.
+6. Alan Colman, Jun Han, and Muhammad Ashad Kabir, ``Pervasive Social Computing Socially-Aware Pervasive Systems and Mobile Applications'', Springer, 2016.
