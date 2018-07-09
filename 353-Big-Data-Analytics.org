@@ -67,4 +67,3 @@ After the completion of this course, students will be able to:
 5. Lars George, ``HBase: The Definitive Guide'', O'Reilly, 2011.
 6. Kristina Chodorow, ``MongoDB: The Definitive Guide -- Powerful and
    Scalable Data Storage'', 2nd Edition, O'Reilly, 2013.
-
