@@ -9,69 +9,50 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To understand the design of databases. 
 - To acquire knowledge on parallel and distributed databases and its applications. 
-- To study the usage and applications of Object Oriented and Intelligent databases. 
-- To understand the emerging databases like Mobile, XML, Cloud and Big Data 
+- To understand  and apply the concepts of object and object-relational databases.
+- To design and develop a web database using XML data model. 
+- To understand the emerging databases like mobile, and intelligent databases. 
 
 {{{unit}}}
-| Unit I | Parallel and Distributed Databases | 9 |
-Database System Architectures: Centralized and Client-Server
-Architectures -- Server System Architectures -- Parallel Systems
--- Distributed Systems; Parallel Databases: I/O Parallelism --
-Inter and Intra Query Parallelism -- Inter and Intra operation
-Parallelism -- Design of Parallel Systems; Distributed Database
-Concepts: Distributed Data Storage -- Distributed Transactions --
-Commit Protocols -- Concurrency Control -- Distributed
-Query Processing; Three Tier Client Server Architecture; Case Studies
+|Unit I |Parallel and Distributed Databases|9| 		
+Database System Architectures: Centralized and Client-Server Architectures -– Server System Architectures –- Parallel Systems -- Distributed Systems; Parallel Databases: I/O Parallelism -– Inter and Intra Query Parallelism –- Inter and Intra operation Parallelism –- Design of Parallel Systems; Distributed Database Concepts: Distributed Data Storage –- Distributed Transactions –- Commit Protocols –- Concurrency Control –- Distributed Query Processing -- Case Studies.  
 
 {{{unit}}}
-| Unit II | Intelligent Databases | 9 |
-Active Databases: Syntax and Semantics (Starburst, Oracle, DB2) --
-Taxonomy- Applications -- Design Principles for Active Rules; Temporal
-Databases: Overview of Temporal Databases TSQL2 -- Deductive
-Databases--Recursive Queries in SQL; Spatial Databases: Spatial Data
-Types -- Spatial Relationships-- Spatial Data Structures--Spatial
-Access Methods-- Spatial DB Implementation.
+|Unit II|Object and Object-Relational Databases|9|
+Object Database Concepts: Object-Oriented Concepts and Features -- Object Identity, and Objects versus Literals -- Complex Type Structures for Objects and Literals -- Encapsulation of Operations and Persistence of Objects -- Type Hierarchies and Inheritance -- Other Object-Oriented Concepts; Object-Relational Features: Object Database Extensions to SQL; ODMG Object Model and ODL -- Object Database Conceptual Design -- Object Query Language OQL -- C++ Language Binding in the ODMG Standard.
 
 {{{unit}}}
-|Unit III|XML Databases |9| 
-XML Databases: XML Data Model - DTD - XML Schema - XML Querying -- Web
-Databases - Open Database Connectivity-- JDBC.
+|Unit III|XML And Web Databases |9| 
+XML Databases: XML Data Model –- DTD –- XML Schema –- XML Querying -- XML Languages -- Extracting XML Documents from Relational Databases; Introduction to Web Database.
 
 {{{unit}}}
 |Unit IV|Mobile Databases |9| 
-Mobile Databases: Location and Handoff Management -- Effect of
-Mobility on Data Management -- Location Dependent Data Distribution --
-Mobile Transaction Models --Concurrency Control -- Transaction Commit
-Protocols -- Mobile Database Recovery Schemes.
+Mobile Databases: Location and Handoff Management; Effect of Mobility on Data Management: Data Categorization -- Location Dependent Data Distribution ; Mobile Transaction Models: HiCoMo -- Moflex -- Kangaroo -- MDSTPM --Mobilaction; Concurrency Control Mechanism -- Transaction Commit Protocols -- Mobile Database Recovery Schemes.
 
 {{{unit}}}
-|Unit V|Multimedia Databases |9|
-Multidimensional Data Structures - Image Databases - Text / Document
-Databases - Video Databases - Audio Databases - Multimedia Database
-Design.
+|Unit V|Intelligent Databases |9| 
+Active Databases: Syntax and Semantics (Starburst, Oracle, DB2) -- Taxonomy- Applications -- Design Principles for Active Rules; Temporal Databases: Overview of Temporal Databases TSQL2 -- Deductive Databases--Recursive Queries in SQL; Spatial Databases: Spatial Data Types -- Spatial Relationships-- Spatial Data Structures--Spatial Access Methods-- Spatial DB Implementation; Multimedia Database Concepts.
 
 \hfill *Total: 45*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
-- To develop skills on parallel and distributed databases. 
-- To analyze each type of intelligent databases and its necessity.
-- To describe and design web databases. 
-- Learn and analyze mobile and multimedia databases
+- Understand the parallel and distributed databases. (K3)
+- Apply the object oriented database concepts and features.(K3)
+- Describe and design XML databases. (K3)
+- Understand the mobile databases and its transaction models.(K2)
+- Understand the different types of intelligent databases.(K2)
 
 
       
 ** References
-1. C. J. Date, A. Kannan, S. Swamynathan, ``An Introduction to
-   Database Systems'', Eighth Edition, Pearson Education, 2006.
-2. Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard
-   T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ``Advanced Database
-   Systems'', Morgan Kaufmann publishers,2006.
-3. Henry F Korth, Abraham Silberschatz, S. Sudharshan,``Database
-   System Concepts'', Sixth Edition, McGraw Hill, 2011.
-4. R. Elmasri, S. B. Navathe,``Fundamentals of Database Systems'',
-   Sixth Edition, Pearson Education/Addison Wesley, 2010.
-5. Vijay Kumar, ``Mobile Database Systems'', John Wiley & Sons, 2006.
+1.R. Elmasri, S.B. Navathe,``Fundamentals of Database Systems'', Sixth Edition, Pearson Education/Addison Wesley, 2010. (Units I, II, III, V)
 
+2.Vijay Kumar, ``Mobile Database Systems'', John Wiley & Sons, 2006. (Unit IV)
+
+3.Henry F Korth, Abraham Silberschatz, S. Sudharshan,``Database System Concepts'', Sixth Edition, McGraw Hill, 2011. 
+
+4.C.J.Date, A.Kannan, S.Swamynathan, ?``An Introduction to Database Systems'', Eighth Edition, Pearson Education, 2006. 
+
+5.Carlo Zaniolo, Stefano Ceri, Christos Faloutsos, Richard T.Snodgrass, V.S.Subrahmanian, Roberto Zicari, ``Advanced Database Systems'', Morgan Kaufmann publishers,2006. 
