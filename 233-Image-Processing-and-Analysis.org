@@ -53,7 +53,7 @@ Watermarking Color Images: Color Models; Smoothing and Sharpening --
 Segmentation based on Color -- Noise in Color Images
 
 {{{unit}}}
-|Unit V| CASE STUDIES IN IMAGE PROCESSING|8|
+|Unit V| Case Studies in Image Processing|8|
 Image Recognition : Fingerprint Recognition -- Image Classification :
 Tumor classification from Medical Image -- Image Understanding: CBIR
 -- Image Fusion: Statellite image enhancement -- Object tracking:
@@ -71,7 +71,7 @@ After the completion of this course, students will be able to:
       
 ** References
 1. Rafael C.Gonzalez, Richard E.Woods, ``Digital Image Processing'',
-   Third Edition, Pearson Education, 2008. (units I, II, III, IV)
+   Third Edition, Pearson Education, 2008. (Units I, II, III, IV)
 2. Anil K.Jain, ``Fundamentals of Digital Image Processing'',
    PHI, 2006.
 3. Rafael C.Gonzalez, Richard E.Woods, Eddins, ``Digital Image
