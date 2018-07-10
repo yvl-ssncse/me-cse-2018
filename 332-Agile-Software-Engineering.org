@@ -76,12 +76,12 @@ After the completion of this course, students will be able to:
 ** References
 1. Thomas Stober, Uwe Hansmann, Agile Software Development: Best
    Practices for Large Software Development Projects, Springer-Verlag
-   Berlin Heidelberg 2010.(unit 1)
+   Berlin Heidelberg 2010.(Unit 1)
 2. Mike Holcombe, Running an Agile Software Development Project,
    University of Sheffield, United Kingdom, John Wiley &amp; Sons,
-   Inc., Hoboken, New Jersey, 2008.(unit 2,3)
+   Inc., Hoboken, New Jersey, 2008.(Unit 2,3)
 3. Christoph Schmidt, Agile Software Development Teams, Springer
-   International Publishing Switzerland 2016. (unit 4)
-4. Dingsoyr, Torgeir, Dyba, Tore, Moe, Nils Brede (Eds.), ?Agile
+   International Publishing Switzerland 2016. (Unit 4)
+4. Dingsoyr, Torgeir, Dyba, Tore, Moe, Nils Brede (Eds.), Agile
    Software Development, Current Research and Future Directions?,
-   Springer-Verlag Berlin Heidelberg, 2010 (unit 5)
+   Springer-Verlag Berlin Heidelberg, 2010 (Unit 5)
