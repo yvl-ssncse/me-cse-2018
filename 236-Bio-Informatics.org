@@ -58,11 +58,10 @@ synteny block construction -open problems and technologies.
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Deploy the genomics technologies in Bioinformatics.
-- Able to distinct efficient algorithm and issues.
-- Deploy the replication and molecular clocks in bioinformatics.
-- Work on assemble genomes and sequences.
-- Use the Microarray technologies for genome expression.
+- Understand the genomics technologies in Bioinformatics (K2)
+- Deploy the replication and molecular clocks in bioinformatics.(K3)
+- Understand how to assemble genomes and sequences.(K2)
+- Apply the Microarray technologies for genome expression(K3).
 
 ** References
 1. Ion Mandoiu and Alexander Zelikovsky , ``Computational Methods for
