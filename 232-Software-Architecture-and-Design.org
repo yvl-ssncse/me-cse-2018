@@ -17,7 +17,7 @@
 - To develop appropriate architectures for various Case studies like semantic web services, supply chain cloud services.
 
 {{{unit}}}
-|Unit I|Software Architecture Basics|10| 
+|Unit I|Software Architecture Basics|9| 
 Introduction to Software Architecture -- Bridging Requirements and
 Implementation -- Design Guidelines : Software quality attributes --
 Software Architecture Design Space; Agile Approach to Software
@@ -64,11 +64,11 @@ Supply chain cloud service management; Semantic Web Services.
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Understand the need of software architecture for sustainable dynamic
-  systems and adapt to the system according to the need.
-- Have a sound knowledge on design principles and to apply for large scale systems
-- Design architectures for distributed heterogeneous systems
-- Have good knowledge on service oriented and model driven architectures and the aspect oriented architecture.
-- Have a working knowledge to develop appropriate architectures through various case studies.
+  systems and adapt to the system according to the need(K2)
+- Have a sound knowledge on design principles and to apply for large scale systems(K3)
+- Design architectures for distributed heterogeneous systems(K3)
+- Have good knowledge on service oriented and model driven architectures and the aspect oriented architecture.(K2)
+- Have a working knowledge to develop appropriate architectures through various case studies.(K2)
 
 ** References
 1. Ion Gorton, ``Essentials of Software Architecture'',  Second Edition, Springer- verlag, 2011.
