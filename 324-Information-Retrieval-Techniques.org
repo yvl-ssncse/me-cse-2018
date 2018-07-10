@@ -18,7 +18,7 @@
 - To explore various IR applications using case studies
 
 {{{unit}}}
-|Unit I|Introduction and Modeling|10| 
+|Unit I|Introduction and Modeling|9| 
 Basic Concepts: Retrieval process -- Architecture -- Boolean
 retrieval; IR Models: Taxonomy and characterization of IR models --
 Classical IR models -- Alternative set theoretic models -- Alternative
