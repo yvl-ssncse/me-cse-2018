@@ -9,41 +9,30 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To understand the concepts of web application development.
-- To learn web application development using JavaScript based
-  frameworks.
-- To learn web application development using Python based frameworks. 
-
+- To understand the concepts of web site development
+- To learn the basics of python
+- To learn web application development using Python based framework
+ 
 {{{unit}}}
 |Unit I| Introduction |9|
-Web Essentials: Web clients, web servers, communication protocol, HTTP
-request and response message; HTML -- CSS -- Javascript: Built-in
-objects and event handling -- Servlets: Architecture, servlet life
-cycle, GET and POST requests, database connectivity programs.
-1. Create a website using HTML and CSS
-2. Write a script to demonstrate the use of events
+Web Essentials: Web clients, web servers, communication protocol, HTTP request and response message; HTML5: Tables – Lists – Image -- Control and semantic elements, audio and video controls -- CSS3 – Inline, embedded and external style sheets -– Rule cascading -– Inheritance -– Backgrounds -– Border Images -– Colors -– Shadows –- Text –- Transformations –- Transitions –- Animations.
+1. Create a website using HTML5 and CSS3
 
 {{{unit}}}
-|Unit II| Client Side Framework |9|
-Introduction to AngularJS -- Anatomy of AngularJS application -- Data
-binding -- Model -- Module -- View -- Controller -- Expressions --
-Scope -- Table -- Select -- Form -- Validation -- DOM -- Event --
-Directives.
-1. Develop online exam web application using AngularJS 
+|Unit II| Client Side Programming |9|
+Introduction to Javascript –- Variables –- Data types –- Statements –- Operators –- Functions –-Objects -– Arrays -- Built-in objects -– Event handling -- Introduction to DOM –- The document tree -– Node object -– methods and properties -– Document object -– Methods and properties -– Addition and deletion of elements -– Modifying element style.
+1. Write a script to demonstrate the use of event handling
 
-# Why study two server-side frameworks, NodeJS and Django? One will do. 
+# Why study two server-side frameworks, NodeJS and Django? One will do.
 {{{unit}}}
-|Unit III| Server Side Framework|9|
-Introduction to NodeJS -- Event Loop -- Patterns -- Core APIs --
-EventEmitter -- Callback syntax -- Streams -- File system -- Buffers --
-Helper APIs -- Data Access -- NoSQL and Document stores -- MongoDB.
-1. Develop online banking web application using NodeJS
+|Unit III| Introduction to Python |9|
+Python interpreter and interactive mode -- Data types -- Expressions -- Statements -- Control flow -- Functions -- Strings -- Arrays -- Lists -- Tuples -- Sets -- Dictionaries -- Files -- Modules -- Packages -- Exception handling -- Classes and objects
+1. Implementation of linear and binary search
+2. Find the most frequent words using dictionaries
 
 {{{unit}}}
-|Unit IV| Django Basics|9|
-Python for Django: Python basics -- Standard types -- Flowcontrol --
-Exception handling -- Files -- Functions -- Object oriented programming --
-Regular expressions; Building a blog: Creating a project -- Running the
+|Unit IV|Web application using Django|9|
+Building a blog: Creating a project -- Running the
 development server -- Designing the model -- Setting up the database;
 Dynamic website basics -- MVC -- Django architecture - Defining and
 using the models: ORM -- URL configurations -- Modelling HTTP --
@@ -51,7 +40,7 @@ Views/Logics - Templates and form processing.
 1. Develop Library Management System using MVC Django Architecture
 
 {{{unit}}}
-|Unit V|Advanced Django |9|
+|Unit V|Web application using Advanced Django |9|
 Django applications: Photo gallery -- Content management system --
 Liveblog; Advanced Django programming: Customizing the admin --
 Syndication -- Generating downloadable files -- Enhancing Django’s ORM
@@ -63,16 +52,14 @@ Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 
 ** Course Outcomes:
 After the completion of this course, students will be able to:
-- Create website using HTML and CSS (K3).
-- Develop web applications using script based frameworks (K3).
-- Develop web applications using Python based framework (K3).
+- Create website using HTML and CSS (K3)
+- Write programs using python (K3)
+- Develop web applications using Python based framework (K3)
 
 ** References
 1. Jeffrey C Jackson, ``Web Technologies A Computer Science
    Perspective'', Pearson Education, 2011. (unit I)
-2. Brad Green and Shyam Seshadri, ``AngularJS'', First Edition,
-   O'Reilly Media, 2013. (unit II)
-3. Tom Hughes-Crouchers and Mike Wilson, ``Node: Up and Running'',
-   First Edition, O'Reilly Media, 2012. (unit III)
+2. Deitel and Deitel and Nieto, ``Internet and World Wide Web - How to Program'', Prentice Hall, 5th Edition, 2011. (unit II)
+3. Allen B Downey, ``Think python: How to think like a computer scientist'', Second Edition, Updated for Pythom3 Shroff/O'Reilly publishers, 2016. (unit III)
 4. Jeff forcier, Paul bissex and Wesley chun, ``Python web development
    with Django'', Addison-Wesley Professional, 2008. (unit IV, V)
