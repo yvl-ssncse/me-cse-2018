@@ -16,19 +16,15 @@
 {{{unit}}}
 |Unit I| Introduction |9|
 Web Essentials: Web clients, web servers, communication protocol, HTTP request and response message; HTML5: Tables – Lists – Image -- Control and semantic elements, audio and video controls -- CSS3 – Inline, embedded and external style sheets -– Rule cascading -– Inheritance -– Backgrounds -– Border Images -– Colors -– Shadows –- Text –- Transformations –- Transitions –- Animations.
-1. Create a website using HTML5 and CSS3
 
 {{{unit}}}
 |Unit II| Client Side Programming |9|
 Introduction to Javascript –- Variables –- Data types –- Statements –- Operators –- Functions –-Objects -– Arrays -- Built-in objects -– Event handling -- Introduction to DOM –- The document tree -– Node object -– methods and properties -– Document object -– Methods and properties -– Addition and deletion of elements -– Modifying element style.
-1. Write a script to demonstrate the use of event handling
 
 # Why study two server-side frameworks, NodeJS and Django? One will do.
 {{{unit}}}
 |Unit III| Introduction to Python |9|
 Python interpreter and interactive mode -- Data types -- Expressions -- Statements -- Control flow -- Functions -- Strings -- Arrays -- Lists -- Tuples -- Sets -- Dictionaries -- Files -- Modules -- Packages -- Exception handling -- Classes and objects
-1. Implementation of linear and binary search
-2. Find the most frequent words using dictionaries
 
 {{{unit}}}
 |Unit IV|Web application using Django|9|
@@ -37,7 +33,6 @@ development server -- Designing the model -- Setting up the database;
 Dynamic website basics -- MVC -- Django architecture - Defining and
 using the models: ORM -- URL configurations -- Modelling HTTP --
 Views/Logics - Templates and form processing.
-1. Develop Library Management System using MVC Django Architecture
 
 {{{unit}}}
 |Unit V|Web application using Advanced Django |9|
@@ -45,8 +40,6 @@ Django applications: Photo gallery -- Content management system --
 Liveblog; Advanced Django programming: Customizing the admin --
 Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 -- Extending the template system; Advanced Django deployment.
-1. Develop Inventory Management System using Django Framework 
-
 
 \hfill *Total: 45*
 
