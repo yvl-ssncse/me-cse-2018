@@ -29,6 +29,7 @@ IoT Architecture: State of the Art -- Reference Model: Domain model -- informati
 {{{unit}}}
 | Unit III | IoT Protocols | 6 |
 Protocol Standardization for IoT -- Efforts –- M2M and WSN Protocols -– SCADA and RFID Protocols -– Unified Data Standards -– Protocols -– IEEE 802.15.4 -– Zigbee Architecture -– Network layer -- 6LowPAN -- CoAP  
+
 {{{unit}}}
 | Unit IV | Building IoT Systems | 6 |
 Logical design using Python -- IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspberry Pi -- Linux on Raspberry Pi  -- Interfaces --  Programming Raspberry Pi with Python -- Other IoT Platform:  Arduino.
