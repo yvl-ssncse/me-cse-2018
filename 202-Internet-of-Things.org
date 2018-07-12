@@ -21,22 +21,22 @@ M2M and IoT Technology Fundamentals -- Devices and gateways, Local and wide area
 
 
 {{{unit}}}
-|Unit II|IoT Reference Architecture|9| 
+|Unit II|IoT Reference Architecture|6| 
 IoT Architecture: State of the Art -- Reference Model: Domain model -- information model --functional model -- communication model -- IoT Reference Architecture: Functional View -- Information View 
 
 
 {{{unit}}}
-|Unit III|IoT Protocols|9| 
+|Unit III|IoT Protocols|6| 
 Protocol Standardization for IoT -- Efforts –- M2M and WSN Protocols -– SCADA and RFID Protocols -– Unified Data Standards -– Protocols -– IEEE 802.15.4 -– Zigbee Architecture -– Network layer -- 6LowPAN -- CoAP  
 
 
 {{{unit}}}
-|Unit IV|Building IoT Systems|9|
+|Unit IV|Building IoT Systems|6|
 Logical design using Python -- IoT Physical devices and Endpoints: Basic building blocks of IoT Device -- Raspberry Pi -- Linux on Raspberry Pi  -- Interfaces --  Programming Raspberry Pi with Python -- Other IoT Platform:  Arduino.
 
 
 {{{unit}}}
-|Unit V|Case Studeies and Real World Applications|9|
+|Unit V|Case Studeies and Real World Applications|6|
 Home Automation -- Weather monitoring  -- Smart irrigation -- Data Analytics for IoT -- Software & Management Tools for IoT Cloud Storage Models & Communication APIs -- Cloud for IoT 
 
 
