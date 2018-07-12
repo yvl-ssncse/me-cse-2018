@@ -54,6 +54,14 @@ Liveblog; Advanced Django programming: Customizing the admin --
 Syndication -- Generating downloadable files -- Enhancing Django’s ORM
 -- Extending the template system; Advanced Django deployment.
 
+Suggested mini-projects
+1.	Create a college website using HTML5 and CSS3
+2. Develop a MVC based web application for a Super Market Billing System. Use cookies as part of the web application
+3. Develop Library Management System using MVC Django Architecture
+4.	Develop Inventory Management System using Django Framework
+5. Develop a MVC based web application for Railway Reservation System using Django Framework
+
+
 \hfill *Total: 45*
 
 ** Course Outcomes:
