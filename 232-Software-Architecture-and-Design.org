@@ -1,8 +1,10 @@
-* <<<CP1232>>> SOFTWARE ARCHITECTURES AND DESIGN 
+* CP1232 SOFTWARE ARCHITECTURES AND DESIGN 
 :properties:
 :author: K. Vallidevi
 :date: 29 June 2018
 :end:
+
+#+startup: showall
 
 # in the title of the subject, architectures (plural) or architecture (singular)?
 {{{credits}}}

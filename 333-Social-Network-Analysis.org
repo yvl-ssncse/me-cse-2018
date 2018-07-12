@@ -1,8 +1,10 @@
-* <<<CP1333>>> SOCIAL NETWORK ANALYSIS 
+* CP1333 SOCIAL NETWORK ANALYSIS 
 :properties:
 :author: S Saraswathi, G Raghuraman
 :date: 26 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|

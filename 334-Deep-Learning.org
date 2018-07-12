@@ -1,8 +1,10 @@
-* <<<CP1334>>> DEEP LEARNING
+* CP1334 DEEP LEARNING
 :properties:
 :author: B Senthil Kumar, M Saritha
 :date: 29 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|

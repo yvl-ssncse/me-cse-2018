@@ -1,8 +1,10 @@
-* <<<CP1203>>> WEB APPLICATION DEVELOPMENT
+* CP1203 WEB APPLICATION DEVELOPMENT
 :properties:
 :author: B Prabavathy, V S Felix Enigo
 :date: 29 June 2018										
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 | L | T | P | C |

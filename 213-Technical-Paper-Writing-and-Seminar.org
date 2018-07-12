@@ -1,8 +1,10 @@
-* <<<CP2213>>> TECHNICAL PAPER WRITING AND SEMINAR
+* CP2213 TECHNICAL PAPER WRITING AND SEMINAR
 :properties:
 :author: R Kanchana
 :date: 11 July 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 | L | T | P | C |
@@ -27,7 +29,7 @@ and write as a report. The work involves the following steps:
 
 \hfill *Total: 30*
 
-* Course Outcomes
+** Course Outcomes
 At the end of this course, the students will be able to
 1. clearly talk and write reports about a given topic  (K3)
 2. identify a topic, collect literature, consolidate and report the survey (K4)

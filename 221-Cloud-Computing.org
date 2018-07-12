@@ -1,8 +1,10 @@
-* <<<CP1221>>> CLOUD COMPUTING
+* CP1221 CLOUD COMPUTING
 :properties:
 :author: Y V Lokeswari, N Sujaudeen
 :date: 27 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 | L | T | P | C |

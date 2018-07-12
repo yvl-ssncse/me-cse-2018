@@ -1,8 +1,10 @@
-* <<<CP1236>>> BIO INFORMATICS
+* CP1236 BIO INFORMATICS
 :properties:
 :author: R. S. Milton
 :date: 2 July 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|

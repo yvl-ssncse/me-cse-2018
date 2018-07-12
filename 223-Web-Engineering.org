@@ -1,8 +1,10 @@
-* <<<CP1223>>> WEB ENGINEERING
+* CP1223 WEB ENGINEERING
 :properties:									
 :author: B Prabavathy, S Manisha
 :date: 26 June 2018		
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|

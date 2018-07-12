@@ -1,8 +1,10 @@
-* <<<CP1224>>> NATURAL LANGUAGE PROCESSING
+* CP1224 NATURAL LANGUAGE PROCESSING
 :Properties:
 :author: D Thenmozhi, B Senthil Kumar
 :date: 28 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|

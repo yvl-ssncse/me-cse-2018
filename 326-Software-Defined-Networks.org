@@ -1,8 +1,10 @@
-* <<<CP1326>>> SOFTWARE DEFINED NETWORKS
+* CP1326 SOFTWARE DEFINED NETWORKS
 :properties:
 :author: S V Jansi Rani, N Sujaudeen
 :date: 27 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|

@@ -1,8 +1,10 @@
-* <<<CP1103>>> MULTI-CORE ARCHITECTURES AND GPU PROGRAMMING 
+* CP1103 MULTI-CORE ARCHITECTURES AND GPU PROGRAMMING 
 :properties:
 :author: DVV Prasad, K Lekshmi
 :date: 27 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|

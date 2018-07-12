@@ -1,8 +1,10 @@
-* <<<CP1233>>> IMAGE PROCESSING AND ANALYSIS
+* CP1233 IMAGE PROCESSING AND ANALYSIS
 :properties:
 :author: R Priyadharsini, S Manisha
 :date: 26 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|

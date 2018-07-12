@@ -1,8 +1,10 @@
-* <<<CP1235>>> BIO-INSPIRED COMPUTING
+* CP1235 BIO-INSPIRED COMPUTING
 :properties:
 :author: S Saraswathi
 :date: 26 June 2018
 :end:
+
+#+startup: showeall
 
 {{{credits}}}
 |L|T|P|C|

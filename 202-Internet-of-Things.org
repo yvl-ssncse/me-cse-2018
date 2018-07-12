@@ -1,8 +1,10 @@
-* <<<CP1202>>> INTERNET OF THINGS
+* CP1202 INTERNET OF THINGS
 :properties:
 :author: V S Felix Enigo, K R Sarath Chandran
 :date: 29 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 | L | T | P | C |

@@ -1,8 +1,10 @@
-* <<<CP1332>>> AGILE SOFTWARE ENGINEERING
+* CP1332 AGILE SOFTWARE ENGINEERING
 :properties:
 :author: A.Chamundeswari, K Vallidevi 
 :date: 30 June 2018
 :end:
+
+#+startup: showall
 
 {{{credits}}}
 |L|T|P|C|
