@@ -62,7 +62,7 @@ framework.
 8. Simulation of interdomain redistribution of RIP- OSPF
 9. Creation of Access Control List in the server firewall
 
-\hfill *Total: 15*
+\hfill *Total: 30*
 
 ** Course Outcomes
 After the completion of this course, students will be able to: 
