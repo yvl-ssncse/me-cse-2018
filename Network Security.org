@@ -1,0 +1,52 @@
+* Network Security
+:properties:
+:author: J Bhuvana / V. Balasubramanian
+:date: 12 July 2018
+
+|L|T|P|C|
+|3|0|0|3|
+ 
+** Course Objectives
+- To understand the various attacks.
+- To study about an essential of computer security.
+- To acquire knowledge on TCP/IP security, firewalls, IPSec, Virtual Private Networks, intrusion detection systems.
+- To understand how various security mechanisms work, and correlate these security mechanisms with security principles.
+- To apply security principles to solve problems.
+
+|UNIT I| TCP Attacks|9|
+Packet Snifﬁng and Spooﬁng: Packet Snifﬁng -- Packet Spooﬁng -- Snooﬁng: Snifﬁng and Spooﬁng; Attacks on the TCP Protocol: 
+TCP Protocol Working -- SYN Flooding Attack -- TCP Reset Attack  -- TCP Session Hijacking Attack 
+
+|UNIT II| Authentication and Standards|9|
+Authentication: Authentication Systems -- Authentication of People -- Symmetric Key Distribution Using Symmetric Encryption 
+-- Kerberos V4, V5 
+
+|UNIT III| Public Key Infrastructure|9|
+Attack on Public Key Cryptography -- Public Key Certiﬁcates: X.509 Authentication services - Attacks on PKI - Types of Digital Certificates  
+
+|UNIT IV| SECURITY PRACTICE & SYSTEM SECURITY|9||
+Internet Firewalls for Trusted System: Roles of Firewalls –- Types of Firewalls -- Netﬁlter -- Iptables -- Firewall design Principles -- 
+DNS Attacks -- Cache Poisoning -- SET for E-Commerce Transactions. Intruder – Intrusion detection system – Virus and related threats –
+Countermeasures 
+
+|UNIT V| E-MAIL, IP & WEB SECURITY|9|
+E-mail Security: Security Services for E-mail-attacks possible through E-mail -- establishing keys privacyauthentication
+of the source -- Message Integrity-Non-repudiation -- Pretty Good Privacy --S/MIME; IPSecurity: Overview of IPSec -- IP and IPv6
+--Authentication Header -- Encapsulation Security Payload (ESP)--Internet Key Exchange (Phases of IKE, ISAKMP/IKE Encoding);
+Web Security: SSL/TLS Basic Protocol--computing the keys--client authentication--PKI as deployed by SSLAttacks fixed in v3--
+Exportability-Encoding-Secure Electronic Transaction (SET).
+
+|TOTAL: |45|
+
+** Course Outcomes
+Upon the completion of the course the students should be able to: 
+- Classify and discuss various attacks (K3)
+- Design Secure applications (K3)
+- Inject secure coding in the developed applications (k3)
+
+** Text Book
+1. William Stallings, "Network Security Essentials: Applications and Standards" Sixth Edition, Pearson, 2017.
+
+** References
+1.	Charlie Kaufman, Radia Perlman and Mike Speciner , "Network Security: Private Communication in a Public World", Second Edition, Pearson Education, 2017.
+2.	Wenliang Du, "Computer Security: A Hands-on Approach”, CreateSpace Independent Publishing Platform, First Edition, 2017.
