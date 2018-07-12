@@ -1,0 +1,80 @@
+* CP1327 LOGIC IN COMPUTER SCIENCE
+:properties:
+:author: S Sheerazuddin
+:date: 11 July 2018
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** Course Objectives
+- To understand the need of logics for specification and verification
+  of computer systems.
+- To learn the syntax and semantics of various logics.
+- To learn the skill of writing formal specifications in various
+  logics.
+- To learn resolution for propositional and predicate logic.
+- To learn model checking algorithm for LTL and CTL.
+- To learn PROLOG.
+
+{{{unit}}}
+| Unit I | Propositional Logic | 9 |
+Foundations: Syntax and Semantics -- Mathematical Induction --
+Soundness and Completeness; Semantic Entailment: Natural Deduction;
+Normal Forms; SAT; Resolution; Horn Logic; DPLL; CDCL; SAT Solvers;
+Binary Decision Diagrams.
+
+{{{unit}}}
+| Unit II | Predicate Logic | 9 |
+Foundations: Syntax and Semantics; Semantic Entailment: Natural
+Deduction; Normal Forms; Undecidability of Predicate Logic; Herbrand’s
+Theory; Resolution: Ground Resolution -- Unification; Refinements of
+Resolution: P-resolution -- N-resolution -- linear resolution -- unit
+resolution -- SLD resolution -- LUSH resolution.
+
+{{{unit}}}
+| Unit III | Temporal Logics | 9 |
+Foundations; Linear-time temporal logic; Syntax of LTL--Semantics of
+LTL -- Practical patterns of specifications; Branching-time logic:
+Syntax of CTL -- Semantics of CTL -- Practical patterns of
+specifications; CTL* and the expressive powers of LTL and CTL;
+Model-checking algorithms: The CTL model-checking algorithm -- CTL
+model checking with fairness -- The LTL model-checking algorithm;
+NuSMV.
+
+{{{unit}}}
+| Unit IV | Logic Programming | 9 |
+Foundations: Answer Generation; Horn Clause Programs: Semantics of
+Logic Program -- Procedural Semantics -- Model-theoretic Semantics;
+Evaluation Strategies: Swapping Lemma -- PROLOG's Evaluation Strategy
+-- DFS -- BFS; PROLOG.
+
+{{{unit}}}
+| Unit V | Program Verification | 9 |
+Foundations; A framework for software verification: A core programming
+language -- Hoare triples -- Partial and total correctness -- Program
+variables and logical variables; Proof calculus for partial
+correctness: Proof rules -- Proof tableaux -- A case study:
+minimal-sum section; Proof calculus for total correctness; Programming
+by contract.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to:
+- Write specifications in predicate logic and temporal logics. (K3)
+- Apply resolution to solve semantic entailment. (K3)
+- Write logic programs in PROLOG. (K3)
+- Prove Hoare triples for simple programs. (K3)
+
+** References:
+1. M. Huth and M. Ryan, ``Logic in Computer Science--Modeling and
+   Reasoning About Systems'', Second Edition, Cambridge University
+   Press, 2004. (Units I,II,III and IV)
+2. Uwe Schoning ``Logic for Computer Scientists'', Birkhauser, 1989.
+   (Units I,II,IV)
+3. M. Ben-Ari, ``Mathematical Logic for Computer Science'', Second
+   Edition, Springer, 2003.

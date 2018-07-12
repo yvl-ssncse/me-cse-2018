@@ -1,0 +1,74 @@
+* CP1237 ADVANCED ALGORITHMS
+:properties:
+:author: S Kavitha
+:date: 12 July 2018
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** Course Objectives
+- To have a basic knowledge of computational tractability and
+  intractability,
+- To learn the concept of approximation algorithms, randomized
+  algorithms and parallel algorithms,
+- To understand the importance of local search in optimization
+  problems.
+
+{{{unit}}}
+| Unit I | Algorithm Analysis, NP and Computational Intractability | 9 |
+Basics of Algorithm Analysis: Computational Tractability -- Asymptotic
+Order of Growth; NP and Computational Intractability: Polynomial Time
+Reductions -- The Satisfiability Problem -- Efficient Certification
+and the Definition of NP -- NP Complete Problems -- Sequencing
+Problems -- Partitioning Problems -- Graph Coloring -- Taxonomy of
+Hard Problems.
+
+{{{unit}}}
+| Unit II | Approximation Algorithms | 9 |
+Approximation Algorithms: Greedy Algorithms and Bounds on the Optimum:
+A Load Balancing Problem -- The Center Selection Problem -- Set Cover:
+A General Greedy Heuristic -- The Pricing Method: Vertex Cover --
+Arbitrarily Good Approximations: The Knapsack Problem.
+
+{{{unit}}}
+| Unit III | Local Search | 9 |
+Local Search: The Landscape of an Optimization Problem -- The
+Metropolis Algorithm and Simulated Annealing -- An Application of
+Local Search to Hopfield Neural Networks -- Maximum-Cut Approximation
+via Local Search -- Choosing a Neighbor Relation.
+
+{{{unit}}}
+| Unit IV | Randomized Algorithms | 9 |
+Randomized Algorithms: Basic Probability Definitions -- A First
+Application: Contention Resolution -- Finding the Global Minimum Cut
+-- Random Variables and Their Expectations -- A Randomized
+Approximation Algorithm for MAX 3-SAT -- Randomized Divide and
+Conquer: Median-Finding and Quicksort -- Hashing: A Randomized
+Implementation of Dictionaries.
+
+{{{unit}}}
+| Unit V | Parallel Algorithms | 9 |
+Introduction: Parallel Processing -- Parallel Models -- Performance of
+Parallel algorithms; Searching, Merging and Sorting: Searching;
+Graphs: Connected Components -- Minimum Spanning Trees.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to:
+- Understand the importance of computational tractability and
+  intractability in algorithm analysis (K3).
+- Understand and differentiate between approximation algorithms,
+  randomized algorithms and parallel algorithms (K3).
+- Apply local search in optimization problems(K3).
+
+** References
+1. J Kleinberg, E Tardos, ``Algorithm Design'', Addison-Wesley, 2005.
+2. Joseph Jaja, ``An Introduction to Parallel Algorithms'', Addison
+   Wesley, 1992.
+3. S. Akl, ``Design and Analysis of Parallel Algorithms'', Prentice
+   Hall Inc, 1992.

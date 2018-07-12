@@ -1,0 +1,74 @@
+* CP1335 FORMAL VERIFICATION
+:properties:
+:author: S Sheerazuddin
+:date: 11 July 2018
+:end:
+
+#+startup: showall
+
+{{{credits}}}
+| L | T | P | C |
+| 3 | 0 | 0 | 3 |
+
+** Course Objectives
+- To understand the need of logics for specification and verification
+  of computer systems.
+- To learn program correctness using Hoare Logic.
+- To learn the skill of writing formal specifications in LTL and CTL.
+- To learn model checking algorithms for LTL and CTL.
+- To learn symbolic model checking for LTL and CTL.
+- To learn Bounded model checking for LTL.
+
+{{{unit}}}
+| Unit I | Foundations | 9 |
+Foundations; Propositional Logic: Syntax -- Semantics -- Resolution;
+Predicate Logic: Syntax -- Semantics -- Resolution; LTL; Syntax --
+Semantics -- Specifications in LTL; CTL: Syntax -- Semantics --
+Specifications in CTL; CTL* and the expressive powers of LTL and CTL
+
+| Unit II | Hoare Logic and Program Correctness | 9 |
+Foundations; A framework for program correctness: A core programming
+language -- Hoare triples -- Partial and total correctness -- Program
+variables and logical variables; Proof calculus for partial
+correctness: Proof rules -- Proof tableaux; Proof calculus for total
+correctness.
+
+| Unit III | Model Checking | 9 |
+Foundations; Model-checking algorithms: The CTL model-checking
+algorithm -- CTL model checking with fairness -- The LTL
+model-checking algorithm; CTL* Model-checking algorithm; Model
+Checking using Automata; Checking Emptiness; Translating LTL into
+Automata; On-the-fly Model checking.
+
+|Unit IV|Symbolic Model Checking|9|
+Binary Decision Diagrams: Representing Boolean formulas --
+Representing Kripke Structures; Fixpoint Representations; Symbolic
+Model Checking for CTL; Fairness in Symbolic Model Checking;
+Counterexamples and Witnesses; Relational Product Computations;
+Symbolic Model Checking for LTL; NuSMV.
+
+| Unit V | Bounded Model Checking | 9 |
+Foundations; SAT/SMT Solvers; Bounded Semantics of LTL; Propositional
+Encodings of LTL; Completeness; Induction; Interpolation; Completeness
+with Interpolation; Invariant Strengthening; Bounded Model Checking
+for Hybrid Automata.
+
+\hfill *Total: 45*
+
+** Course Outcomes
+After the completion of this course, students will be able to:
+- Prove partial correctness of simple programs using Hoare logic. (K3)
+- Write formal specifications in CTL and LTL. (K3)
+- Specify and Verify simple systems using NuSMV. (K3)
+- Write programs using SAT/SMT solvers. (K3)
+
+** References
+1. Edmund Clarke, Orna Grumberg, and Doron Peled, ``Model Checking'',
+   The MIT Press, 1999. (Units III and IV)
+2. M. Huth and M. Ryan, ``Logic in Computer Science--Modeling and
+   Reasoning about systems'', Second Edition, Cambridge University
+   Press, 2004. (Units I,II and III)
+3. Armin Biere ``Bounded Model Checking'', Handbook of Satisfiability,
+   IOS Press, 2009. (Unit V)
+4. C Baier and J Katoen, ``Principles of Model checking'', The MIT
+   Press, 2008.
