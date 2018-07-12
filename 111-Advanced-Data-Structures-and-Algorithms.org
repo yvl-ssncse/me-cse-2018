@@ -10,7 +10,7 @@
 
 ** Course Objectives
 - To learn advanced tree and graph structures.
-- To learn the need of heap and disjoint set representations.
+- To learn the need for heap and disjoint set representations.
 - To understand algorithm design techniques and apply suitable
   techniques for problems.
 
@@ -18,26 +18,26 @@
 - C, Java or Python
 
 ** Suggestive Exercises
-1. Insertion sort and merge Sort with complexity analysis
+1. Insertion sort and merge sort with complexity analysis
 2. Application of binary search trees 
-3. Red-Black Tree
-4. Min heap, Fibonacci heap 
+3. Red-Black Trees
+4. Min heaps, Fibonacci heaps 
 5. Disjoint sets
 6. Application of graph traversals -- BFS and DFS 
-7. Single source Shortest Path Algorithms: Dijkstra's and Bellman Ford Algorithms
-8. All-pairs Shortest Path Algorithms: Floyd's algorithm
+7. Single source Shortest Path Algorithms (e.g. Dijkstra's and Bellman
+   Ford algorithms)  
+8. All-pairs Shortest Path Algorithms: (e.g. Floyd's algorithm)
 9. Dynamic programming (e.g. Longest common subsequence, 0/1 Knapsack)
-10. Recursive backtracking (e.g. N-queen’s problem)
+10. Recursive backtracking (e.g. N-Queen’s problem)
 11. Greedy technique (e.g. Job/event scheduling, Minimum spanning tree)
 12. Mini project: For a given application, identify and solve using
-    suitable data structure and design techniques
+    suitable data structures and design techniques
  
 \hfill *Total: 60*
 
 ** Course Outcomes
 After the completion of this course, students will be able to:
-- Implement basic data structures and sorting algorithms with
-  analysis (K4).
+- Implement basic data structures and sorting algorithms (K4).
 - Implement algorithms using tree and graph structures (K3).
 - Design and develop efficient algorithms for problems, using algorithm
   design techniques (K3).

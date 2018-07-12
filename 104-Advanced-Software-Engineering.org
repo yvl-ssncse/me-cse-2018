@@ -34,7 +34,7 @@ stories -- Identifying stories and preparing to build; Agile testing
 -- Designing the system tests -- Units and their tests.
 
 {{{unit}}}
-|Unit III|Devops|9| 
+|Unit III|DevOps |9| 
 DevOps: introduction -- Cloud as a platform -- Operations; Deployment
 Pipeline: Overall architecture -- Building and testing -- Deployment;
 Cross Cutting Concerns: Monitoring -- Security and security audits.

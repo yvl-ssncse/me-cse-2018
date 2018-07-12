@@ -5,15 +5,15 @@
 :end:
 
 {{{credits}}}
-|L|T|P|C|
-|3 |0|0|3 |
+| L | T | P | C |
+| 3 | 0 | 2 | 4 |
 
 ** Course Objectives
-- To understand the design of Operating Systems.
+- To understand the design of operating systems.
 - To learn about the contemporary operating systems.
-- To explore the design of Mobile Operating Systems.  
-- To apply the knowledge of scheduling in Real-Time problems.  
-- To apply the knowledge of resource handling techniques on Real-Time
+- To explore the design of mobile operating systems.  
+- To apply the knowledge of scheduling in real-time problems.  
+- To apply the knowledge of resource handling techniques on real-time
   problems.
 
 {{{unit}}}
@@ -76,4 +76,3 @@ After the completion of this course, students will be able to:
 6. Joshua Drake et al, ``Android Hackers Handbook'', Wiley, 2014
 7. Francis Cottet, Joelle Delacroix, et al, ``Scheduling in Real-Time
    Systems'', Wiley, 2002
-

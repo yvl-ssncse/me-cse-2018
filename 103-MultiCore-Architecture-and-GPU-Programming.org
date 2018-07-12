@@ -53,8 +53,7 @@ After the completion of this course, the students will be able to:
 - Understand the features and issues of MIMD systems (K2).
 - Understand the features of SIMD systems (K2).
 - Develop the programs using CUDA (K3).
-- Apply and identify the issues in CUDA programming and debug them
-  (K3).
+- Apply and identify the issues in CUDA programming (K3).
       
 ** References
 1. John L. Hennessey and David A. Patterson, ``Architecture -- A

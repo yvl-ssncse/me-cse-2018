@@ -1,0 +1,35 @@
+* <<<CP2213>>> TECHNICAL PAPER WRITING AND SEMINAR
+:properties:
+:author: R Kanchana
+:date: 11 July 2018
+:end:
+
+{{{credits}}}
+| L | T | P | C |
+| 0 | 0 | 2 | 1 |
+
+** Course Objectives
+   - To develop scientific and technical reading and writing skills
+   - To understand and construct research articles. 
+
+A technical paper or report requires a student to obtain information
+from a variety of sources (i.e., Journals, dictionaries, reference
+books, conference proceedings, etc.), consolidate, draw conclusions
+and write as a report. The work involves the following steps:
+1. Selecting an area, narrowing the area into a topic
+2. Stating an objective
+3. Collecting the relevant literature 
+4. Reading the papers, understanding the contributions of the authors,
+   preparing an abstract or outline of the paper and discussing
+5. Critically analysing each paper that have been read, linking them and drawing conclusions.
+6. Writing the technical report about the topic, literature, comparison and observation 
+7.Presenting the report
+
+\hfill *Total: 30*
+
+* Course Outcomes
+At the end of this course, the students will be able to
+1. clearly talk and write reports about a given topic  (K3)
+2. identify a topic, collect literature, consolidate and report the survey (K4)
+3. make an effective presentation of their survey and observations (K3)
+

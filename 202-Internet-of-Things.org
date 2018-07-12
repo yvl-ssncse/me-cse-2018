@@ -16,7 +16,7 @@
 
 
 {{{unit}}}
-|Unit I|Introduction|9| 
+| Unit I | Introduction | 6 |
 M2M and IoT Technology Fundamentals -- Devices and gateways, Local and
 wide area networking, Data management, Business processes in IoT,
 Everything as a service (XaaS), M2M and IoT analytics, Knowledge
@@ -25,34 +25,34 @@ management. IoT-An Architectural overview -- Building an architecture
 architecture outline -- standards considerations.
 
 {{{unit}}}
-|Unit II|IoT Reference Architecture|9| 
+| Unit II | IoT Reference Architecture | 6 |
 IoT Architecture: State of the art -- Reference Model: Domain model --
 information model --functional model -- communication model -- IoT
 Reference architecture: Functional view -- Information view --
 Deployment and Operational view.
 
 {{{unit}}}
-|Unit III|IoT Protocols|9| 
+| Unit III | IoT Protocols | 6 |
 Protocol Standardization for IoT -- Efforts –- M2M and WSN protocols
 -– SCADA and RFID protocols -– Unified data standards -– Protocols -–
 IEEE 802.15.4 -– BACNet protocol -– Modbus -– Zigbee architecture -–
 Network layer -- 6LowPAN -- CoAP
 
 {{{unit}}}
-|Unit IV|Building IoT Systems|9|
+| Unit IV | Building IoT Systems | 6 |
 Logical design using Python -- IoT Physical devices and endpoints:
 Basic building blocks of IoT device -- Raspberry Pi -- Linux on
 Raspberry Pi -- Interfaces -- Programming Raspberry Pi with Python --
 Other IoT platform: Arduino.
 
 {{{unit}}}
-|Unit V|Case Studeies and Real World Applications|9|
+| Unit V | Case Studeies and Real World Applications | 6 |
 Home automation -- Cities: Smart parking – Environment: Weather
 monitoring -- Agriculture: Smart irrigation -- Data analytics for IoT
 -- Software & management tools for IoT cloud storage models &
 Communication APIs -- Cloud for IoT -- Amazon Web Services for IoT.
 
-\hfill *Total: 45*
+\hfill *Total: 30*
 
 ** Suggestive Exercises (using Arduino / Raspberry Pi Board)
 1. Study of Arduino and Raspberry Pi Board

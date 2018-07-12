@@ -59,10 +59,10 @@ After the completion of this course, students will be able to
 - Use statistical tests in testing hypotheses on data.
 - Perform exploratory analysis of multivariate data, such as
   multivariate normal density, calculating descriptive statistics,
-  testing for multivariate normality. 
-The students should have the ability to use the appropriate and
-relevant, fundamental and applied mathematical and statistical
-knowledge, methodologies and modern computational tools.
+  testing for multivariate normality.
+- Use of the appropriate and relevant, fundamental and applied
+  mathematical and statistical knowledge, methodologies and modern
+  computational tools.
 
 ** References
    1. Devore J. L., ``Probability and Statistics for Engineering and

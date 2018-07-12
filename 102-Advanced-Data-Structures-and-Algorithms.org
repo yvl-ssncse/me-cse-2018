@@ -10,8 +10,7 @@
 
 ** Course Objectives
 - To understand the use of algorithms in computing.
-- To use hierarchical data structures.
-- To apply graphs for solving problems.
+- To learn develop algorithms using hierarchical data structures.
 - To select and use data structures and algorithms appropriate to the
   problems.
 - To study about NP hard and NP completeness of problems. 
@@ -59,10 +58,10 @@ NP-Completeness -- 3-Coloring -- Bipartite Matching.
 ** Course Outcomes
 After the completion of this course, students will be able to: 
 - Analyse the complexity of algorithms (K3).
-- Compare and choose suitable data structure to solve computing problems (K4).
-- Develop optimal algorithms using tree and graph data structure (K3).
-- Apply suitable design technique for problem solving (K4).
-- Identify P and NP type problems (K2).
+- Compare and choose suitable data structures to solve computing problems (K4).
+- Develop optimal algorithms using tree and graph data structures (K3).
+- Apply suitable design techniques for problem solving (K4).
+- Identify NP type problems (K2).
       
 ** References
 1. Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford
@@ -73,6 +72,6 @@ After the completion of this course, students will be able to:
 3. Alfred V. Aho, John E. Hopcroft, Jeffrey D. Ullman, ``Data
    Structures and Algorithms'', Pearson Education, Reprint 2006.
 4. Robert Sedgewick and Kevin Wayne, ``Algorithms'', Fourth Edition,
-   Pearson Education.
+   Pearson Education, 2012
 5. S. Sridhar, ``Design and Analysis of Algorithms'', First Edition,
    Oxford University Press, 2014
