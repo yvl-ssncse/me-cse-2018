@@ -26,6 +26,7 @@ Predicate Logic: Syntax -- Semantics -- Resolution; LTL; Syntax --
 Semantics -- Specifications in LTL; CTL: Syntax -- Semantics --
 Specifications in CTL; CTL* and the expressive powers of LTL and CTL
 
+{{{unit}}}
 | Unit II | Hoare Logic and Program Correctness | 9 |
 Foundations; A framework for program correctness: A core programming
 language -- Hoare triples -- Partial and total correctness -- Program
@@ -33,6 +34,7 @@ variables and logical variables; Proof calculus for partial
 correctness: Proof rules -- Proof tableaux; Proof calculus for total
 correctness.
 
+{{{unit}}}
 | Unit III | Model Checking | 9 |
 Foundations; Model-checking algorithms: The CTL model-checking
 algorithm -- CTL model checking with fairness -- The LTL
@@ -40,6 +42,7 @@ model-checking algorithm; CTL* Model-checking algorithm; Model
 Checking using Automata; Checking Emptiness; Translating LTL into
 Automata; On-the-fly Model checking.
 
+{{{unit}}}
 |Unit IV|Symbolic Model Checking|9|
 Binary Decision Diagrams: Representing Boolean formulas --
 Representing Kripke Structures; Fixpoint Representations; Symbolic
@@ -47,6 +50,7 @@ Model Checking for CTL; Fairness in Symbolic Model Checking;
 Counterexamples and Witnesses; Relational Product Computations;
 Symbolic Model Checking for LTL; NuSMV.
 
+{{{unit}}}
 | Unit V | Bounded Model Checking | 9 |
 Foundations; SAT/SMT Solvers; Bounded Semantics of LTL; Propositional
 Encodings of LTL; Completeness; Induction; Interpolation; Completeness
