@@ -70,7 +70,7 @@ After the completion of this course, students will be able to:
 - Write logic programs in PROLOG. (K3)
 - Prove Hoare triples for simple programs. (K3)
 
-** References:
+** References
 1. M. Huth and M. Ryan, ``Logic in Computer Science--Modeling and
    Reasoning About Systems'', Second Edition, Cambridge University
    Press, 2004. (Units I,II,III and IV)
