@@ -84,22 +84,22 @@ Upon the completion of the course the students should be able to:
 
 # we should reduce the number of references (RSM)
 ** References
-1. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
-   Guide'', McGraw-Hill Osborne Media, 2009. (Units II, III)
-2. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
-   for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. (Units
-   II, III)
-3. William von Hagen, ``Professional Xen Virtualization'', Wrox
-   Publications, January, 2008. (Unit II)
-4. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization:
-   VMware and Microsoft Platform in the Virtual Data Center'',
-   Auerbach Publications, 2006. (Unit III)
-5. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
+1. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
    Learning and Implementation'', Pearson Education
    India, 2014. (Units I, II, III, IV)
-6. Kai Hwang, Geoffrey C Fox, Jack G Dongarra, ``Distributed and Cloud
+2. Kai Hwang, Geoffrey C Fox, Jack G Dongarra, ``Distributed and Cloud
    Computing, From Parallel Processing to the Internet of Things'',
    Morgan Kaufmann Publishers, 2012. (Units I, II, IV)
+3. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
+   Guide'', McGraw-Hill Osborne Media, 2009. (Units II, III)
+4. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
+   for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. (Units
+   II, III)
+5. William von Hagen, ``Professional Xen Virtualization'', Wrox
+   Publications, January, 2008. (Unit III)
+6. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization:
+   VMware and Microsoft Platform in the Virtual Data Center'',
+   Auerbach Publications, 2006. (Unit III)
 7. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
     To Secure Cloud Computing'', Wiley Publishing, 2010. (Unit V)
 8. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
