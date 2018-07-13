@@ -85,32 +85,24 @@ Upon the completion of the course the students should be able to:
 # we should reduce the number of references (RSM)
 ** References
 1. Danielle Ruest, Nelson Ruest, ``Virtualization: A Beginner's
-   Guide'', McGraw-Hill Osborne Media, 2009. (Units I, II)
+   Guide'', McGraw-Hill Osborne Media, 2009. (Units II, III)
 2. James E. Smith, Ravi Nair, ``Virtual Machines: Versatile Platforms
    for Systems and Processes'', Elsevier/Morgan Kaufmann, 2005. (Units
-   I, II)
+   II, III)
 3. William von Hagen, ``Professional Xen Virtualization'', Wrox
    Publications, January, 2008. (Unit II)
 4. David Marshall, Wade A. Reynolds, ``Advanced Server Virtualization:
    VMware and Microsoft Platform in the Virtual Data Center'',
-   Auerbach Publications, 2006. (Unit II)
+   Auerbach Publications, 2006. (Unit III)
 5. Srinivasan A, Suresh J, ``Cloud Computing: A practical Approach for
    Learning and Implementation'', Pearson Education
    India, 2014. (Units I, II, III, IV)
 6. Kai Hwang, Geoffrey C Fox, Jack G Dongarra, ``Distributed and Cloud
    Computing, From Parallel Processing to the Internet of Things'',
-   Morgan Kaufmann Publishers, 2012. (Units II, III)
-7. Chris Hay, Brian Prince, ``Azure in Action'', Manning
-   Publications, 2010. (Unit IV)
-8. Eugene Ciurana, ``Developing with Google App Engine'', 1 edition,
-   Apress, 2009. (Unit IV)
-9. Kevin Jackson, Cody Bunch, ``OpenStack Cloud computing Cookbook'',
-   Second Edition, Packt Publishing, 2013. (Unit IV)
-10. Giovanni Toraldo, ``OpenNebula 3 Cloud Computing'', Packt
-    Publishing, 2012. (Unit IV)
-11. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
+   Morgan Kaufmann Publishers, 2012. (Units I, II, IV)
+7. Krutz, R. L., Vines, R. D, ``Cloud security. A Comprehensive Guide
     To Secure Cloud Computing'', Wiley Publishing, 2010. (Unit V)
-12. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
+8. Tim Mather, Subra Kumaraswamy, and Shahed Latif , ``Cloud Security
     and Privacy: an enterprise perspective on risks and compliance'',
     O‘Reilly Media, Inc., 2009. (Unit V)
 
